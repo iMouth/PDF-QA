@@ -2,7 +2,7 @@
     "paper_id": "The Computational Development of Reinforcement Learning during Adolescence",
     "header": {
         "generated_with": "S2ORC 1.0.0",
-        "date_generated": "2023-03-29T13:32:50.371749Z"
+        "date_generated": "2023-03-31T14:39:26.731508Z"
     },
     "title": "The Computational Development of Reinforcement Learning during Adolescence",
     "authors": [
@@ -4647,116 +4647,116 @@
         },
         "ref_entries": {
             "FIGREF0": {
-                "uris": null,
+                "fig_num": "1",
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Task design. (A)",
-                "fig_num": "1"
+                "num": null
             },
             "FIGREF1": {
-                "uris": null,
+                "fig_num": null,
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Fig 1 was adapted by the authors from a figure originally published in [15], licensed under CC BY 4.0. doi:10.1371/journal.pcbi.1004953.g001",
-                "fig_num": null
+                "num": null
             },
             "FIGREF2": {
-                "uris": null,
+                "fig_num": "2",
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Computational models and ex-ante model simulations. (A)",
-                "fig_num": "2"
+                "num": null
             },
             "FIGREF3": {
-                "uris": null,
+                "fig_num": "3",
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Baseline model fitting and model comparison. (A) Choice inverse temperature (\u03b2) of each model for adults (dark grey) and adolescents (light grey). (B). Posterior probability (PP) of each model for adults (dark grey) and adolescents (light grey). The dotted line indicates chance level (0.33). # P<0.05; 2-sided, one-sample, t-tests; *P<0.001; 2-sided, independent samples, t-tests. Error bars represent s.e.m. doi:10.1371/journal.pcbi.1004953.g003",
-                "fig_num": "3"
+                "num": null
             },
             "FIGREF4": {
-                "uris": null,
+                "fig_num": "4",
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Correct choice rate. (A) Learning curves in adolescents (left) and adults (right). The bold lines within the shaded areas represent the actual behavioural data (bold lines represent mean correct choice rate; shaded areas represent s.e.m). The behavioural data are superimposed with the expost model-simulated learning curves, estimated using parameters from each age group's best fitting model (Model 1 for adolescents; Model 3 for adults). The dots represent the model-simulated mean correct choice probabilities. (B) Bars represent the correct choice rate improvement (difference in correct choice rate between last and first trials) and the final correct choice rate (last trial) in Reward (leftmost panel) and Punishment (rightmost panel) contexts. Chance level (i.e. no learning) is 0.0 for correct choice rate improvement, and 0.5 for final correct choice rate. Error bars represent s.e. m. *P<0.05: independent samples t-test (2-sided). doi:10.1371/journal.pcbi.1004953.g004",
-                "fig_num": "4"
+                "num": null
             },
             "FIGREF5": {
-                "uris": null,
+                "fig_num": "5",
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Reaction times. (A) Reaction time (RT) curves in adolescents (left) and adults (right). The bold lines within the shaded areas represent the mean RT. The shaded areas represent the s.e.m. (B) Bars represent the RT reduction (difference in RT between last and first trials) and the final RT (last trial) in the Partial (leftmost panel) and the Complete (rightmost panel) feedback contexts. Error bars represent the s.e.m. *P<0.05: independent-samples t-test (2-sided). doi:10.1371/journal.pcbi.1004953.g005",
-                "fig_num": "5"
+                "num": null
             },
             "FIGREF6": {
-                "uris": null,
+                "fig_num": "6",
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Post-learning test. (A) Bars represent the choice rate observed in the post-learning test, in adolescents (left) and adults (right). G75 and G25: options associated with 75% and 25% chance of gaining a point, respectively; L75 and L25: options associated with 75% and 25% chance of losing a point, respectively. The behavioural data are superimposed with coloured dots representing the model-simulated post-learning choices, estimated using parameters from each age group's best fitting model (Model 1 for adolescents; Model 3 for adults).(B) Bars represent cue discrimination, the difference between post-learning choice-rates for Correct vs. Incorrect cues (G75 minus G25 in Reward contexts; L25 minus L75 in Punishment contexts), in Partial (leftmost panel) and Complete (rightmost panel) contexts. Chance level (i.e. no cue discrimination) is 0.0. Error bars represent s.e. m. *P<0.05: independent samples t-test (2-sided). doi:10.1371/journal.pcbi.1004953.g006",
-                "fig_num": "6"
+                "num": null
             },
             "FIGREF7": {
-                "uris": null,
+                "fig_num": null,
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "t\u00fe1 \u00f0s; c\u00de \u00bc Q t \u00f0s; c\u00de \u00fe a 1 d C;t and Q t\u00fe1 \u00f0s; u\u00de \u00bc Q t \u00f0s; u\u00de \u00fe a 2 d U;t ;",
-                "fig_num": null
+                "num": null
             },
             "FIGREF8": {
-                "uris": null,
+                "fig_num": null,
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "t \u00f0s; c\u00de and d U;t \u00bc R U;t \u00c0 V\u00f0s\u00de \u00c0 Q t \u00f0s; u\u00de (in the Complete feedback contexts only, in the Partial feedback condition no counterfactual prediction error is calculated: \u03b4 U,t = 0).",
-                "fig_num": null
+                "num": null
             },
             "FIGREF9": {
-                "uris": null,
+                "fig_num": null,
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Text. Supplementary model comparison: Value contextualisation without counterfactual learning. (DOCX) S2 Text. Supplementary model simulations (I): Validation of the model comparison procedure. (DOCX) S3 Text. Supplementary model simulations (II): Different learning rates for positive and negative prediction errors. (DOCX) S1",
-                "fig_num": null
+                "num": null
             },
             "FIGREF10": {
-                "uris": null,
+                "fig_num": null,
                 "type_str": "figure",
-                "num": null,
+                "uris": null,
                 "text": "Table. Supplementarymodel comparison. PP: posterior probability. XP: exceedance probability. Model 1: \u03b1 2 = \u03b1 3 = 0; Model 2: \u03b1 3 = 0; Model 4: \u03b1 2 = 0. PP are reported as mean\u00b1s.e.m. (DOCX) S1 Fig. Validation of the model comparison procedure. (A) Virtual groups' parameters and simulated data, plotted as a function of task context. (B) Possible and obtained model comparison results for Group 1 (light grey) and Group 2 (dark grey): better fit is indicated by a higher PP and lower BIC, respectively. (EPS) S2 Fig. Model simulation involving different learning rates for positive and negative prediction errors. The value of the \u03b2 was 5.0 as in the other ex-ante model simulations. The number of virtual participants was N = 1000. (EPS)",
-                "fig_num": null
+                "num": null
             },
             "TABREF1": {
-                "content": "<table><tr><td/><td>Model 1</td><td/><td>Model 2</td><td/><td>Model 3</td><td/></tr><tr><td/><td>PP</td><td>XP</td><td>PP</td><td>XP</td><td>PP</td><td>XP</td></tr><tr><td>Subject -level</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Adoles.</td><td>0.51\u00b10.06</td><td>0.77</td><td>0.33\u00b10.05</td><td>0.20</td><td>0.16\u00b10.02</td><td>0.02</td></tr><tr><td>Adults</td><td>0.04\u00b10.01</td><td>0.00</td><td>0.38\u00b10.04</td><td>0.20</td><td>0.57\u00b10.05</td><td>0.79</td></tr><tr><td>Group-level</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Adoles.</td><td>0.70</td><td>0.48</td><td>0.21</td><td>0.28</td><td>0.08</td><td>0.24</td></tr><tr><td>Adults</td><td>0.00</td><td>0.21</td><td>0.31</td><td>0.32</td><td>0.68</td><td>0.47</td></tr></table>",
                 "html": null,
                 "type_str": "table",
+                "text": "Bayesian Model comparison.",
                 "num": null,
-                "text": "Bayesian Model comparison."
+                "content": "<table><tr><td/><td>Model 1</td><td/><td>Model 2</td><td/><td>Model 3</td><td/></tr><tr><td/><td>PP</td><td>XP</td><td>PP</td><td>XP</td><td>PP</td><td>XP</td></tr><tr><td>Subject -level</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Adoles.</td><td>0.51\u00b10.06</td><td>0.77</td><td>0.33\u00b10.05</td><td>0.20</td><td>0.16\u00b10.02</td><td>0.02</td></tr><tr><td>Adults</td><td>0.04\u00b10.01</td><td>0.00</td><td>0.38\u00b10.04</td><td>0.20</td><td>0.57\u00b10.05</td><td>0.79</td></tr><tr><td>Group-level</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Adoles.</td><td>0.70</td><td>0.48</td><td>0.21</td><td>0.28</td><td>0.08</td><td>0.24</td></tr><tr><td>Adults</td><td>0.00</td><td>0.21</td><td>0.31</td><td>0.32</td><td>0.68</td><td>0.47</td></tr></table>"
             },
             "TABREF2": {
-                "content": "<table><tr><td>Dependent variables</td><td>Adolescents (N = 18)</td><td>Adults (N = 20)</td></tr><tr><td>Correct choice rate (% correct)</td><td/><td/></tr><tr><td>Overall</td><td>64.1\u00b15.0 #</td><td>71.4\u00b12.9 ###</td></tr><tr><td>Reward/Partial</td><td>67.4\u00b16.2</td><td>65.3\u00b16.8</td></tr><tr><td>Punishment/Partial</td><td>56.8\u00b14.5</td><td>63.8\u00b14.6</td></tr><tr><td>Reward/Complete</td><td>68.2\u00b17.7</td><td>78.1\u00b14.9</td></tr><tr><td>Punishment/Complete</td><td>63.8\u00b15.6</td><td>78.6\u00b14.3</td></tr><tr><td>Reaction time (seconds)</td><td/><td/></tr><tr><td>Overall</td><td>0.79\u00b10.03</td><td>0.83\u00b10.03</td></tr><tr><td>Reward/Partial</td><td>0.78\u00b10.03</td><td>0.78\u00b10.03</td></tr><tr><td>Punishment/Partial</td><td>0.84\u00b10.03</td><td>0.87\u00b10.03</td></tr><tr><td>Reward/Complete</td><td>0.71\u00b10.03</td><td>0.81\u00b10.03</td></tr><tr><td>Punishment/Complete</td><td>0.82\u00b10.03</td><td>0.85\u00b10.03</td></tr><tr><td colspan=\"2\">Overall refers to average performance collapsed across contexts.</td><td/></tr><tr><td colspan=\"3\"># P&lt;0.05 and ### P&lt;0.001 (2-sided, one-sample, t-test), when comparing to chance level-random-</td></tr><tr><td>performance (i.e. 50% of correct responses).</td><td/><td/></tr><tr><td colspan=\"3\">Note that neither overall correct choice rate (T(36) = 1.3, P&gt;0.1) nor overall reaction time (T(36) = 1.3,</td></tr><tr><td colspan=\"2\">P&gt;0.3) differed between groups (T(36) = 1.3, P&gt;0.3).</td><td/></tr></table>",
                 "html": null,
                 "type_str": "table",
+                "text": "Behavioural data as function of choice context.",
                 "num": null,
-                "text": "Behavioural data as function of choice context."
+                "content": "<table><tr><td>Dependent variables</td><td>Adolescents (N = 18)</td><td>Adults (N = 20)</td></tr><tr><td>Correct choice rate (% correct)</td><td/><td/></tr><tr><td>Overall</td><td>64.1\u00b15.0 #</td><td>71.4\u00b12.9 ###</td></tr><tr><td>Reward/Partial</td><td>67.4\u00b16.2</td><td>65.3\u00b16.8</td></tr><tr><td>Punishment/Partial</td><td>56.8\u00b14.5</td><td>63.8\u00b14.6</td></tr><tr><td>Reward/Complete</td><td>68.2\u00b17.7</td><td>78.1\u00b14.9</td></tr><tr><td>Punishment/Complete</td><td>63.8\u00b15.6</td><td>78.6\u00b14.3</td></tr><tr><td>Reaction time (seconds)</td><td/><td/></tr><tr><td>Overall</td><td>0.79\u00b10.03</td><td>0.83\u00b10.03</td></tr><tr><td>Reward/Partial</td><td>0.78\u00b10.03</td><td>0.78\u00b10.03</td></tr><tr><td>Punishment/Partial</td><td>0.84\u00b10.03</td><td>0.87\u00b10.03</td></tr><tr><td>Reward/Complete</td><td>0.71\u00b10.03</td><td>0.81\u00b10.03</td></tr><tr><td>Punishment/Complete</td><td>0.82\u00b10.03</td><td>0.85\u00b10.03</td></tr><tr><td colspan=\"2\">Overall refers to average performance collapsed across contexts.</td><td/></tr><tr><td colspan=\"3\"># P&lt;0.05 and ### P&lt;0.001 (2-sided, one-sample, t-test), when comparing to chance level-random-</td></tr><tr><td>performance (i.e. 50% of correct responses).</td><td/><td/></tr><tr><td colspan=\"3\">Note that neither overall correct choice rate (T(36) = 1.3, P&gt;0.1) nor overall reaction time (T(36) = 1.3,</td></tr><tr><td colspan=\"2\">P&gt;0.3) differed between groups (T(36) = 1.3, P&gt;0.3).</td><td/></tr></table>"
             },
             "TABREF3": {
-                "content": "<table><tr><td>Reward vs. Punishment), feedback information (Par-</td></tr><tr><td>tial vs. Complete), and cue correctness (Correct vs. Incorrect) as within-subject factors. There</td></tr><tr><td>was a significant effect of valence (F(1,36) = 92.2, P&lt;0.001) on post-learning choice rate, indicat-</td></tr><tr><td>ing that cues associated with Reward (G75 and G25) were preferred over those associated with</td></tr><tr><td>Punishment (L25 and L75). Similarly, Correct cues (G75 and L25) were preferred over Incorrect</td></tr><tr><td>ones (G25 and L75; F(1,36) = 38.1, P&lt;0.001) (Fig 6).</td></tr></table>",
                 "html": null,
                 "type_str": "table",
+                "text": "These effects indicate that, overall, participants were able to retrieve the value of the cues during the post-learning test. Crucially, the analysis also revealed a significant interaction between feedback information and cue correctness (F (1,36 = 11.6, P<0.01), which was further moderated by group (F(1,36 = 6.0, P<0.05). Post-hoc between-groups comparisons of these difference scores (Fig 6 andTable 3) indicated that cue discrimination was significantly lower in the adolescents than in the adults in both the Complete contexts (Reward/Complete: T(36) = -2.4, P<0.05; Punishment/Complete: T(36) = -2.6, P<0.05). While adults showed improved cue discrimination in Complete contexts compared to Partial contexts (T(19) = 4.1, P<0.001), adolescents did not (T(17) = 0.6, P>0.5). To summarise, in adults, cue value retrieval in the post-learning test was enhanced for cues associated with counterfactual feedback during the learning task. Adolescents did not show this effect.",
                 "num": null,
-                "text": "These effects indicate that, overall, participants were able to retrieve the value of the cues during the post-learning test. Crucially, the analysis also revealed a significant interaction between feedback information and cue correctness (F (1,36 = 11.6, P<0.01), which was further moderated by group (F(1,36 = 6.0, P<0.05). Post-hoc between-groups comparisons of these difference scores (Fig 6 andTable 3) indicated that cue discrimination was significantly lower in the adolescents than in the adults in both the Complete contexts (Reward/Complete: T(36) = -2.4, P<0.05; Punishment/Complete: T(36) = -2.6, P<0.05). While adults showed improved cue discrimination in Complete contexts compared to Partial contexts (T(19) = 4.1, P<0.001), adolescents did not (T(17) = 0.6, P>0.5). To summarise, in adults, cue value retrieval in the post-learning test was enhanced for cues associated with counterfactual feedback during the learning task. Adolescents did not show this effect."
+                "content": "<table><tr><td>Reward vs. Punishment), feedback information (Par-</td></tr><tr><td>tial vs. Complete), and cue correctness (Correct vs. Incorrect) as within-subject factors. There</td></tr><tr><td>was a significant effect of valence (F(1,36) = 92.2, P&lt;0.001) on post-learning choice rate, indicat-</td></tr><tr><td>ing that cues associated with Reward (G75 and G25) were preferred over those associated with</td></tr><tr><td>Punishment (L25 and L75). Similarly, Correct cues (G75 and L25) were preferred over Incorrect</td></tr><tr><td>ones (G25 and L75; F(1,36) = 38.1, P&lt;0.001) (Fig 6).</td></tr></table>"
             },
             "TABREF4": {
-                "content": "<table><tr><td>Post-learning choice rate</td><td>Adoles.</td><td>Adults</td></tr><tr><td>G 75 Reward/Partial (% choices)</td><td>65.3\u00b16.8</td><td>75.0\u00b15.1</td></tr><tr><td>G 25 Reward/Partial (% choices)</td><td>48.8\u00b15.0</td><td>50.7\u00b15.8</td></tr><tr><td>L 25 Punishment/Partial (% choices)</td><td>46.0\u00b15.0</td><td>39.5\u00b14.7</td></tr><tr><td>L 75 Punishment/Partial (% choices)</td><td>34.7\u00b16.1</td><td>27.7\u00b13.0</td></tr><tr><td>G 75 Reward/Complete (% choices)</td><td>73.6\u00b15.2</td><td>84.6\u00b13.3</td></tr><tr><td>G 25 Reward/Complete (% choices)</td><td>60.7\u00b16.7</td><td>43.9\u00b15.1</td></tr><tr><td>L 25 Punishment/Complete (% choices)</td><td>45.8\u00b14.3</td><td>58.0\u00b13.8</td></tr><tr><td>L 75 Punishment/Complete (% choices)</td><td>25.0\u00b13.6</td><td>20.5\u00b13.5</td></tr><tr><td colspan=\"3\">G75 and G25: options associated with 75% and 25% chance of gaining a point, respectively; L75 and L25:</td></tr><tr><td colspan=\"3\">options associated with 75% and 25% chance of losing a point, respectively. Post-learning choice rates are</td></tr><tr><td>reported as mean+-s.e.m.</td><td/><td/></tr></table>",
                 "html": null,
                 "type_str": "table",
+                "text": "Post-learning test behavioural data as a function of cue type.",
                 "num": null,
-                "text": "Post-learning test behavioural data as a function of cue type."
+                "content": "<table><tr><td>Post-learning choice rate</td><td>Adoles.</td><td>Adults</td></tr><tr><td>G 75 Reward/Partial (% choices)</td><td>65.3\u00b16.8</td><td>75.0\u00b15.1</td></tr><tr><td>G 25 Reward/Partial (% choices)</td><td>48.8\u00b15.0</td><td>50.7\u00b15.8</td></tr><tr><td>L 25 Punishment/Partial (% choices)</td><td>46.0\u00b15.0</td><td>39.5\u00b14.7</td></tr><tr><td>L 75 Punishment/Partial (% choices)</td><td>34.7\u00b16.1</td><td>27.7\u00b13.0</td></tr><tr><td>G 75 Reward/Complete (% choices)</td><td>73.6\u00b15.2</td><td>84.6\u00b13.3</td></tr><tr><td>G 25 Reward/Complete (% choices)</td><td>60.7\u00b16.7</td><td>43.9\u00b15.1</td></tr><tr><td>L 25 Punishment/Complete (% choices)</td><td>45.8\u00b14.3</td><td>58.0\u00b13.8</td></tr><tr><td>L 75 Punishment/Complete (% choices)</td><td>25.0\u00b13.6</td><td>20.5\u00b13.5</td></tr><tr><td colspan=\"3\">G75 and G25: options associated with 75% and 25% chance of gaining a point, respectively; L75 and L25:</td></tr><tr><td colspan=\"3\">options associated with 75% and 25% chance of losing a point, respectively. Post-learning choice rates are</td></tr><tr><td>reported as mean+-s.e.m.</td><td/><td/></tr></table>"
             },
             "TABREF5": {
-                "content": "<table><tr><td>Group</td><td>N</td><td>Age (years)</td><td>Gender</td><td>IQ (T-scores)</td></tr><tr><td>Adolescents</td><td>18</td><td>14.27 \u00b1 0.30 (12-16)</td><td>8 male, 10 female</td><td>98.5 \u00b1 1.1 (46-61)</td></tr><tr><td>Adults</td><td>20</td><td>22.35 \u00b1 0.83 (18-32)</td><td>8 male, 12 female</td><td>101.4 \u00b1 1.0 (43-61)</td></tr></table>",
                 "html": null,
                 "type_str": "table",
+                "text": "Sample demographics.",
                 "num": null,
-                "text": "Sample demographics."
+                "content": "<table><tr><td>Group</td><td>N</td><td>Age (years)</td><td>Gender</td><td>IQ (T-scores)</td></tr><tr><td>Adolescents</td><td>18</td><td>14.27 \u00b1 0.30 (12-16)</td><td>8 male, 10 female</td><td>98.5 \u00b1 1.1 (46-61)</td></tr><tr><td>Adults</td><td>20</td><td>22.35 \u00b1 0.83 (18-32)</td><td>8 male, 12 female</td><td>101.4 \u00b1 1.0 (43-61)</td></tr></table>"
             }
         }
     }

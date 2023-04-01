@@ -2,7 +2,7 @@
     "paper_id": "The Journal of Pathology - 2007 - Liu - Ageing and hearing loss",
     "header": {
         "generated_with": "S2ORC 1.0.0",
-        "date_generated": "2023-03-29T13:32:43.470967Z"
+        "date_generated": "2023-03-31T14:39:23.805788Z"
     },
     "title": "Ageing and hearing loss",
     "authors": [
@@ -3890,11 +3890,11 @@
         },
         "ref_entries": {
             "TABREF0": {
-                "num": null,
                 "text": ", 2007, 2, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2102, Wiley Online Library on [24/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
-                "type_str": "table",
+                "html": null,
                 "content": "<table/>",
-                "html": null
+                "num": null,
+                "type_str": "table"
             }
         }
     }

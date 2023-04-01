@@ -1,0 +1,1054 @@
+{
+    "paper_id": "Applicability of Pick's Law to Gas Diffusion",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2023-03-31T14:39:35.115691Z"
+    },
+    "title": "Applicability of Pick's Law to Gas Diffusion 1",
+    "authors": [
+        {
+            "first": "D",
+            "middle": [
+                "B"
+            ],
+            "last": "Jaynes",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "A",
+            "middle": [
+                "S"
+            ],
+            "last": "Rooowski",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Soil Scientist, U.S. Water Conservation Laboratory, Phoenix (for-merly Graduate Assistant, The Pennsylvania State Univ.); and Soil Scientist",
+                "institution": "",
+                "location": {
+                    "settlement": "University Park, Pa"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The comparison of Pick's Law for the diffusion of gas i in a vapor to the equations based on the kinetic theory of gases shows that only for certain special conditions is the Fickian diffusion coefficient, D Fi , independent of the mole fraction of i and the diffusional fluxes of the other gases. These conditions include the diffusion of a trace concentration of gas through a gas mixture of any composition, equimolar, counter-current diffusion in a binary gas mixture, and diffusion in a ternary mixture where one gas is stagnant. In an O 2 , CO 2 , N 2 atmosphere, variations in diffusion coefficient of at least 10% from the tracer values are possible with variations in the mole fractions of the gas or the relative magnitude of their fluxes. The temperature and pressure dependency of the diffusion coefficient must also be recognized.",
+    "pdf_parse": {
+        "paper_id": "Applicability of Pick's Law to Gas Diffusion",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The comparison of Pick's Law for the diffusion of gas i in a vapor to the equations based on the kinetic theory of gases shows that only for certain special conditions is the Fickian diffusion coefficient, D Fi , independent of the mole fraction of i and the diffusional fluxes of the other gases. These conditions include the diffusion of a trace concentration of gas through a gas mixture of any composition, equimolar, counter-current diffusion in a binary gas mixture, and diffusion in a ternary mixture where one gas is stagnant. In an O 2 , CO 2 , N 2 atmosphere, variations in diffusion coefficient of at least 10% from the tracer values are possible with variations in the mole fractions of the gas or the relative magnitude of their fluxes. The temperature and pressure dependency of the diffusion coefficient must also be recognized.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "T HE EXCHANGE OF GASES between the soil and the atmosphere is of primary concern to soil scientists. Gas movement in the soil can be caused by both convection and diffusion. Convection results when a difference in total gas pressure exists between two locations. Diffusion will occur even if the total pressure is uniform as long as there is a spatial difference in the chemical potential, normally represented by differences in concentration or partial pressure, of the components of a gas mixture (Kittel, 1969) . While both processes are important in soils, diffusion is considered to dominate during normal gaseous exchange (Evans, 1965) .",
+                "cite_spans": [
+                    {
+                        "start": 499,
+                        "end": 513,
+                        "text": "(Kittel, 1969)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 628,
+                        "end": 641,
+                        "text": "(Evans, 1965)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The fundamental equation used to describe one-dimensional, steady-state diffusion in soil is Pick's First Law:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "q,= -aDfdCi/dz , [1] where q t is the mass transfer rate of component / per unit area (ML~2T~l), D Fi is the Fickian diffusion coefficient for component i (Z, 2^\"1 ). Q is tne concentration of i (ML~3), z is distance, and a is a correction term that modifies D Fi to account for the air-filled porosity and the tortuosity of the diffusion path in soils (Troeh et al., 1982) .",
+                "cite_spans": [
+                    {
+                        "start": 17,
+                        "end": 20,
+                        "text": "[1]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 353,
+                        "end": 373,
+                        "text": "(Troeh et al., 1982)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Although the magnitude of a is often crucial in the study of diffusional processes in soils, in the remainder of this paper the magnitude of a is inconsequential as long as its magnitude is independent of gas type (Penman, 1940b) . We will therefore set a equal to 1.0 and drop it from the remaining equations. Alternatively, Eq.",
+                "cite_spans": [
+                    {
+                        "start": 214,
+                        "end": 229,
+                        "text": "(Penman, 1940b)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "[1] can be written in terms of mole fractions by invoking the equation of state for ideal gases and Dalton's Law to give N^-D^P/RT^dYjdz, [2] where now N t is the molar flux, P is the total gas pressure, R the universal gas constant, T absolute temperature, and Y t the mole fraction of component /. While useful in soil science, it must be remembered that Pick's Law when applied to gases is strictly an empirical relation, borrowed from studies with solutes and shown to agree well with observed diffusional processes in air (Kirkham and Powers, 1972, p. 429; Penman, 1940a and 1940b) . The form of Eq.",
+                "cite_spans": [
+                    {
+                        "start": 138,
+                        "end": 141,
+                        "text": "[2]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 527,
+                        "end": 561,
+                        "text": "(Kirkham and Powers, 1972, p. 429;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 562,
+                        "end": 579,
+                        "text": "Penman, 1940a and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 580,
+                        "end": 586,
+                        "text": "1940b)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "[2], the flux of a gas being equal to its gradient multiplied by a simple coefficient, is very misleading and requires closer examination. The equations for gaseous diffusion were developed by Stefan (in Wilke, 1950) and Maxwell (1952) among others. The equations are based on the statistical mechanics description of ideal gases developed by Gibbs and Boltzmann (Kittel, 1969) . These equations have been extensively developed in the literature and found to agree very closely with experiments on gas diffusion, especially at near normal temperatures and pressures (Hirschfelder et al., 1964; Fairbanks and Wilke, 1950) . Since the interest in gas diffusion in soils has increased in recent years (Smith, 1977; Bakker and Hidding, 1970; DeJong et al., 1979 , and others) and Pick's Law is used to describe the process in most soils literature (see Wood and Greenwood, 1971 , for an exception), it would seem advisable to compare Pick's Law (Eq. [2] ) to the Stefan-Maxwell diffusion equations in order to gauge its validity. This paper will examine several simple cases of diffusion of interest in soil science. It is not our intention to develop the Stefan-Maxwell equations in depth, nor to fully present the theory underlying them. For this, the reader is directed to the comprehensive works by Chapman and Cowling (1939) or Hirschfelder et al. (1964) , or to the excellent review by Marrero and Mason (1972) . We shall, for the remainder of the paper, consider only diffusion in the gas phase, ignoring gas-liquid interactions, convection, turbulence, or other mass flow phenomena, and for simplicity will consider only steady-state diffusion, although the results are directly applicable to the nonsteady-state case. Chapman and Cowling (1939, p. 244) have shown that for diffusion, the average velocity of one gas in relation to a second gas is represented by",
+                "cite_spans": [
+                    {
+                        "start": 204,
+                        "end": 216,
+                        "text": "Wilke, 1950)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 221,
+                        "end": 235,
+                        "text": "Maxwell (1952)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 343,
+                        "end": 377,
+                        "text": "Gibbs and Boltzmann (Kittel, 1969)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 566,
+                        "end": 593,
+                        "text": "(Hirschfelder et al., 1964;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 594,
+                        "end": 620,
+                        "text": "Fairbanks and Wilke, 1950)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 698,
+                        "end": 711,
+                        "text": "(Smith, 1977;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 712,
+                        "end": 737,
+                        "text": "Bakker and Hidding, 1970;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 738,
+                        "end": 757,
+                        "text": "DeJong et al., 1979",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 849,
+                        "end": 873,
+                        "text": "Wood and Greenwood, 1971",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 930,
+                        "end": 949,
+                        "text": "Pick's Law (Eq. [2]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1299,
+                        "end": 1310,
+                        "text": "Chapman and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1311,
+                        "end": 1355,
+                        "text": "Cowling (1939) or Hirschfelder et al. (1964)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1388,
+                        "end": 1412,
+                        "text": "Marrero and Mason (1972)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1723,
+                        "end": 1757,
+                        "text": "Chapman and Cowling (1939, p. 244)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": ". _ _ = _ ' I * I \u2022*\u2022'' I \u00bb nn ij 91n /> f\\ or P,Pj DT D tj T dT/dr [3]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "where the terms are defined at the end of this paper. For our purposes, it is only important to note that the difference in average velocities of two gases (v,--v/) depends on four separate terms on the right side of Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "[3], which may be thought of as the chemical potential for the gas pair (Kittel, 1969, p. 215) . The first term represents ordinary or concentration diffusion, which we are concerned with in this paper. The second term represents diffusion caused by differences in total pressure, but should not be confused with mass flow. As an example of pressure diffusion, lighter elements, such as helium will concentrate in the upper portions of the atmosphere due to diffusion driven by pressure differences in the atmosphere. The gases respond to the pressure gradient created by gravity and not to gravity directly. The third term represents a diffusional flux created by an external force, such as a flow of charged particles in an electric field giving rise to an electric current. The final term represents thermal diffusion. In thermal diffusion, a temperature difference will cause diffusion within a gas mixture, with the lighter components concentrating near the warmer zone. If the temperature gradient is maintained, the gas components will continue to separate until ordinary diffusion exactly balances thermal diffusion. Of the four terms, only concentration or ordinary diffusion is important under normal circumstances in soil and plant processes, although thermal diffusion is used in commercial refining techniques for separating isotopes of some gases (Jones and Furry, 1946; Vasaru et al., 1969).",
+                "cite_spans": [
+                    {
+                        "start": 72,
+                        "end": 94,
+                        "text": "(Kittel, 1969, p. 215)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "For ordinary diffusion in one dimension of one gas, /, through another gas, j, where total pressure and temperature are constant, Eq. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "V../I..B, -vjnjn, _ d(n,/n T ) n T D Si \" T dz [5]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Dividing both sides of Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "[5] by Avagadro's number, M 0 , we convert the number densities to molar densities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Remembering that TV,-= v, n t /M 0 , Eq. [5] becomes \u00bbr '(\"//\"T-) [fi] n T D tj dz",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "But since Y t = n t /n T and for unit volume",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "n T /M 0 = P/ RT Eq. [6] reduces to _ RT dz [7]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "and Dy is the mutual diffusion coefficient for gases / and j-In a multicomponent gas mixture, the diffusion of component / can be represented by a linear summation of Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "[7] for each gas pair (Curtiss and Hirschfelder, 1949) . The equations for diffusion of each component in an ncomponent mixture commonly referred to as the Stefan-Maxwell equations are",
+                "cite_spans": [
+                    {
+                        "start": 22,
+                        "end": 54,
+                        "text": "(Curtiss and Hirschfelder, 1949)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "[8] D,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "We should note that D tj in Eq. [8] is not identical to the binary D t j in Eq. [7], since its magnitude is affected by the entire gas mixture and not just i and j. However, this difference is slight (within the experimental error of measurement) and can be ignored (Marrero and Mason, 1972) .",
+                "cite_spans": [
+                    {
+                        "start": 266,
+                        "end": 291,
+                        "text": "(Marrero and Mason, 1972)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "In general, Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "[8] represents n-l independent equations for n unknowns since and as such the solution is indeterminate. However, under certain simplifying assumptions solutions can be found for the series of equations. We'll examine several of these situations applicable to soil and plant science.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "STEFAN-MAXWELL EQUATIONS FOR GAS DIFFUSION",
+                "sec_num": null
+            },
+            {
+                "text": "For the simplest case of diffusion in a two-component system (/ and j), Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[8] yields only one unique equation, identical to Eq. [7], since Y t + Yj , = 1.0. Equation [7]can be rearranged into a form similar to Pick's Law (Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[2]). By letting r jt equal the negative value of the ratio of the fluxes, r^ = -Nj/N h and substituting 1-F, for Yj, we can rearrange Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[7] to obtain N, [9] \\-(\\-rjl )Y, RT Comparing Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[9] and Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[2] we find by analogy that The Fickian diffusion coefficient depends not only on Dy but also on the flux ratio and mole ratio of component /. Two special circumstances immediately follow from Eq. [10] .",
+                "cite_spans": [
+                    {
+                        "start": 197,
+                        "end": 201,
+                        "text": "[10]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "Tracer Diffusion--In cases where Y ( is present only in trace amounts (i.e., Y, =* 0.0), Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[10] for the Fickian diffusion coefficient reduces to independent of flux ratios and concentration.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "Closed System-A second possibility for binary gas diffusion is diffusion in a closed system where, since the total pressure remains constant, N t = -TV,, r jt = 1.0 and, from Eq. [10], D Fi again just equals Dy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "Open System-A more general situation is the steadystate diffusion of gases through an inert layer where the concentrations of the gases are held constant at one end because of an infinite source/sink for the gases (the atmosphere) and the concentrations are fixed at the other end by consumption or production processes. An example would be oxygen diffusing into a soil ped and oxidizing ferrous to ferric iron where oxygen and nitrogen comprise the ped atmosphere. For an open system Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[9] and Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[10] cannot be solved without a priori knowledge of r^. Figure 1 illustrates the variation of D Fl with changes in ru and Y t as calculated by Eq. [10] . The reduced Fickian diffusion coefficient, D Fl /Dy, is plotted for several values of rj, over the range 0.0 < Y t < 1.0. As discussed for equimolar, counter-current diffusion in a closed system and for tracer diffusion, D Fl /D t , is constant for all values of YI when r,, = 1.0 and for all values of r,, when K/ =s 0.0. The reduced Fickian diffusion coefficient diverges rapidly, however, as Y t increases, decreasing as r jt becomes less (reduced resistance to diffusion) and increasing as r/i increases. In the extreme it can be seen from Eq.",
+                "cite_spans": [
+                    {
+                        "start": 147,
+                        "end": 151,
+                        "text": "[10]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 56,
+                        "end": 64,
+                        "text": "Figure 1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "[10] that D Fi /Dy can become negative when the two gases are diffusing in the same direction (r,, < 0.0), that is, gas i would diffuse against its gradient. This behavior has been measured by Duncan and Toor (1962) in a three-component gas mixture.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY GAS SYSTEM",
+                "sec_num": null
+            },
+            {
+                "text": "The soil atmosphere can normally be characterized as a three-component (ternary) system. In a ternary system composed of gases i, j, and k, where Y t + Yj + Y k = 1, Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[8] yields two unique equations:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "_ J [13]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "Again, the general solution of these equations is impossible without further simplifying assumptions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "Tracer Diffusion-If we let component i represent a gas at trace concentration (Y f a-0.0), so that Yj + Y k =* 1, then Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[12] which describes the diffusion of /, becomes if + IT-.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[14]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "RT or, upon solving for TV,,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "RT [15]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "This equation is identical in form to the equation for Pick's Law with the Fickian diffusion coefficient dependent only on Dy, D ik , and the mole fractions Yj and Y k \\ DF = TD-.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[16]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "In general, for tracer diffusion in an n-component gas mixture, the tracer will diffuse according to Pick's Law, where the diffusion coefficient is equal to",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "Si' k ^ i orj [17] and is independent of the diffusional fluxes of the other components.",
+                "cite_spans": [
+                    {
+                        "start": 14,
+                        "end": 18,
+                        "text": "[17]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "One Gas Stagnant-Equations [12] and [13] can also be simplified if we assume one of the gases is stagnant. This is analogous to quasisteady-state respiration in a soil where oxygen and carbon dioxide are being exchanged with the atmosphere and nitrogen, the third gas com- ponent, (k), is stagnant. In the case with N k = 0.0, Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[12] and Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[13] become",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "-J-+ -^L \\-Nj-^ , [18]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "These equations can be solved for the molar fluxes TV,and TV, if F,, Yj and Ft are known. In the case of countercurrent, equimolar diffusion, where TV, -= -TV, (r,-,-= 1.0), Toor (1957) has solved these equations exactly and found that the solution must simultaneously satisfy Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "[20] and Eq. [21] .",
+                "cite_spans": [
+                    {
+                        "start": 13,
+                        "end": 17,
+                        "text": "[21]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "THREE-COMPONENT GAS SYSTEMS",
+                "sec_num": null
+            },
+            {
+                "text": "A, = lnVV C 21 1 The second subscript on F refers to the points 1 and 2 separated by distance z. These equations can be used to describe diffusion in soils where the source and sink terms for O 2 (/) and CO 2 (/') are determined by plant root or soil organism respiration and the respiration quotient, CO 2 produced/O 2 consumed, is near 1.0 (e.g., r fl = 1.0). However, it must be remembered that this is only a good approximation for respiration in soils during quasisteadystate conditions because if F,-or Yj is changing rapidly, TV* = 0.0 and the simplification is not justified.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "&, [20] RTz",
+                "sec_num": null
+            },
+            {
+                "text": "In Values for the binary diffusion coefficients can be calculated from Table 1 (next section) . For a temperature of 20 \u00b0 C and a pressure of 1 0 1 kPa these values are 0.159 X 10-4 , 0.202 X 10-4 , and 0.159 X 1Q-4 (m 2 /s) for A) 2 ,c92> A>2,N2. and A:o 2 ,N2> respectively. The Fickian diffusion coefficients can then be calculated if values for YQ-I, F C02 , F N2 , and r CO2O2 are known. For example, with F 02 = 0.15, F C02 = 0.06, F N2 = 0.79, and r CO2O 2 = 0.5, D F02 and D FC02 are calculated to be 0.210 X 10~4 and 0.150 X 10~4 m 2 /s, respectively. These two points are indicated on Fig. 2 and 3 where the values of D F02 and D FC02 are plotted for various flux ratios. In both figures F N2 is held constant at 0.790 while F O2 varies from 0.0 to 0.21. Carbon dioxide comprises the remainder of the atmosphere (0.21 < F CO 2 ^ 0-0).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 71,
+                        "end": 93,
+                        "text": "Table 1 (next section)",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 595,
+                        "end": 607,
+                        "text": "Fig. 2 and 3",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "&, [20] RTz",
+                "sec_num": null
+            },
+            {
+                "text": "The apparent diffusion coefficients for both O 2 and CO 2 vary little for ^02,02 near l'-0. As the flux ratio deviates further from 1.0, the O 2 diffusion coefficient diverges rapidly as F 02 increases (Fig. 2) . D F for CO 2 is less variable but can deviate markedly from its value at r CO2iO2 = 1 -0 at low values of the flux ratio and high CO 2 (low O 2 ) concentrations (Fig. 3) . Values for the flux ratio in soils have been reported ranging between 0.6 and 4.0 (Bunt and Rovira, 1955; Rixon and Bridge, 1968; Bridge and Rixon, 1976) . Although none of these authors reported the O 2 and CO 2 mole fractions at which these ratios were found, extreme values of 0.0 to 0.21 for O 2 and 0.0 and 0.09 for CO 2 have been measured (Russell and Apple yard, 1915) . Using the values of 0.05 for F CO2 and 0.15 for F 02 and a flux ratio of 2.0, we can see from Fig. 2  and 3 that deviations in the Fickian diffusion coefficients of 15% for O 2 and 9% for CO 2 from the values at r CO2j02 = 1.0 are possible. Figures 2 and 3 illustrate the potential hazard of applying values of the Fickian diffusion coefficient from one situation to another where the flux ratio and gas composition may not be the same. This may be, at least in part, the reason why flux calculations based which are in the form of Pick's Law with diffusion coefficients %   3   2  3  3  3  3  3  3  3  4  2   7   3  5  3  10  3 on concentration gradients do not compare well to other techniques for measuring flux (DeJong et al., 1979) . Equation [8] also applies to diffusion in four-component or greater gas mixtures. An O 2 , CO 2 , N 2 , and Ar or O 2 , CO 2 , N 2 , Ar, and H 2 O vapor atmosphere would be mixtures of interest in soils. However, as in the ternary case, unless some simplifying assumptions can be made, the exact solution for diffusion in these mixtures is not possible.",
+                "cite_spans": [
+                    {
+                        "start": 467,
+                        "end": 490,
+                        "text": "(Bunt and Rovira, 1955;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 491,
+                        "end": 514,
+                        "text": "Rixon and Bridge, 1968;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 515,
+                        "end": 538,
+                        "text": "Bridge and Rixon, 1976)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 749,
+                        "end": 760,
+                        "text": "yard, 1915)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1478,
+                        "end": 1499,
+                        "text": "(DeJong et al., 1979)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 202,
+                        "end": 210,
+                        "text": "(Fig. 2)",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 374,
+                        "end": 382,
+                        "text": "(Fig. 3)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 730,
+                        "end": 748,
+                        "text": "(Russell and Apple",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 857,
+                        "end": 870,
+                        "text": "Fig. 2  and 3",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 1004,
+                        "end": 1019,
+                        "text": "Figures 2 and 3",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 1334,
+                        "end": 1391,
+                        "text": "%   3   2  3  3  3  3  3  3  3  4  2   7   3  5  3  10  3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "&, [20] RTz",
+                "sec_num": null
+            },
+            {
+                "text": "DU is the proportionality coefficient relating the flux of i and j to their gradient in a binary gas system. Conceptually D f j can be thought of as a macroscopic averaging of the interactions or collisions between components z and j. The greater the number of collisions, the more diffusion is impeded and the smaller Dy must be. For this reason, Dtj must be inversely proportional to density, and thus pressure since the number of collisions will increase linearly with pressure at constant temperature. Thus\u00b0y - [26] where />*// is the temperature-dependent, pressure-independent binary diffusion coefficient. However, any decrease in Dy due to a pressure increase will be exactly balanced by an increase in the number of molecules or flux carriers per volume of gas (increased concentration, C). This can be seen by substituting Eq.",
+                "cite_spans": [
+                    {
+                        "start": 515,
+                        "end": 519,
+                        "text": "[26]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": "[26] into Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": "[9] for the flux in a binary system:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": "N,= - [27]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": "the pressure terms drop out and the diffusion equation is pressure-independent when expressed in mole fractions:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": "RT dz -^ \u2022 [28]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": ".",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "BINARY DIFFUSION COEFFICIENT",
+                "sec_num": null
+            },
+            {
+                "text": ".",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "26",
+                "sec_num": null
+            },
+            {
+                "text": ".22",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "r.2o When working with the concentration form of the diffusion equation (Eq.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "[1]), the pressure dependence of the diffusion coefficient must be retained:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "[29]",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "where P l is the total pressure at which \u00a3>,-, is known and P 2 is the pressure at which diffusion is taking place.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "Relations for calculating D'j for any gas pair, based on classical statistical mechanics, were independently developed by Chapman and by Enskog (Chapman and Cowling, 1939) . The solution involves successive approximations to D'j. The approximations converge rapidly, so that the first approximation, which is temperature-dependent but independent of gas composition and at most the second approximation, which introduces slight compositional variation, is sufficient for calculating D\\, to within at most several percent error (Marrero and Mason, 1972) .",
+                "cite_spans": [
+                    {
+                        "start": 137,
+                        "end": 171,
+                        "text": "Enskog (Chapman and Cowling, 1939)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 527,
+                        "end": 552,
+                        "text": "(Marrero and Mason, 1972)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "Values for D'j (more commonly /),-,), can be found in numerous papers in the literature (see Marrero and Mason, 1972) , with some recent values for carbon dioxide, nitrous oxide, ethylene, and ethane presented by Pritchard and Currie (1982) . Marrero and Mason (1972) have compiled an extensive tabulation of binary diffusion coefficients taken from the literature. Based on the Chapman-Enskog equations and extensive experimental results, they have compiled semiempirical relations for the first approximation of over 70 gas pairs. Diffusion coefficients for gas pairs of interest in soil research are tabulated in Table 1 . In all cases shown, the second approximation to Dy, which is based on the compositional ratio of component z to component j, represents a correction to the first approximation of < 1.0% at normal temperatures for the entire compositional range. This correction is within the experimental error of the measured values and can be neglected for all the gas pairs listed. The equation used by Marrero and Mason (1972) to calculate D'j is ln(a) + b\\n(T) -c/T.",
+                "cite_spans": [
+                    {
+                        "start": 93,
+                        "end": 117,
+                        "text": "Marrero and Mason, 1972)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 213,
+                        "end": 240,
+                        "text": "Pritchard and Currie (1982)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 243,
+                        "end": 267,
+                        "text": "Marrero and Mason (1972)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1015,
+                        "end": 1039,
+                        "text": "Marrero and Mason (1972)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 616,
+                        "end": 623,
+                        "text": "Table 1",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "[30] Fig. 3-Fickian diffusion coefficient, D F , (m 2 s\" 1 ) They computed the constants a, b, and c by matching Eq.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 5,
+                        "end": 60,
+                        "text": "Fig. 3-Fickian diffusion coefficient, D F , (m 2 s\" 1 )",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": "[30], whose form is suggested by the theoretical work of Chapman-Enskog, to a compilation of experimental data for each gas pair. The temperature range over which these coefficients were fit and the uncertainty limits in D'j at the lower end of the temperature range are also given in Table 1 . An example calculation of D'j using values in Table 1 is as follows. The pressure-independent, diffusion coefficient for the gas pair O 2 -CO 2 is calculated from Eq. [30] with the coefficients from The diffusion coefficients are highly sensitive to temperature with a 30% variation possible under normal, seasonal soil temperature fluctuations. For example, the binary diffusion coefficient for the O 2 -CO 2 gas pair is equal to 0.136 X 10~4 at 0\u00b0C (273 K) and 0.165 X 10~4 at 30 \u00b0C (303 K) or D O2CO2 is 22% greater at 30 \u00b0C than 0\u00b0C. SUMMARY The comparison of the Stefan-Maxwell equations and Pick's Law for diffusion of gas through vapor shows that only under certain, special circumstances is the diffusion coefficient for Pick's Law, D Fi , a constant independent of the mole fraction of / and the diffusion flux of other gases. These special cases are the diffusion of a trace amount of component /, in a multicomponent gas mixture, equimolar, counter-current diffusion in a binary gas mixture, and equimolar, counter-current diffusion of two gases in a ternary system with the third gas stagnant. In general, D F , is dependent on the binary diffusion coefficients, the composition of the gas mixture, and the diffusional flux ratios of the gas components. Measured values of D Ft can only be accurately extrapolated to other circumstances when all the above conditions are similar. In an O 2 , CO 2 , and N 2 atmosphere where N 2 is stagnant, variations on the order of 10% from the tracer value of D F for O 2 and CO 2 are possible with variations in the mole fraction, or flux ratio. The diffusion coefficients are most sensitive to changes in the flux ratio for ratios < 0.8 or > 1.2. The temperature-and pressure-dependent nature of the diffusion coefficient must also be considered. APPENDIX a, b, c = semiempirical constants C/ -concentration of gas component /, kg m~3 v,-, Vj = average velocity of gas i and j respectively, m s~l D F , = Fickian diffusion coefficient for component i, m 2 s~' Dji = binary diffusion coefficient, m 2 s~' D t j = temperature-dependent, pressure-independent binary diffusion coefficient, kPa m 2 s~' D T = coefficient of thermal diffusion, m 2 s\" 1 Fi,Fj = external force field acting on gas i and j, N/kg w,,m ; = mass of molecules of gas i and j, respectively, kg M 0 = Avagadro's number, mol~' n t ,tij = number density of gas / and j respectively, m~3 n T = rij + rij NI = molar flux of gas /, mol m~2 s\" 1 P = total pressure, kPa q t = mass flux of gas /, kg m~2 s~' r = direction vector, m R = universal gas constant, m 3 kPa mol\" 1 K\" 1 r jt = flux ratio, -Nj/Nj t = time, s T = absolute temperature, K YJ = mole fraction of component i z = distance or depth, m a = combined air-filled porosity, tortuosity term II = product operator PI,PJ,PT = density of gas /' , j, and the combined gas density respectively, kg m~3 S = summation operator",
+                "cite_spans": [
+                    {
+                        "start": 462,
+                        "end": 466,
+                        "text": "[30]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 285,
+                        "end": 292,
+                        "text": "Table 1",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 341,
+                        "end": 348,
+                        "text": "Table 1",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "24",
+                "sec_num": null
+            },
+            {
+                "text": ". N 2 t In (Dy ) = ln(a) + 6 ln(T) -c/T, where Tis temperature (K). t Uncertainty in D*j term at lower end of listed temperature range.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {},
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Values of the reduced Fickian diffusion coefficient, D FI /D,j, in a binary gas mixture plotted against the gas mole fraction of component i. Curve labels are the values of the flux ratio, r itt for which the curve was calculated.",
+                "uris": null,
+                "type_str": "figure",
+                "fig_num": "1",
+                "num": null
+            },
+            "FIGREF1": {
+                "text": "Fickian diffusion coefficient, D F , (m 1 s~') for O 2 in an O 2 -CO 2 -N 2 atmosphere vs. mole fraction of O 2 . Plot is for 20\u00b0C and 101 kPa with N N2 = 0.0, K N2 = 0.790, and Kco 2 = 0.21 -Y m . Curve labels are the flux ratio fcouoi-Point shows value calculated in text.",
+                "uris": null,
+                "type_str": "figure",
+                "fig_num": "2",
+                "num": null
+            },
+            "FIGREF2": {
+                "text": "for CO 2 in an O 2 -CO 2 -N 2 atmosphere vs. mole fraction of O 2 . Plot is for 20\u00b0C and 101 kPa with N N1 = 0.0, F N2 = 0.790, and Y COl = 0.21 -Y 01 . Curve labels are the flux ratio town-Point shows value calculated in text.",
+                "uris": null,
+                "type_str": "figure",
+                "fig_num": null,
+                "num": null
+            },
+            "TABREF2": {
+                "html": null,
+                "text": "Law depends not only on the binary diffusion coefficients but also on the gas composition and the flux ratio, r jt . As an example, D F can be calculated for O 2 from Eq. [24] and for CO 2 from Eq. [25] in a ternary atmosphere where / = O 2 , j = CO 2 , k = N 2 , and N N2 = 0.0. For this case Eq. [24] and Eq. [25] become.",
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td/><td colspan=\"5\">Table 1-Coefficients for calculating \u00a3&gt;,-,* f Gas</td><td>UncertaintyT</td></tr><tr><td>D</td><td>iiik F &lt; DY+DY + r Y '</td><td>[24]</td><td>couple</td><td>m'kPas-K 6 \" aX 10'</td><td>b</td><td>K c</td><td>range</td><td>limits</td></tr><tr><td/><td/><td/><td>Ar-CH,</td><td>0.792</td><td>1.785</td><td>0.0</td><td>307-10-\"</td><td/></tr><tr><td/><td/><td>[25]</td><td>Ar-N, Ar-O,</td><td>0.913 0.987</td><td>1.752 1.736</td><td>0.0 0.0</td><td>244-10' 243-10'</td><td/></tr><tr><td/><td/><td/><td>Ar-air</td><td>0.926</td><td>1.749</td><td>0.0</td><td>244-10'</td><td/></tr><tr><td/><td/><td/><td>Ar-CO,</td><td>1.76</td><td>1.646</td><td>89.1</td><td>276-1800</td><td/></tr><tr><td colspan=\"3\">These equations demonstrate that the apparent diffusion ' C0 2 r C0 2 , coefficient in Pick's 2 , N 2</td><td>CH^N, CH 4 -O, CH s -air N,-0, N,-H 2 O N,-CO, Oj-HjO O.-CO, Air-H 2 O Air-CO, I^O-CO, CO,-NiO</td><td>1.01 1.68 1.04 1.14 0.188 3.18 0.191 1.58 0.189 2.73 9.33 0.284</td><td>1.750 1.695 1.747 1.724 2.072 1.570 2.072 1.661 2.072 1.590 1.500 1.866</td><td>0.0 44.2 0.0 0.0 0.0 113.6 0.0 61.3 0.0 102.1 307.9 0.0</td><td>298-10' 294-10' 298-10' 285-10' 282-373 288-1800 282-450 287-1083 282-450 280-1800 296-1640 195-550</td><td/></tr></table>",
+                "num": null
+            },
+            "TABREF3": {
+                "html": null,
+                "text": "",
+                "type_str": "table",
+                "content": "<table><tr><td colspan=\"2\">of a = 1.58 X 1Q-7 ,</td></tr><tr><td colspan=\"2\">b = 1.661, and c = 61.3. At a temperature of 293 K,</td></tr><tr><td>ln ( D o 2 ,co 2 ) = ln(1.58 X 10~7) + 1.661 ln(293.)</td><td/></tr><tr><td>-61.3/293.</td><td>[31]</td></tr><tr><td>#o 2 ,co 2 = 0.00160 m 2 kPa s\" 1 ,</td><td/></tr><tr><td>or at atmospheric pressure, from Eq. [26],</td><td/></tr><tr><td>0 0j . co, = 0-00160/101</td><td/></tr><tr><td>= 0.159 X 10~4m 2 /s.</td><td>[32]</td></tr></table>",
+                "num": null
+            }
+        }
+    }
+}

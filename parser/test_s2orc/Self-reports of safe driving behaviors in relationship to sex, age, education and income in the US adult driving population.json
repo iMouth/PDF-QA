@@ -2,7 +2,7 @@
     "paper_id": "Self-reports of safe driving behaviors in relationship to sex, age, education and income in the US adult driving population",
     "header": {
         "generated_with": "S2ORC 1.0.0",
-        "date_generated": "2023-03-29T13:33:02.162813Z"
+        "date_generated": "2023-03-31T14:39:34.017391Z"
     },
     "title": "Self-reports of safe driving behaviors in relationship to sex, age, education and income in the US adult driving population",
     "authors": [
@@ -773,24 +773,24 @@
         "ref_entries": {
             "FIGREF0": {
                 "fig_num": "1",
-                "num": null,
-                "text": "Proportion of drivers observing speed limits all the time by age, income, education and sex.",
+                "uris": null,
                 "type_str": "figure",
-                "uris": null
+                "num": null,
+                "text": "Proportion of drivers observing speed limits all the time by age, income, education and sex."
             },
             "FIGREF1": {
                 "fig_num": "2",
-                "num": null,
-                "text": "Proportion of drivers who never drink and drive by age, education, income and sex.",
+                "uris": null,
                 "type_str": "figure",
-                "uris": null
+                "num": null,
+                "text": "Proportion of drivers who never drink and drive by age, education, income and sex."
             },
             "FIGREF2": {
                 "fig_num": "3",
-                "num": null,
-                "text": "Proportion of male drivers using seat belts all the time by age, education and income.",
+                "uris": null,
                 "type_str": "figure",
-                "uris": null
+                "num": null,
+                "text": "Proportion of male drivers using seat belts all the time by age, education and income."
             }
         }
     }
