@@ -17,11 +17,9 @@ def parse_pdfs(pdf_dir, json_dir):
             writeJson = pdf_to_json(pdf_dir + pdf)
             path = json_dir + pdf[:-4] + '.json'
             if os.path.exists(path):
-                print('File already exists: ' + path)
                 continue
             with open(path, 'w') as f:
                 f.write(writeJson)
-                
 
 if __name__ == '__main__':
     if len(sys.argv) < 3:
