@@ -1,0 +1,95 @@
+{
+    "paper_id": "file",
+    "title": "",
+    "abstract": "",
+    "body_text": [
+        {
+            "section": "Projects",
+            "text": "Message Board (Node.js, Express.js, SASS, Javascript, Heroku, MongoDB) • GitHub: https://github.com/iMouth/Message-Board"
+        },
+        {
+            "section": "Projects",
+            "text": "• Developed a mobile responsive full-stack message board application with Node.js and Express.js using MVC architecture"
+        },
+        {
+            "section": "Projects",
+            "text": "• Stores message data on MongoDB database & utilizes mongoose library to connect to MongoDB to get and post new messages for the user"
+        },
+        {
+            "section": "Projects",
+            "text": "• Uses EJS library for HTML templating, SASS as a CSS preprocessor, and bcrypt for password hashing Cartoon Search (React, Firebase, Javascript)"
+        },
+        {
+            "section": "Projects",
+            "text": "• GitHub: https://github.com/iMouth/Cartoon-Search"
+        },
+        {
+            "section": "Projects",
+            "text": "• Developed a Where's Waldo inspired game with React and Firebase"
+        },
+        {
+            "section": "Projects",
+            "text": "• Stored coordinate data for the characters and leaderboard data (name and time) in Cloud Firestore"
+        },
+        {
+            "section": "Projects",
+            "text": "• Enhanced the user experience by allowing the user to choose from different maps Shopping Cart (React, Typescript)"
+        },
+        {
+            "section": "Projects",
+            "text": "• GitHub: https://github.com/iMouth/Shopping-Cart"
+        },
+        {
+            "section": "Projects",
+            "text": "• Developed a mobile responsive e-commerce shop built with React"
+        },
+        {
+            "section": "Projects",
+            "text": "• Allows users to browse through the shop, add an item to the cart, and manipulate the amount of a particular item at checkout before purchasing Memory Card (React, Typescript)"
+        },
+        {
+            "section": "Projects",
+            "text": "• GitHub: https://github.com/iMouth/Memory-Card"
+        },
+        {
+            "section": "Projects",
+            "text": "• Developed a mobile responsive memory card game using React with the theme of Survivor winners"
+        },
+        {
+            "section": "Projects",
+            "text": "• Keeps track of cards clicked until the user wins or restarts the game if a previous card becomes clicked"
+        },
+        {
+            "section": "Projects",
+            "text": "Weather App (Open Weather API, Javascript)"
+        },
+        {
+            "section": "Projects",
+            "text": "• GitHub: https://github.com/iMouth/Weather-App"
+        },
+        {
+            "section": "Projects",
+            "text": "• Developed a mobile responsive application that displays weather forecasts for a user-defined location"
+        },
+        {
+            "section": "Projects",
+            "text": "• Utilizes Open Weather API to fetch weather data to display to the user CV Creator (React, Typescript)"
+        },
+        {
+            "section": "Projects",
+            "text": "• GitHub: https://github.com/iMouth/CV-Creator"
+        },
+        {
+            "section": "Projects",
+            "text": "• Developed a mobile responsive CV creator using React, which updates the CV as the user is typing"
+        },
+        {
+            "section": "Skills",
+            "text": "Languages: Javascript/HTML/CSS, Python, Java, C, Typescript Frameworks: React, Express.js, Node.js, SASS Tools:"
+        },
+        {
+            "section": "Skills",
+            "text": "Git, Bash, MongoDB, Firebase, Heroku, Docker"
+        }
+    ]
+}
