@@ -22,5 +22,7 @@ from backend import views as backend_views
 urlpatterns = [
     path('admin/', admin.site.urls),
     ## make a path from / to the question method in views.py with parmater question
-    path('', backend_views.question, name='question'),
+    path('question/', backend_views.question, name='question'),
+    ## make a path from / that accepts a POST request that sends a file
+    path('upload/', backend_views.set_file),
 ]
