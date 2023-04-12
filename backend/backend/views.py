@@ -4,8 +4,7 @@ from rest_framework import status
 from rest_framework import viewsets
 # from .models import Question
 # from .serializers import QuestionSerializer
-
-## create a method that accepts a GET request with the path /?question= and returns a response with the same question
+from .pdfparser.formatter import main
 
 @api_view(['GET'])
 def question(request):
@@ -24,6 +23,7 @@ def set_file(request):
     print("Got request: ", request)
     try: 
         file = request.FILES['file']
+        main(file)
     except:
         file = None
     print("Got file: ", file)
@@ -31,3 +31,4 @@ def set_file(request):
         return Response(status=status.HTTP_201_CREATED)
     else:
         return Response(status=status.HTTP_400_BAD_REQUEST)
+    

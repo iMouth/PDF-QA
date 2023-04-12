@@ -3,8 +3,8 @@ S2ORC classes
 """
 
 from datetime import datetime
-from typing import Dict, List, Optional
-from doc2json.config import *
+from typing import Dict, List, Optional, Union
+from config import *
 
 
 CORRECT_KEYS = {
@@ -354,8 +354,8 @@ class Paragraph:
             cite_spans: List[Dict],
             ref_spans: List[Dict],
             eq_spans: Optional[List[Dict]] = [],
-            section: Optional = None,
-            sec_num: Optional = None
+            section: Optional[Union[str, List]] = None,
+            sec_num: Optional[str] = None
     ):
         self.text = text
         self.cite_spans = cite_spans
