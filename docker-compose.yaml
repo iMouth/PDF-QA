@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  grobid:
+    container_name: grobid
+    image: grobid/grobid:0.7.2
+    ports:
+      - "8070:8070"
