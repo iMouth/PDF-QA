@@ -18,14 +18,14 @@ require something scalable too, which is not implemented for the moment.
 '''
 
 DEFAULT_GROBID_CONFIG = {
-    "grobid_server": "localhost",
+    "grobid_server": "grobid",
     "grobid_port": "8070",
     "batch_size": 1000,
     "sleep_time": 5,
     "generateIDs": False,
     "consolidate_header": False,
     "consolidate_citations": False,
-    "include_raw_citations": True,
+    "include_raw_citations": False,
     "include_raw_affiliations": False,
     "max_workers": 2,
 }

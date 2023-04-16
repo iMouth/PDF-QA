@@ -2,7 +2,30 @@ version: '3.8'
 
 services:
   grobid:
+    build: .
     container_name: grobid
-    image: grobid/grobid:0.7.2
     ports:
       - "8070:8070"
+  backend:
+    build: ./backend
+    container_name: backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/backend
+    tty: true
+    depends_on:
+      - grobid
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    tty: true
+    stdin_open: true
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/frontend
+      - /frontend/node_modules/
+    depends_on:
+      - backend
+      
