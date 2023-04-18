@@ -46,7 +46,7 @@ def get_message(question):
     json_file = PATH + "pdf-info/file.json"
     search_engine.index_files(json_file)
 
-    hits = search_engine.search("What parameters determine water quality?", limit=None, top_n=MAX_HITS)
+    hits = search_engine.search(question, limit=None, top_n=MAX_HITS)
 
     if os.path.exists(PATH + "search_index"): 
         os.system("rm -rf " + PATH + "search_index")
