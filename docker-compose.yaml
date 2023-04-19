@@ -6,12 +6,16 @@ services:
     container_name: grobid
     ports:
       - "8070:8070"
+  # fastchat:
+  #   build: ./FastChat
+  #   container_name: FastChat
+  #   ports:
+  #     - "8030:8030"
   backend:
     build: ./backend
     container_name: backend
     ports:
       - "8000:8000"
-      - "8030:8030"
     volumes:
       - ./backend:/backend
     tty: true

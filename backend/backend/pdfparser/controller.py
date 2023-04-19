@@ -1,9 +1,9 @@
 from .pdf_to_json import makePDF, parsePDF, formatJSON
 from .search_engine import SearchEngine
 import os 
-from .FastChat.fastchat import client
+from .api import set_baseurl, ChatCompletion
 
-client.set_baseurl(os.getenv("FASTCHAT_BASEURL"))
+set_baseurl(os.getenv("FASTCHAT_BASEURL"))
 
 PATH = "backend/pdfparser/"
 MAX_HITS = 5
@@ -66,7 +66,7 @@ def get_anwser(context):
     Returns:
         str: The answer to the question.
     '''
-    completion = client.ChatCompletion.create(
+    completion = ChatCompletion.create(
         model="vicuna-7b-v1.1",
         messages=[
             {"role": "user", "content": context}

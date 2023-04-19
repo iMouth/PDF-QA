@@ -21,7 +21,7 @@ const Landing = () => {
     const body = document.querySelector('body') as HTMLBodyElement;
     const formData = new FormData();
     formData.append('file', file);
-    axios.post('http://backend:8000/upload/', formData, {
+    axios.post('http://localhost:8000/upload/', formData, {
       headers: {
         'Content-Type': 'multipart/form-data'
       }
@@ -40,7 +40,7 @@ const Landing = () => {
   useEffect(() => {
     const getAnswer = async (question: string) => {
       console.log("queston: " + question);
-      axios.get('http://backend:8000/question/', {
+      axios.get('http://localhost:8000/question/', {
         params: {
           question: question
         }

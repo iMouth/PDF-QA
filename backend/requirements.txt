@@ -5,5 +5,7 @@ pip3 install python-dotenv
 pip3 install djangorestframework
 pip3 install django-cors-headers
 pip3 install axios
-
+pip3 install httpx
+pip3 install shortuuid
+pip3 install pydantic
 

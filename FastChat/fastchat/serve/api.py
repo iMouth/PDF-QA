@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 class AppSettings(BaseSettings):
     # The address of the model controller.
-    FASTCHAT_CONTROLLER_URL: str = "http://backend:21001"
+    FASTCHAT_CONTROLLER_URL: str = "http://localhost:21001"
 
 
 app_settings = AppSettings()
