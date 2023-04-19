@@ -7,6 +7,10 @@ services:
     ports:
       - "8070:8070"
   # fastchat:
+  #   runtime: nvidia
+  #   environment:
+  #     - NVIDIA_VISIBLE_DEVICES=all
+  #     - NVIDIA_DRIVER_CAPABILITIES=compute,utility
   #   build: ./FastChat
   #   container_name: FastChat
   #   ports:

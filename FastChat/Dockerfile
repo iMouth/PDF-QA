@@ -1,6 +1,10 @@
-FROM python:3.9.16
+FROM nvidia/cuda:12.1.0-runtime-ubuntu22.04
 
 WORKDIR /FastChat
+
+RUN apt-get update
+
+RUN apt-get install -y python3-pip
 
 COPY . .
 

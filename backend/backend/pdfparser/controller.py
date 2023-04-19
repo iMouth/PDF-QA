@@ -3,7 +3,10 @@ from .search_engine import SearchEngine
 import os 
 from .api import set_baseurl, ChatCompletion
 
-set_baseurl(os.getenv("FASTCHAT_BASEURL"))
+if os.getenv("FASTCHAT_BASEURL"):
+    set_baseurl(os.getenv("FASTCHAT_BASEURL"))
+else:
+    set_baseurl("http://localhost:8030")
 
 PATH = "backend/pdfparser/"
 MAX_HITS = 5
@@ -66,14 +69,17 @@ def get_anwser(context):
     Returns:
         str: The answer to the question.
     '''
-    completion = ChatCompletion.create(
-        model="vicuna-7b-v1.1",
-        messages=[
-            {"role": "user", "content": context}
-            ]
-    )
+    try:
+        completion = ChatCompletion.create(
+            model="vicuna-7b-v1.1",
+            messages=[
+                {"role": "user", "content": context}
+                ]
+        )
 
-    return completion.choices[0].message
+        return completion.choices[0].message
+    except:
+        return context
 
     
 def main(file_pdf):
