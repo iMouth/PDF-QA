@@ -1,4 +1,3 @@
-pip3 install --upgrade pip
 pip3 install BeautifulSoup4
 pip3 install Whoosh
 pip3 install django
@@ -7,9 +6,4 @@ pip3 install djangorestframework
 pip3 install django-cors-headers
 pip3 install axios
 
-# Include After fastchat is needed
-# pip3 install fschat
-# pip3 install tensorflow
-# pip3 install torch torchvision torchaudio
-# pip3 install transformers
 
