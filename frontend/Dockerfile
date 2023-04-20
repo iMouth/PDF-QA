@@ -1,8 +1,10 @@
-FROM node:19.9-alpine3.16
+FROM node:19.9
 
 WORKDIR /frontend
 
 COPY package.json .
+
+RUN npm -g install npm@latest
 
 RUN npm install
 

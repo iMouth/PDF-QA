@@ -2,7 +2,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework import status
 from rest_framework import viewsets
-from .pdfparser.controller import main, get_message
+from .pdfparser.controller import main, get_message, get_anwser
 
 @api_view(['GET'])
 def question(request):
@@ -11,7 +11,8 @@ def question(request):
     print("Got question: ", question)
     if question:
         context = get_message(question)
-        return Response({'answer': "A: " + context}, status=status.HTTP_200_OK)
+        answer = get_anwser(context)
+        return Response({'answer': "A: " + answer}, status=status.HTTP_200_OK)
     else:
         return Response(status=status.HTTP_400_BAD_REQUEST)
     

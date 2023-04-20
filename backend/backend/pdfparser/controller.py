@@ -1,6 +1,12 @@
 from .pdf_to_json import makePDF, parsePDF, formatJSON
 from .search_engine import SearchEngine
 import os 
+from .api import set_baseurl, ChatCompletion
+
+if os.getenv("FASTCHAT_BASEURL"):
+    set_baseurl(os.getenv("FASTCHAT_BASEURL"))
+else:
+    set_baseurl("http://localhost:8030")
 
 PATH = "backend/pdfparser/"
 MAX_HITS = 5
@@ -53,7 +59,29 @@ def get_message(question):
 
     return build_msg(hits, question)
     
+def get_anwser(context):
+    '''
+    Gets the answer to the question.
 
+    Args:
+        context (str): The context to send to the model.
+
+    Returns:
+        str: The answer to the question.
+    '''
+    try:
+        completion = ChatCompletion.create(
+            model="vicuna-7b-v1.1",
+            messages=[
+                {"role": "user", "content": context}
+                ]
+        )
+
+        return completion.choices[0].message
+    except:
+        return context
+
+    
 def main(file_pdf):
     '''
     Main function for the PDF parser. This function calls the functions to make the PDF, parse the PDF, and format the JSON.
