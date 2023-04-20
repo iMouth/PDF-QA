@@ -2,6 +2,14 @@ from .pdf_to_json import makePDF, parsePDF, formatJSON
 from .search_engine import SearchEngine
 import os 
 from .api import set_baseurl, ChatCompletion
+import requests
+
+## get CHAT_GPT_KEY from .env
+
+from dotenv import load_dotenv
+load_dotenv()
+
+CHATGPT_API_KEY = os.getenv("CHATGPT_API_KEY")
 
 if os.getenv("FASTCHAT_BASEURL"):
     set_baseurl(os.getenv("FASTCHAT_BASEURL"))
@@ -69,6 +77,7 @@ def get_anwser(context):
     Returns:
         str: The answer to the question.
     '''
+
     try:
         completion = ChatCompletion.create(
             model="vicuna-7b-v1.1",
@@ -76,10 +85,30 @@ def get_anwser(context):
                 {"role": "user", "content": context}
                 ]
         )
-
         return completion.choices[0].message
     except:
-        return context
+        if not CHATGPT_API_KEY:
+            return "FastChat model is not working please add a CHAT_GPT key to enviroment variables to use Chat GPT. Context to be sent below.\n\n" + context
+        try: 
+            url = 'https://api.openai.com/v1/completions'
+
+            headers = {
+                'Content-Type': 'application/json',
+                'Authorization': f'Bearer {CHATGPT_API_KEY}',
+            }
+
+            data = {
+                "model": "gpt-3.5-turbo",
+                "prompt": context,
+                "max_tokens": 200,
+                "temperature": 0.5,
+            }
+
+            response = requests.post(url, headers=headers, json=data)
+            return response.json()["choices"][0]["text"]
+        except:
+            return "CHAT GPT and FastChat model is not working. Context to be sent below.\n\n" + context
+
 
     
 def main(file_pdf):
