@@ -80,12 +80,12 @@ def get_anwser(context):
 
     try:
         completion = ChatCompletion.create(
-            model="vicuna-7b-v1.1",
+            model="vicuna-13b-v1.1",
             messages=[
                 {"role": "user", "content": context}
                 ]
         )
-        return completion.choices[0].message
+        return completion.choices[0].message.content
     except:
         if not CHATGPT_API_KEY:
             return "FastChat model is not working please add a CHAT_GPT key to enviroment variables to use Chat GPT. Context to be sent below.\n\n" + context
