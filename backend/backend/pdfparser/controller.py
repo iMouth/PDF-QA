@@ -80,7 +80,7 @@ def get_anwser(context):
 
     try:
         completion = ChatCompletion.create(
-            model="vicuna-7b-v1.1",
+            model="vicuna-13b-v1.1",
             messages=[
                 {"role": "user", "content": context}
                 ]

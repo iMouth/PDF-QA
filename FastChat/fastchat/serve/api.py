@@ -12,6 +12,7 @@ from typing import Union, Dict, List, Any
 import argparse
 import json
 import logging
+import os
 
 import fastapi
 import httpx
@@ -28,8 +29,10 @@ logger = logging.getLogger(__name__)
 
 class AppSettings(BaseSettings):
     # The address of the model controller.
-    FASTCHAT_CONTROLLER_URL: str = "http://FastChat:21001"
-
+    if os.getenv("FASTCHAT_CONTROLLER_URL"):
+        FASTCHAT_CONTROLLER_URL: str = os.getenv("FASTCHAT_CONTROLLER_URL")
+    else:
+           FASTCHAT_CONTROLLER_URL: str = "http://localhost:8000"
 
 app_settings = AppSettings()
 app = fastapi.FastAPI()
@@ -121,8 +124,8 @@ def generate_payload(model_name: str, messages: List[Dict[str, str]],
 async def chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_len: int):
     controller_url = app_settings.FASTCHAT_CONTROLLER_URL
     async with httpx.AsyncClient() as client:
-        # ret = await client.post(controller_url + "/get_worker_address", json={"model": model_name})
-        print("CONTROLLER" + app_settings.FASTCHAT_CONTROLLER_URL)
+        ret = await client.post(controller_url + "/get_worker_address", json={"model": model_name})
+        # TODO: Worker Address is being hardcoded. Unsure why above command doesn't work
         worker_addr = "http://FastChat:21002"
         # worker_addr = ret.json()["address"]
         # No available worker
