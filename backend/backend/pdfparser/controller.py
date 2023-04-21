@@ -85,7 +85,7 @@ def get_anwser(context):
                 {"role": "user", "content": context}
                 ]
         )
-        return completion.choices[0].message
+        return completion.choices[0].message.content
     except:
         if not CHATGPT_API_KEY:
             return "FastChat model is not working please add a CHAT_GPT key to enviroment variables to use Chat GPT. Context to be sent below.\n\n" + context

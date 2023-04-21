@@ -28,7 +28,7 @@ logger = logging.getLogger(__name__)
 
 class AppSettings(BaseSettings):
     # The address of the model controller.
-    FASTCHAT_CONTROLLER_URL: str = "http://localhost:21001"
+    FASTCHAT_CONTROLLER_URL: str = "http://FastChat:21001"
 
 
 app_settings = AppSettings()
@@ -121,8 +121,10 @@ def generate_payload(model_name: str, messages: List[Dict[str, str]],
 async def chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_len: int):
     controller_url = app_settings.FASTCHAT_CONTROLLER_URL
     async with httpx.AsyncClient() as client:
-        ret = await client.post(controller_url + "/get_worker_address", json={"model": model_name})
-        worker_addr = ret.json()["address"]
+        # ret = await client.post(controller_url + "/get_worker_address", json={"model": model_name})
+        print("CONTROLLER" + app_settings.FASTCHAT_CONTROLLER_URL)
+        worker_addr = "http://FastChat:21002"
+        # worker_addr = ret.json()["address"]
         # No available worker
         if worker_addr == "":
             raise ValueError(f"No available worker for {model_name}")
