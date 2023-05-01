@@ -8,19 +8,81 @@ const Landing = () => {
 
   useEffect(() => {
     const getAnswer = async (question: string) => {
-      console.log("queston: " + question);
-      axios.get('http://localhost:8000/question/', {
-        params: {
-          question: question
+      console.log("question: " + question);
+      let message = "";
+
+      try {
+        const response = await fetch('http://localhost:8000/return_message?question=' + question, {
+          method: "GET",
+        });
+        if (response.ok) {
+
+          // we want the message attribute of the response
+          const data = await response.json();
+          message = data.message;
+          console.log("message: " + message);
         }
-      }).then((response: { status: number; data: { answer: string } }) => {
-        if (response.status == 200) {
-          addMessage(response.data.answer);
-        }
-      }).catch((error: any) => {
+      } catch (error) {
         console.log(error);
-      });
-    }
+      }
+
+
+      try {
+        const response = await fetch(`http://localhost:8000/question?question=${encodeURIComponent(question)}`, {
+          method: "GET",
+        });
+
+        if (response.ok) {
+          // Read and process the stream
+          const reader = response.body.getReader();
+          const decoder = new TextDecoder("utf-8");
+
+          // Create a message element
+          const messageElement = document.createElement('div');
+          addMessage("A: ", messageElement);
+
+          // Create a span to hold the answer text
+          const answerSpan = document.createElement('span');
+          messageElement.appendChild(answerSpan);
+
+          let previousText = '';
+
+          while (true) {
+            const { value, done } = await reader.read();
+            if (done) {
+              break;
+            }
+
+            const chunks = decoder.decode(value).split("\0");
+
+            for (const chunk of chunks) {
+              if (chunk.trim() === "") {
+                continue;
+              }
+
+              // Parse the chunk and extract the text
+              const data = JSON.parse(chunk);
+              if (data.error_code === 0) {
+                const output = data.text.trim();
+                const newText = output.slice(message.length);
+
+                if (newText !== previousText) {
+                  answerSpan.innerText += newText.slice(previousText.length);
+                  previousText = newText;
+                }
+              } else {
+                const output = data.text + ` (error_code: ${data.error_code})`;
+                answerSpan.innerText += output;
+                break;
+              }
+            }
+          }
+        }
+      } catch (error) {
+        console.log(error);
+      }
+    };
+
 
     const input = document.querySelector('.question') as HTMLInputElement;
     input.addEventListener('keydown', (e) => {
@@ -66,14 +128,17 @@ const Landing = () => {
     });
   }, []);
 
-  const addMessage = (message: string) => {
+  const addMessage = (message: string, messageElement?: HTMLDivElement) => {
     const messageBox = document.getElementById('message-box') as HTMLDivElement;
-    const messageElement = document.createElement('div') as HTMLDivElement;
+
+    if (!messageElement) {
+      messageElement = document.createElement('div');
+    }
     messageElement.className = 'message';
     messageElement.innerText = message;
     messageBox.appendChild(messageElement);
     messageBox.scrollTop = messageBox.scrollHeight;
-  }
+  };
 
   const sendFile = async (file: File) => {
     const question = document.querySelector('.question') as HTMLInputElement;
