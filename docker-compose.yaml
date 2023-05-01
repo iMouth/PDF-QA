@@ -6,14 +6,6 @@ services:
     container_name: grobid
     ports:
       - "8070:8070"
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
-    
   fastchat:
     build: ./FastChat
     container_name: FastChat
@@ -21,21 +13,17 @@ services:
       - "8030:8030"
     volumes:
       - ./FastChat:/FastChat
-    command: |
-      bash -c "echo 'Current working directory: $$(pwd)' &&
-               ls -la /FastChat && 
-               pip3 install --upgrade pip &&
-               pip3 install -e . &&
-               chmod 777 start.sh &&
-               ./start.sh"
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
-                           
+  # fastchat:
+  #   build: ./FastChat
+  #   container_name: FastChat
+  #   runtime: nvidia
+  #   command: nvidia-smi
+  #   environment:
+  #     - NVIDIA_VISIBLE_DEVICES=all
+  #   ports:
+  #     - "8030:8030"
+  #   volumes:
+  #     - ./FastChat:/FastChat
   backend:
     build: ./backend
     container_name: backend
@@ -43,7 +31,6 @@ services:
       - "8000:8000"
     volumes:
       - ./backend:/backend
-      - ./FastChat:/FastChat
     tty: true
   frontend:
     build: ./frontend

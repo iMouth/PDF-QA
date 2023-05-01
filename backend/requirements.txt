@@ -8,9 +8,4 @@ pip3 install axios
 pip3 install httpx
 pip3 install shortuuid
 pip3 install pydantic
-pip3 install aiohttp
-pip3 install fastapi
-pip3 install uvicorn
-pip3 install torch
-pip3 install transformers
 

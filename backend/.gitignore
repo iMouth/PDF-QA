@@ -1,4 +1,4 @@
 .env
 **/__pycache__/
-backend/pdfparser/pdf-info/
+backend/pdfparser/pdf-info/*
 backend/pdfparser/models/
