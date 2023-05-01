@@ -7,13 +7,13 @@ from pydantic import BaseModel, Field
 
 
 class ChatCompletionRequest(BaseModel):
+    # TODO: support streaming, stop with a list of text etc.
     model: str
     messages: List[Dict[str, str]]
     temperature: Optional[float] = 0.7
     n: int = 1
     max_tokens: Optional[int] = None
     stop: Optional[str] = None
-    stream: Optional[bool] = False  # Add the new 'stream' parameter
 
 
 class ChatMessage(BaseModel):
