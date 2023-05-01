@@ -1,7 +1,15 @@
 from .pdf_to_json import makePDF, parsePDF, formatJSON
 from .search_engine import SearchEngine
 import os 
-from .api import set_baseurl, ChatCompletion
+# from .api import set_baseurl, ChatCompletion
+import sys
+
+sys.path.append("..")
+sys.path.append("../FastChat/")
+sys.path.append("../FastChat/fastchat/")
+sys.path.append("../FastChat/fastchat/client/")
+
+from FastChat.fastchat import client
 import requests
 
 ## get CHAT_GPT_KEY from .env
@@ -12,13 +20,13 @@ load_dotenv()
 CHATGPT_API_KEY = os.getenv("CHATGPT_API_KEY")
 
 if os.getenv("FASTCHAT_BASEURL"):
-    set_baseurl(os.getenv("FASTCHAT_BASEURL"))
+    client.set_baseurl(os.getenv("FASTCHAT_BASEURL"))
 else:
-    set_baseurl("http://localhost:8030")
+    client.set_baseurl("http://localhost:8030")
 
 PATH = "backend/pdfparser/"
-MAX_HITS = 5
-MAX_TOKENS = 500
+MAX_HITS = 3
+MAX_TOKENS = 350
 
 def build_msg(hits, question):
     '''
@@ -31,16 +39,30 @@ def build_msg(hits, question):
     Returns:
         str: The message to send to the frontend.
     '''
-    msg = "You are a chatbot and you are talking to a user.\n\n"
-    msg += "The question is: " + question + "\n\n"
+    msg = "You are ChatGPT, a large language model trained by OpenAI. Your task is to answer questions based on the given context. Please answer the following question based on the context provided.\n\n"
     msg += "Use the following as context to answer the question:\n\n"
+    msg += "Example: \n\n"
+    msg += "Context: \n\n"
+    msg += "On a sunny day, a group of friends decided to have a picnic by the lake. They brought sandwiches, salads, and a variety of fruits to share. They spent the afternoon playing frisbee, swimming, and sunbathing. \n\n"
+    msg += "Question: \n\n"
+    msg += "What did the group of friends bring to the picnic? \n\n"
+    msg += "Answer: \n\n"
+    msg += "According to the provided context, the group of friends prepared an assortment of delicious items for their picnic by the lake. They packed a selection of sandwiches, an array of salads, and a diverse range of fruits to share among themselves, ensuring that everyone could enjoy the pleasant outdoor dining experience. \n\n"
+    msg += "Context: \n\n"
     msg = msg.split(" ")
     for hit in hits:
         if len(msg) >= MAX_TOKENS:
             break
         msg.extend(hit["text"].split(" "))
         msg.append("\n\n")
-    return " ".join(msg[:MAX_TOKENS])
+    
+    msg = " ".join(msg[:MAX_TOKENS])
+    msg += "\n\n"
+
+    msg += "Question: \n\n"
+    msg += question + "\n\n"
+    msg += "Answer: \n\n"
+    return msg
 
 def get_message(question):
     '''
@@ -79,13 +101,16 @@ def get_anwser(context):
     '''
 
     try:
-        completion = ChatCompletion.create(
+        completion = client.ChatCompletion.create(
             model="vicuna-13b-v1.1",
             messages=[
                 {"role": "user", "content": context}
-                ]
+                ],
+            stream=True
+            
         )
-        return completion.choices[0].message.content
+        return completion
+    
     except:
         if not CHATGPT_API_KEY:
             return "FastChat model is not working please add a CHAT_GPT key to enviroment variables to use Chat GPT. Context to be sent below.\n\n" + context

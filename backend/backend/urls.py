@@ -22,5 +22,6 @@ from backend import views as backend_views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('question/', backend_views.question, name='question'),
+    path('return_message/', backend_views.return_message),
     path('upload/', backend_views.set_file),
 ]

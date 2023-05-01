@@ -2,9 +2,9 @@ FROM python:3.9.16
 
 WORKDIR /backend
 
-COPY . .
-
 RUN python3 -m pip install --upgrade pip
+
+COPY . .
 
 RUN ./requirements.txt
 
