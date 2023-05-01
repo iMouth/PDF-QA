@@ -1,0 +1,57 @@
+version: '3.8'
+
+services:
+  grobid:
+    build: .
+    container_name: grobid
+    ports:
+      - "8070:8070"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    
+  fastchat:
+    build: ./FastChat
+    container_name: FastChat
+    ports:
+      - "8030:8030"
+    volumes:
+      - ./FastChat:/FastChat
+    command: |
+      bash -c "echo 'Current working directory: $$(pwd)' &&
+               ls -la /FastChat && 
+               pip3 install --upgrade pip &&
+               pip3 install -e . &&
+               chmod 777 start.sh &&
+               ./start.sh"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+                           
+  backend:
+    build: ./backend
+    container_name: backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/backend
+      - ./FastChat:/FastChat
+    tty: true
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    tty: true
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/frontend
+      - /frontend/node_modules/
+      
