@@ -1,0 +1,16 @@
+pip3 install BeautifulSoup4
+pip3 install Whoosh
+pip3 install django
+pip3 install python-dotenv
+pip3 install djangorestframework
+pip3 install django-cors-headers
+pip3 install axios
+pip3 install httpx
+pip3 install shortuuid
+pip3 install pydantic
+pip3 install aiohttp
+pip3 install fastapi
+pip3 install uvicorn
+pip3 install torch
+pip3 install transformers
+

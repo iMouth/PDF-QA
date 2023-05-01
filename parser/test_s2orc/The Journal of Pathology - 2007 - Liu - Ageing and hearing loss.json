@@ -1,0 +1,3901 @@
+{
+    "paper_id": "The Journal of Pathology - 2007 - Liu - Ageing and hearing loss",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2023-03-31T14:39:23.805788Z"
+    },
+    "title": "Ageing and hearing loss",
+    "authors": [
+        {
+            "first": "X",
+            "middle": [
+                "Z"
+            ],
+            "last": "Liu",
+            "suffix": "",
+            "affiliation": {},
+            "email": "xliu@med.miami.edu"
+        },
+        {
+            "first": "D",
+            "middle": [],
+            "last": "Yan",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Although many adults retain good hearing as they age, hearing loss associated with ageing is common among elderly persons. There are a number of pathophysiolological processes underlying age-related changes to functional components in the inner ear. Genetic factors determine the ageing process but are under the influence of intrinsic and environmental factors. It is difficult to distinguish changes of normal ageing from those of other contributing factors. The effects of age-related deafness can have significant physical, functional and mental health consequences. Although a deficit in hearing can be corrected to some degree by a hearing aid or other appropriate amplification devices, hearing-related rehabilitative needs are much more than simply amplifying external sound. Only by better understanding the process of ageing and its effect on the auditory function can we better accommodate elderly people in our day-today interactions. We review here the structure and function of the inner ear, pathophysiology associated with age-related hearing loss (ARHL), heritability, allelism and modifier genes of ARHL, and evaluate the genetic analyses for identification of genetic factors that are involved.",
+    "pdf_parse": {
+        "paper_id": "The Journal of Pathology - 2007 - Liu - Ageing and hearing loss",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Although many adults retain good hearing as they age, hearing loss associated with ageing is common among elderly persons. There are a number of pathophysiolological processes underlying age-related changes to functional components in the inner ear. Genetic factors determine the ageing process but are under the influence of intrinsic and environmental factors. It is difficult to distinguish changes of normal ageing from those of other contributing factors. The effects of age-related deafness can have significant physical, functional and mental health consequences. Although a deficit in hearing can be corrected to some degree by a hearing aid or other appropriate amplification devices, hearing-related rehabilitative needs are much more than simply amplifying external sound. Only by better understanding the process of ageing and its effect on the auditory function can we better accommodate elderly people in our day-today interactions. We review here the structure and function of the inner ear, pathophysiology associated with age-related hearing loss (ARHL), heritability, allelism and modifier genes of ARHL, and evaluate the genetic analyses for identification of genetic factors that are involved.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Presbycusis, or age-related hearing loss (ARHL), is polygenic/multifactorial in aetiology [1] . ARHL is thought to result from age-related degeneration of the cochlea with the cumulative effects of extrinsic damage (noise and other ototoxic agents) and intrinsic disorders (e.g. systemic diseases). The gradual presbycusic loss of hearing sensitivity is associated with difficulty in speech discrimination. Presbycusis sufferers first have a high tone hearing loss (HL), which has a major adverse effect on communication, particularly in noisy and/or reverberant listening situations. Once the loss progresses to the 2-4 kHz range, thresholds for word, consonant and even vowel identification are increased [2] . Thus, by itself, a loss of hearing lowers the quality of life, and for most hearing-impaired people the HL has psychological, physical and social consequences. Hearing and understanding of speech presented in situations where there is interference, such as a noisy room, deteriorate later in life. Over the past several decades, a considerable amount of research and theoretical speculation has accumulated on age-related changes in speech perception. Can the presbycusic threshold shifts account fully for the speech understanding problem in elderly individuals? While loss in peripheral hearing sensitivity explains many of the listening problems of elderly persons, some studies suggest that age-related declines in general cognitive skill and central auditory processing also appear to contribute. The relative contribution of cognitive factors to speech-understanding difficulties remains controversial. It is also unresolved whether presbyscusis is a central or a peripheral phenomenon. Finally, although there is a general consensus that the cochlea is the site of ARHL, there is still the very difficult and incompletely resolved issue as to which sites in the cochlea are affected by age, and the site of the most functional significance is an area of much controversy.",
+                "cite_spans": [
+                    {
+                        "start": 90,
+                        "end": 93,
+                        "text": "[1]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 707,
+                        "end": 710,
+                        "text": "[2]",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "HL is a major public health problem [3] . More than 28 million individuals in the USA have HL and this number is expected to raise with the rapidly increasing number of elderly people, with projections that there will be nearly 60 million Americans (19% of the total population) aged 65 and older by the year 2025 [4] . Presbycusis is one of the four leading chronic health conditions experienced by the the elderly [5, 6] . The prevalence of HL accelerates dramatically with age, with approximately 25% of subjects aged 50-65 years having hearing thresholds greater than 30 dB in at least one ear [7, 8] , and self-reported HL can be identified in half of those aged 85 years and older [9] .",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 39,
+                        "text": "[3]",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 314,
+                        "end": 317,
+                        "text": "[4]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 416,
+                        "end": 419,
+                        "text": "[5,",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 420,
+                        "end": 422,
+                        "text": "6]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 598,
+                        "end": 601,
+                        "text": "[7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 602,
+                        "end": 604,
+                        "text": "8]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 687,
+                        "end": 690,
+                        "text": "[9]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Epidemiology",
+                "sec_num": null
+            },
+            {
+                "text": "In a longitudinal study of patients from the Framingham cohort [10] , consisting of 1475 patients over a 6 year period, the rate of hearing decline observed has been found to be consistent with two patterns of hearing degeneration, corresponding to an average 6 year threshold change in the range 1-8 dB at 250-256 kHz and 10-15 dB at 8 kHz. The lowfrequency (250-251 kHz) pattern of HL appeared to be age-dependent, and women had worse thresholds than men. On the other hand, for the high-frequency (4-8 kHz) pattern of HL, the rate of threshold change was found to decrease with age and with the initial threshold at rates that did not differ between genders. In addition, auditory thresholds in the two ears are seldom equal. The left ear often has the higher threshold, and its relative disadvantage increases with age. The low-frequency pattern change of hearing is interpreted as possibly representing a disorder of the stria vascularis (the cochlear tissue that generates the endocochlear potential), which is largely responsible for generating electrochemical gradients and regulating ion homeostasis in the cochlea, whereas the high-frequency pattern of hearing loss is likely associated with a hair cell disorder [10, 11] . Another study, the Baltimore Longitudinal Study of Aging, examined 681 men and 416 women during 1965-1995, using standard pure-tone audiometry [12] . A conclusion of this study differs somewhat from the interpretation of the Framingham data, which suggested that the preponderance of male high-frequency HL is related to occupational noise exposure. Epidemiological studies have consistently shown a 30-70% incidence of ARHL but widely variable assessments of the degree of impairment induced by the hearing loss.",
+                "cite_spans": [
+                    {
+                        "start": 63,
+                        "end": 67,
+                        "text": "[10]",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1223,
+                        "end": 1227,
+                        "text": "[10,",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1228,
+                        "end": 1231,
+                        "text": "11]",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1377,
+                        "end": 1381,
+                        "text": "[12]",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Epidemiology",
+                "sec_num": null
+            },
+            {
+                "text": "Whereas age-related structural changes of the external and middle ear do not appear to have an adverse effect on audiometric function or speech understanding ability, the cochlea is dramatically affected by the ageing process. The cochlea (Latin for 'snail shell') and the semicircular canals, with the associated utricle and saccule, constitute the inner ear. The cochlea, a coiled structure enclosing three fluid-filled ducts or scalae (Figure 1 ), is encased in the temporal bone. These ducts are functionally divided into two spaces. The scala tympani and scala vestibuli communicate with each other via the helicotrema and are filled with perilymph. The scala media is isolated from the perilymphatic space and contains endolymph. The latter fluid, bathing the upper surface of the hair cell, contains an electrolyte composition similar to that found in intracellular fluids, that is, high in potassium Figure 1 . A schematic representation of the cochlear duct, showing the proposed medial and lateral K + ion recycling routes from inner and outer hair cells during auditory transduction. In the medial path (left), K + released from inner hair cells (IH) diffuse medially through the interdental cells to the undersurface of the tectorial membrane (TM) and the scala media. K + pumped from the scala vestibuli into supralimbal cells floods into light fibrocytes and is transported into the endolymph by Na-K-ATPase pumps present in interdental cells. In the lateral path (right), K + ions from outer hair cells (OH) are resorbed by Deiters'cells (D) and tectal cells (T) and move via a network of the gap junction system to the type 1a, 1b, II, IV and V fibrocytes in the spiral ligament, for return to the scala media via the stria vascularis (SV) Figure reproduced by courtesy of J DeLeon 190 XZ Liu et al (K + ) and low in sodium (Na + ) and calcium (Ca ++ ), and is maintained at a high positive resting potential of around +80-100 mV, which is essential for normal hair cell function.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 438,
+                        "end": 447,
+                        "text": "(Figure 1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 908,
+                        "end": 916,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Auditory structure and function",
+                "sec_num": null
+            },
+            {
+                "text": "The organ of Corti, including the sensory hair cells and supporting cells, rests on a relatively permeable basilar membrane, with the most external row of the outer hair cell stereocilia embedded in the gelatinous tectorial membrane. Below this is the scala tympani, high in Na + and low in K + , similar in composition to extracellular fluid. In the spiral ligament and stria vascularis reside the enzyme systems and cellular organelles necessary for the differences in electrolyte content between the perilymph and endolymph in the cochlear ducts. Pumping of K + into the endolymph occurs against a concentration gradient and thus requires energy expenditure. Enzymes, specifically Na + /K + ATPase, use metabolic energy stores (ATP) generated by the mitochondria of the stria and spiral ligament to pump Na + and K + ions against their concentration gradients. These enzymes are located within the marginal cells of the stria and the fibrocytes of the spiral ligament. They serve to transport K + through the spiral ligament and stria vascularis, and they secrete it into the endolymph. Their function is assisted by a Na + /Cl \u2212 /K + cotransporter located in the marginal cells. Several possible routes for K + recycling have been proposed, including a lateral recycling pathway, whereby K + is reabsorbed through a K/Cl co-transporter in the supporting cells (Tectal and Dieter's cells) of the organ of Corti. K + may then move down its electrochemical gradient, passing between cells through gap junctions until reaching Type I spiral ligament fibrocytes (SLFs) and back to the stria vascularis [13] , and also recycling routes through the perilymph to the spiral ligament, either above or below the endolymph compartment, and hence to the stria [14] . Another route is a medial recycling pathway through which excess K + is returned to the scala media through medial supporting cells, spiral limbus fibrocytes and interdental cells, all coupled by gap junctions, with transport into endolymph by Na-K-ATPase pumps present in the interdental cells [13] [14] [15] . Therefore, the endolymph and perilymph electrolyte contents are regulated by local radial flow of electrolytes and not longitudinal flow of fluids along the length of the cochlea.",
+                "cite_spans": [
+                    {
+                        "start": 1601,
+                        "end": 1605,
+                        "text": "[13]",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1752,
+                        "end": 1756,
+                        "text": "[14]",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 2054,
+                        "end": 2058,
+                        "text": "[13]",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 2059,
+                        "end": 2063,
+                        "text": "[14]",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 2064,
+                        "end": 2068,
+                        "text": "[15]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Auditory structure and function",
+                "sec_num": null
+            },
+            {
+                "text": "Pressure waves from sound travelling up the scala vestibuli and back down the scala tympani produce a shearing force on the hair cells of the organ of Corti. The apical surface of the hair cell has a relatively high inertial resistance to movement, so that sound-induced shearing forces bend the stereocilia. This bending produces mechanical opening of ionic channels [16] , depolarizing hair cells due to K + influx. Conversely, stereocilia bending in the opposite direction create a hyperpolarization by closing those channels that are constantly open, even in the resting state, thus further obstructing K + flow down the electrochemical gradient. Within the cochlea, hair cell sensitivity to frequencies progresses in a tonotopic pattern from high frequencies at the base to low frequencies at the apex. The cells in the single row of inner hair cells passively respond to deflections of sound-induced pressure waves. Cells in the rows of outer hair cells can elongate or shorten in response to motion of the basilar membrane to actively produce amplification or attenuation of the response of the inner hair cells [17] . Efferent innervation by fibres from the olivary nucleus caudally and the dorsal nucleus of the trapezoid body rostrally also provide regulation of the sensitivity of the inner and outer hair cells [18] .",
+                "cite_spans": [
+                    {
+                        "start": 368,
+                        "end": 372,
+                        "text": "[16]",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1119,
+                        "end": 1123,
+                        "text": "[17]",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1323,
+                        "end": 1327,
+                        "text": "[18]",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Auditory structure and function",
+                "sec_num": null
+            },
+            {
+                "text": "Presbycusis is a bilateral loss of auditory sensitivity that progresses from high to low frequencies with ageing. However, the rate of hearing decline is not linear and is highly variable, and the variance in hearing level is only weakly associated with age [11] . These observations suggest that age-related changes do not occur uniformly and that more than one pathological process may be acting upon the auditory system. This variety may also be taken as indirect evidence of the complex interaction of genetic and environmental factors in the aetiology of presbycusis. Adding to the complexity, both the peripheral and central auditory pathways can be affected in presbycusis.",
+                "cite_spans": [
+                    {
+                        "start": 258,
+                        "end": 262,
+                        "text": "[11]",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Pathophysiology associated with presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "Early knowledge about the pathology of human presbycusis was based on the audiometric data archived in the laboratory of Schuknecht, on patients whose temporal bones later became available post mortem and on the histopathological technique available at the time [19] . According to Schuknecht 's scheme, degeneration of the organ of Corti, ganglion cell loss, strial atrophy and basilar membrane stiffness (a hypothetical subtype) can occur independently and give rise to distinct types of ARHL (sensory, neural, strial or metabolic, and cochlear conductive, respectively). Two more categories have subsequently been added: mixed and indeterminate. The latter has been reported to account for 25% of cases [20] and in most cases, a mixture of pathological changes have been noted [21] . Although there is a general consensus that the cochlea is the site of ARHL, otopathologic changes to the inner ear as a direct function of age remain controversial. Sensory presbyscusis categorizes patients with normal lowfrequency hearing but threshold sensibility loss in the highest frequencies. It is caused by a primary loss of hair cells in the basal end of the cochlea and typified by an audiometric pattern of a steeply sloping high-frequency loss resembling noise injury. There is ample evidence that noise constitutes a significant risk to hearing health and its additive effect in combination with age has been proposed. However, how noise-induced hearing loss (NIHL) and ARHL (which often coexist in the same ear) interact and the mechanisms by which they do so remain poorly understood. Addressing the ARHL-NIHL interaction in humans is difficult and the results of studies on hearing losses in noise-exposed and/or ageing ears are contradictory and highly variable [22] [23] [24] [25] . This variability may arise from underlying differences in actual noise exposure and because, in part, noise and ageing are both under the influence of other intrinsic and environmental variables that can, by themselves, lead to HL or alter NIHL and/or ARHL vulnerability.",
+                "cite_spans": [
+                    {
+                        "start": 262,
+                        "end": 266,
+                        "text": "[19]",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 706,
+                        "end": 710,
+                        "text": "[20]",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 780,
+                        "end": 784,
+                        "text": "[21]",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1766,
+                        "end": 1770,
+                        "text": "[22]",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 1771,
+                        "end": 1775,
+                        "text": "[23]",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 1776,
+                        "end": 1780,
+                        "text": "[24]",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 1781,
+                        "end": 1785,
+                        "text": "[25]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Pathophysiology associated with presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "While the location of the site within the cochlea responsible for presbycusis is continually debated, recent studies lend support to degenerative changes in the lateral wall and stria vascularis as a major contributor to the HL associated with advancing age, a condition termed 'metabolic or strial presbycusis' [26] . Metabolic presbycusis was characterized clinically as showing a flat audiometric pattern [20] . An alteration of endolymph may explain the elevated pure tone thresholds across all frequencies of the auditory spectrum. Accompanying or directly resulting age-related changes in the stria vascularis are loss of expression of key ion transport enzymes, such as Na + , K + -ATPase and the Na + , K + , Cl \u2212 co-transporter, as well as a dramatic age-related decrease in endocochlear potential (EP) values. The EP is an 80-100 mV dc resting potential in the scala media ( Figure 1 ). Additionally, an increased threshold of the compound action potential (CAP) of the auditory nerves may be an indication of loss of auditory nerve function. The reduced amplitudes of action potentials have been interpreted as a possible decline in synchronized neural activity in the auditory nerve. However, it remains difficult to distinguish dysfunctions of the auditory nerve caused by a decreased EP from those resulting from degeneration of spiral ganglion neurons [27] . Agerelated asynchronous activity of the auditory nerve could account for age-related declines in temporal resolving abilities, which are sometimes interpreted as solely caused by age-related changes in the properties of the auditory central nervous system [25] . Strial presbycusis is generally considered to be an ageing effect independent of exogenous damage, whereas ageing and insults accumulated (most commonly noise exposure) over the course of a lifetime are believed to be the key factors implicated in sensory presbycusis. There is evidence to suggest that NIHL and ARHL, once thought to be distinct pathological entities, may in fact be overlapping phenotypes [25] . Most ageing human and animal cochleae show a mix of pathologies affecting different cell types. It is often impossible to correlate the pattern and extent of HL with particular lesions, or to attribute the lesions to specific genetic or environmental causes. Nevertheless, whether cells and structures of the cochlea are affected by environmental and genetic factors particular to each has implications for more general issues of how ARHL arises, and how it might be prevented.",
+                "cite_spans": [
+                    {
+                        "start": 312,
+                        "end": 316,
+                        "text": "[26]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 408,
+                        "end": 412,
+                        "text": "[20]",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1367,
+                        "end": 1371,
+                        "text": "[27]",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1630,
+                        "end": 1634,
+                        "text": "[25]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2044,
+                        "end": 2048,
+                        "text": "[25]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 885,
+                        "end": 893,
+                        "text": "Figure 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Pathophysiology associated with presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "Several environmental and medical risk factors have been implicated as contributing to presbycusis. It is unclear whether these factors have an accelerating effect of ageing in the ear or whether they act on specific physiological pathways. There is a general consensus that ARHL is the result of various types of physiological degeneration plus the accumulated effects of environmental factors, medical disorders and their treatment, as well as interindividual differences in susceptibility genes. These variables do not lend themselves easily to retrospective quantification. Noise is the most-studied and best-documented environmental factor causing HL. The primary lesion from long-term noise exposure is loss of the outer hair cells, and later also loss of the inner hair cells if exposure continues [28] . Ultimately, after a lifetime of noise exposure, it is difficult to distinguish between NIHL and ARHL, audiometrically as well as anatomically. Additional environmental factors, such as ototoxic substances, drugs or even diet, can influence susceptibility to ARHL [29] [30] [31] . Aminoglycoside antibiotics can damage hair cells in the same pattern as noise, causing a non-reversible HL predominantly affecting high frequencies. In addition, aminoglycosides seem to enhance the ototoxic effect of noise and vice versa [29] . Furthermore, some studies have demonstrated that individual factors, such as smoking, elevated blood pressure and cholesterol levels, may influence the degree of ARHL [32] [33] [34] .",
+                "cite_spans": [
+                    {
+                        "start": 805,
+                        "end": 809,
+                        "text": "[28]",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1075,
+                        "end": 1079,
+                        "text": "[29]",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1080,
+                        "end": 1084,
+                        "text": "[30]",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1085,
+                        "end": 1089,
+                        "text": "[31]",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1330,
+                        "end": 1334,
+                        "text": "[29]",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1504,
+                        "end": 1508,
+                        "text": "[32]",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 1509,
+                        "end": 1513,
+                        "text": "[33]",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1514,
+                        "end": 1518,
+                        "text": "[34]",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Non-genetic components of presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "Presbycusis does cluster in families [35] and heritability estimates indicate that 35-55% of the variance of ARHL is attributable to the effects of genes: A Swedish study consisting of 250 monozygotic and 307 dizygotic male twins (aged 36-80) showed a heritability of 47% for the population above 65, using both questionnaire and audiometric data [36] . Using the same analytical method, the National Academy of Science-National Research Council (NAS-NRC) ageing twin panel study in the USA has estimated the heritability at 61% [37] . Across all ages, environmental and hereditary factors were found to be important sources of variation, with environmental factors becoming more influential with increasing age. In the Framingham cohort, heritability of presbycusis phenotypes was estimated to be 0.35-0.55, based on evaluations of audiometric examinations in the Framingham cohort [35] . The study compared the auditory status in genetically unrelated (spouse pairs) and genetically related people (sibling pairs, parent-child pairs), revealing a clear familial aggregation for agerelated hearing levels. The effect of genes was found larger for the strial pattern of HL (flat audiogram) compared to the sensory phenotype (abrupt high-tone loss). Heritability index was high in pairings of women (sister-sister, 0.53; mother-daughter, 0.36). Because of the difficulty of studying an outbred and older human population that includes intrinsic and environmental variables accumulated over the course of a lifetime [36, 38] , most studies have identified ARHL genes in a laboratory setting using mouse models, in which rigorous genetic and experimental control can be achieved, such that age is the most significant factor in an animal model of ARHL.",
+                "cite_spans": [
+                    {
+                        "start": 37,
+                        "end": 41,
+                        "text": "[35]",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 347,
+                        "end": 351,
+                        "text": "[36]",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 529,
+                        "end": 533,
+                        "text": "[37]",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 883,
+                        "end": 887,
+                        "text": "[35]",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1514,
+                        "end": 1518,
+                        "text": "[36,",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1519,
+                        "end": 1522,
+                        "text": "38]",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Heritability, allelism and genetic modifiers of presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "In mice, age-related hearing loss (AHL) is genetically multifactorial, modulated by multiple quantitative trait loci (QTLs). AHL closely resembles sensorineural presbyscusis in humans with regard to pathology and aetiology. A major QTL for AHL (Ahl1 ) was identified on mouse chromosome 10, overlapping with the modifier of the deaf waddler locus (mdfw ) region. Several loci associated with hearing function map near the mdfw locus, including the mouse mutations waltzer and Jackson circler [39] . In humans, the Usher syndrome type 1D gene and the recessive non-syndromic deafness gene DFNB12 have been mapped to chromosome 10q21-q22, which is orthologous to the mdfw region in the mouse. The gene responsible for the dfw mutation has been identified as a plasma membrane ATPase type 2-Ca 2+ transporter pump (Atp2b2 ). In the cochlea, the Atp2b2 protein was localized to stereocilia and the basolateral wall of hair cells, implying that it may be essential for the removal of the Ca 2+ from subcellular domains of both auditory and vestibular hair cells [39] . Genetic fine mapping suggests that the mouse waltzer mutation within cadherin 23 (Cdh23 v ) is allelic with mdfw [40] . On the other hand, genetic complementation tests have shown allelism between ahl1 and mdfw, and both are found to add to the severity of HL caused by mutation of the Atp2b2 gene [41] . It was subsequently shown that the Ahl1 gene might also be allelic to Cdh23 v [42] . Thus, Cdh23 may be an important gene that may be involved not only in certain forms of congenital deafness but also in ARHL, and has the potential to genetically interact with other deafness genes to affect hearing. One synonymous single-nucleotide polymorphism (SNP) in Cdh23 (753G>A) was indeed found associated with AHL and the deafness modifier mdfw [42] . The Cdh23 753A variant causes in-frame skipping of exon 7. The peptide of 43 amino acids encoded by exon 7 is part of the third and fourth ectodomains, which constitutes a potential homodimerization site of the Cdh23 protein. Cdh23 753A is characterized as a pathological and hypomorphic allele and was present in at least 10 inbred mice strains, including the strain C57BL/6J, in a homozygous status. Homozygosity at Cdh23 753A significantly increases susceptibility for AHL, but is not the only determinant. Both the time of onset and the rate of progression of HL in Cdh23 753A homozygotes depend on the effects of strain-specific genetic factors [43] . A number of genes or loci have been identified as Cdh23 modifiers, including the mitochondrial mutation in the tRNA-Arg gene (mt-Tr 9827ins8 ) (as in A/J) [44] , ahl2 (as in NOD/LtJ) [45] ; and ahl3 [46] . A combination of either one of these 'accelerating alleles' with homozygosity for Cdh23 753A has been shown to exacerbate HL. Furthermore, studies of heterozygous deaf-waddler mice show that partial loss of Atp2b2 activity modifies, but is not itself sufficient to cause, HL, and haploinsufficiency at Atp2b2 and homozygosity of Cdh23 753A together, but neither alone, cause early-onset HL in mdfw mice (Atp2b2+/dfw-2J mdfw/mdfw). It has also been reported that heterozygosity for a null allele of Atp2b2 predisposes mice to noise-induced sensorineural hearing loss [47] . Reciprocally, in humans, a hypofunctional variant (V586M) in ATP2B2 has also been found associated with increased HL caused by a homozygous mutation in CDH23 in a manner analogous to the interaction between the dfw 2J allele of Atp2b2 and the ahl allele of Cdh23 in mice. Additionally, ATP2B2 V 586M has been found to modify the severity of HL due to a mutation in MYO6 and has been suggested to predispose to NIHL [48] .",
+                "cite_spans": [
+                    {
+                        "start": 492,
+                        "end": 496,
+                        "text": "[39]",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1057,
+                        "end": 1061,
+                        "text": "[39]",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1177,
+                        "end": 1181,
+                        "text": "[40]",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1362,
+                        "end": 1366,
+                        "text": "[41]",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1447,
+                        "end": 1451,
+                        "text": "[42]",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1808,
+                        "end": 1812,
+                        "text": "[42]",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 2465,
+                        "end": 2469,
+                        "text": "[43]",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 2627,
+                        "end": 2631,
+                        "text": "[44]",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 2655,
+                        "end": 2659,
+                        "text": "[45]",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 2671,
+                        "end": 2675,
+                        "text": "[46]",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 3244,
+                        "end": 3248,
+                        "text": "[47]",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 3666,
+                        "end": 3670,
+                        "text": "[48]",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Heritability, allelism and genetic modifiers of presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "The cochlea, with its intricate structure and diverse cell types, requires a broad range of proteins with different functions, including maintenance of structural and mechano-electrical transduction integrity and neuronal innervation. The interaction of genes and proteins at different levels influences a multitude of HL parameters, including HL type, thresholds, frequency range and age of onset. To date, genes that underlie approximately 40 forms of non-syndromic hearing loss (NSHL), and even more for syndromic HL, are cloned. These genes belong to different gene families with various functions, including transcription factors, extracellular matrix molecules, cytoskeletal components, ions channels and transporters. Potentially, moderate functional variants in any of the numerous genes involved in cochlear function could have impact on an individual's risk of ARHL. All known monogenic HL genes are potential candidates for susceptibility to ARHL. Genes that protect against oxidative stress and mitochondrial genes can also be considered important candidates, since it is known that oxidative stress plays a substantial role in the development of ARHL.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Candidate genes for presbycusis",
+                "sec_num": null
+            },
+            {
+                "text": "Free radicals and other reactive species are considered to be important causative factors in the development of diseases of ageing, including presbyscusis. The cochlea comprises metabolically active tissues producing reactive oxygen species (ROS). Concomitant with the increase in ROS is a reduced production or function of the endogenous enzymes that protect the cell from ROS damage. The loss of antioxidant defence appears to be involved in the ageing process. Two classes of antioxidant enzymes are active in the cochlea: enzymes involved in glutathione (GSH) metabolism (glutathione S-transferase, GST; glutathione peroxidase, GPX1; glutathione reductase, GSR) and enzymes involved in the breakdown of superoxide anions and hydrogen peroxide (eg catalase, CAT; Cu/Zn superoxide dismutase, SOD1) [49, 50] . Impaired function of antioxidant enzymes caused by genetic variation has been postulated as leading to failure of cellular responses against the toxic effects of ROS and subsequent peroxidative cell injury. Studies of knock-out models of Gpx1 and Sod1 have shown that deletion in the two antioxidant genes can lead to both age-related and noise-induced HL [51] [52] [53] . These mice show the phenotypic characteristics of ARHL. Glutathione-S-transferases (GST) are known to function in antioxidant pathways and in detoxification, and thus might play an important role in protection of the cochlea. GST consists of several gene classes, including GSTM and GSTT, coding for cytosolic enzymes [54, 55] . GSTM1 and GSTT1 genes show genetic variability in humans. Up to 50% of the Caucasian population are null genotypes for the GSTM1 gene [56] . These null genotypes cannot conjugate metabolites specific for these enzymes, rendering these individuals more prone to damage caused by oxidative stress and possibly more susceptible to ARHL. GSTM1-null individuals have been shown to have lower amplitudes of high frequency otoacoustic emissions compared to individuals possessing the gene, indicating that GSTM1-null individuals might be more prone to ARHL [57] . The enzyme of Nacetylation (NAT) is also known to be involved in mediation of xenobiotic toxicity. A number of epidemiological studies suggest that genetic variations in the NAT genes may confer susceptibility to oxidative stress and xenobiotic insult. The gene encoding the NAT 2 enzyme, which in human populations segregates into rapid, intermediate and slow 'acetylator' phenotypes, has recently been reported in association with presbycusis [58] .",
+                "cite_spans": [
+                    {
+                        "start": 800,
+                        "end": 804,
+                        "text": "[49,",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 805,
+                        "end": 808,
+                        "text": "50]",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 1167,
+                        "end": 1171,
+                        "text": "[51]",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 1172,
+                        "end": 1176,
+                        "text": "[52]",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 1177,
+                        "end": 1181,
+                        "text": "[53]",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1502,
+                        "end": 1506,
+                        "text": "[54,",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 1507,
+                        "end": 1510,
+                        "text": "55]",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 1647,
+                        "end": 1651,
+                        "text": "[56]",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 2063,
+                        "end": 2067,
+                        "text": "[57]",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 2515,
+                        "end": 2519,
+                        "text": "[58]",
+                        "ref_id": "BIBREF59"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Oxidative stress",
+                "sec_num": null
+            },
+            {
+                "text": "Mitochondria, and especially mitochondrial DNA (mtDNA), are major targets of free radical attack. Specific deletions within mtDNA, also known as the common ageing deletions, accumulate with age in human and rodent tissues, including the cochleae. One specific mtDNA deletion, mtDNA4,834, has been linked to AHL in rodents [59] . The equivalent mutation, mtDNA4,977, deletion in human has also been identified, using archived temporal bones from patients with presbycusis [60] [61] [62] . Interestingly, consistent with a causal role for mtDNA mutations in ARHL, mice carrying a mutation in the exonuclease domain of the nucleus-encoded catalytic subunit of the mtDNA polymerase gamma (POLG), accumulated mtDNA mutations and displayed premature onset of ageingrelated phenotypes, including HL [63] .",
+                "cite_spans": [
+                    {
+                        "start": 322,
+                        "end": 326,
+                        "text": "[59]",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 471,
+                        "end": 475,
+                        "text": "[60]",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 476,
+                        "end": 480,
+                        "text": "[61]",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 481,
+                        "end": 485,
+                        "text": "[62]",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 792,
+                        "end": 796,
+                        "text": "[63]",
+                        "ref_id": "BIBREF64"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Oxidative stress",
+                "sec_num": null
+            },
+            {
+                "text": "In its most typical form, ARHL is non-syndromic, bilaterally symmetrical, characterized by a progressive loss of auditory sensitivity that advances from high to low frequencies [64, 65] . Many late-onset forms of monogenic non-syndromic hearing loss (NSHL) show similar phenotypes, but their audiological phenotype is generally more severe compared with ARHL. Most late-onset NSHL loci only account for one or a few families, and so far none of the identified mutations is common. Their contribution to deafness on a population basis might therefore be limited, or is currently unknown. However, because of their similarities with ARHL, genes involved in late-onset NSHL are also excellent candidates for ARHL. Additionally, genes responsible for other forms of monogenic deafness might also play a role in ARHL, especially because mutations in the same gene can lead to different types of HL, including both early-and late-onset deafness, or to dominant and recessive, or syndromic and nonsyndromic, forms of deafness [66] .",
+                "cite_spans": [
+                    {
+                        "start": 177,
+                        "end": 181,
+                        "text": "[64,",
+                        "ref_id": "BIBREF65"
+                    },
+                    {
+                        "start": 182,
+                        "end": 185,
+                        "text": "65]",
+                        "ref_id": "BIBREF66"
+                    },
+                    {
+                        "start": 1019,
+                        "end": 1023,
+                        "text": "[66]",
+                        "ref_id": "BIBREF67"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Genes for monogenic forms of deafness",
+                "sec_num": null
+            },
+            {
+                "text": "Approaches to identifying susceptibility genes in complex polygenic and multifactorial diseases, such as ARHL, are generally based on one of two strategies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Genetic strategy to find susceptibility genes for ARHL",
+                "sec_num": null
+            },
+            {
+                "text": "Reverse genetics attempts to identify the multiple genes by genome-wide linkage or association to genetic markers of variation. For complex disease, parametric linkage is considerably less powerful, due to uncertainty about the mode of inheritance and penetrance, and because an estimate of the frequency of the susceptibility allele cannot be reliably determined by segregation analysis. Additionally, many unaffected individuals may carry the susceptibility allele but not be affected by the disease. Adding to the complexity, the phenotypic effect of an individual susceptibility allele may be quite small. To circumvent these limitations, model-free non-parametric linkage analysis is used to estimate the extent of sharing of alleles identical by descent by sibling pairs at each polymorphic marker or, in multipoint analyses, of several adjacent markers. The association genome scan has also been employed as a means to detect genetic effects in complex diseases. In such cases, differences in population genetic parameters [allele, genotype frequency, Hardy-Weinberg equilibrium (HWE), haplotype disposition and linkage disequilibrium (LD)] between unrelated disease cases and controls become tools of gene mapping. Unlike linkage studies, disease-gene mapping by association is based on LD between the test marker and the disease gene. LD is a property of populations, and thus depends on the natural history of the disease gene containing a chromosome segment of the test population, and on the recombination distance between the disease gene and the test marker. LD mapping is generally performed using single nucleotide polymorphisms (SNPs), since these are more common than, and less mutable than, microsatellites [67] . In reverse genetics approaches, the genetic marker data are used to drive or refine the phenotypes, based on genetic marker data, that is, to define phenotypic groupings that are distinguished by higher rates of allele-sharing or distorsion of genetic equilibria.",
+                "cite_spans": [
+                    {
+                        "start": 1726,
+                        "end": 1730,
+                        "text": "[67]",
+                        "ref_id": "BIBREF68"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Genetic strategy to find susceptibility genes for ARHL",
+                "sec_num": null
+            },
+            {
+                "text": "Forward genetics methods are essentially phenotype-driven, moving from phenotype to gene; a gene is known to exist only because a mutation has resulted in an altered phenotype. Under this unidirectional approach, the putative causal variants can be identified in candidate genes, selected on the basis of information regarding the biochemical pathways/or biological function, and then studied to determine whether they do increase susceptibility to disease on a population basis, using association studies. These approaches are largely complementary, although they are often applied by independent research groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Genetic strategy to find susceptibility genes for ARHL",
+                "sec_num": null
+            },
+            {
+                "text": "To date, genetic analysis of ARHL has been limited. However, with the recent major advances in hearing research, the human genome sequence completed, a comprehensive map of human genetic variation (HapMap) available, together with a growing awareness of the importance of healthy ageing as global populations begin to age, a search for susceptibility alleles for ARHL can be justifiably undertaken. Two types of study design can be used to identify the genetic determinants of ARHL.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Genetic strategy to find susceptibility genes for ARHL",
+                "sec_num": null
+            },
+            {
+                "text": "The most common type of variation in the human genome is the SNP. It is estimated that SNPs occur about once every 1000 base pairs in the genome and these common polymorphisms are the source of variation among individuals. A popular hypothesis about allelic architecture proposes that most of the genetic risk for common, complex diseases is due to disease loci where there is one common variant (or a small number of them) [68] . The 'common disease-common variant' (CDCV) hypothesis implies that association mapping should be a powerful tool for detecting complex disease loci of small effect, and provides an important impetus for the Haplotype Map Project, and the proposed genome-wide association scans for genetic studies of complex human diseases [69] . In the long term, these will lead to the identification of new QTLs for ARHL once large suitable cohorts have been assembled and characterized, and will undoubtedly allow the finding of susceptible genes for ARHL that we have no current biological basis for implication in the pathogenesis of ARHL. So far, only a few association studies on candidate genes have been performed in ARHL, using both standard case-control association analysis and quantitative analysis. Van Laer et al [70] reported two independent association studies, using two non-synomous SNPs within the DFNA5 gene, to investigate its possible involvement in ARHL, but no allelic or genotypic association was detected. In another study, Fransen et al [71] define a quantitative trait (QT) value, correcting for age and gender, to allow the genetic study of ARHL as a QT. No association was found; however, this approach may improve the power to detect genes with small to medium effects and circumvents the difficulty of assigning case and control status to what is a continuous trait. Recently, Unal et al [58] reported an association between ARHL and a N-acetyl transferase polymorphism in a group comprising 68 ARHL cases and 98 controls. However, this will require replication in larger samples for validation.",
+                "cite_spans": [
+                    {
+                        "start": 424,
+                        "end": 428,
+                        "text": "[68]",
+                        "ref_id": "BIBREF69"
+                    },
+                    {
+                        "start": 754,
+                        "end": 758,
+                        "text": "[69]",
+                        "ref_id": "BIBREF70"
+                    },
+                    {
+                        "start": 1243,
+                        "end": 1247,
+                        "text": "[70]",
+                        "ref_id": "BIBREF71"
+                    },
+                    {
+                        "start": 1480,
+                        "end": 1484,
+                        "text": "[71]",
+                        "ref_id": "BIBREF72"
+                    },
+                    {
+                        "start": 1836,
+                        "end": 1840,
+                        "text": "[58]",
+                        "ref_id": "BIBREF59"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Association studies",
+                "sec_num": null
+            },
+            {
+                "text": "Linkage analysis and positional cloning have been successful over the last decade for identification of monogenic forms of deafness genes. There are several limitations to applying this Mendelian-type strategy to clone genes for common, complex diseases such as ARHL. The gene mutations in Mendelian disorders are those with large effect and strong genotype-phenotype correlations, whereas the genetic determinants of the complex diseases are susceptibility alleles, rather than disease alleles. That is, there are individuals who carry the susceptibility allele but are unaffected, either because they lack another allele (or alleles) that is necessary for disease expression (ie a gene-gene interaction) or because of a lack of exposure to environmental factors necessary for disease expression (ie a gene-environment interaction). To circumvent these limitations, the linkage analysis in complex diseases is often based on the sharing of alleles identical by descent at a marker locus or loci by affected relatives, rather than a few large kindreds. In many lateonset diseases, this is also necessary because collection of DNA samples from parents of affected individuals is far more difficult. Once the putative linkage is replicated, fine mapping is undertaken to narrow the genomic region harbouring the putative susceptibility allele. In complex diseases, analysis of recombination events is not useful, due to unaffected carriers of the susceptibility allele. Fine mapping is therefore performed using linkage LD, or association testing, between genetic markers and disease. This should narrow a broad region of linkage (\u223c10-40 cM) to a physically small region of association (\u223c1 000 000 base pairs) for intensive and thorough analysis. To date, three linkage analyses of ARHL have been published [70, 72, 73] . In the first two of these reports, a pedigree-based approach was applied on a retrospective audiological investigation in the Framingham Heart Study cohort. During 1973-1975 audiometric data and blood samples were collected from members of the original cohort, and during 1995-1999 sample collection from the offspring generation was conducted and extended pedigrees among the Framingham participants were constructed. DNA and audiometric data from 1789 subjects from 328 pedigrees were available for analysis. In the first study, as DFNA5 was considered an excellent candidate ARHI susceptibility gene, Van Laer et al [70] performed linkage analysis to a quantitative measure of high-frequency HL on Framingham participants to determine whether DFNA5 contributed to the ARHL phenotype. No significant linkage between ARHL and microsatellite markers from the DFNA5 region could be found. The second genome-wide scan aimed to identify chromosomal loci that predispose individuals to ARHL [72] . The scan identified several locations that show suggestive evidence of linkage with ARHL, including 11p, 11q13.5, 11q25, 14q, regions of the genome known to contain the deafness genes Usher 1C, Myosin 7A, and the loci linked to DFNB20 and Usher 1A, respectively. There was no linkage to the murine ahl locus, located on mouse chromosome 10, syntenic to human chromosome 10q21-q22. This study focused on lowand medium-frequency HL rather than high-frequency HL, which may be the most common form of ARHL. Lastly, in a recent linkage study by sibling-pair methods, using the NAS-NRC Twin Panel of US veterans (born 1917-1927), Garringer et al [73] reported a region of linkage with ARHL on chromosome 3q, overlapping with the DFNA18 locus. There was no evidence of linkage for any of the four chromosomal regions reported by DeStefano et al [72] in the Framingham study. However, the sample size consisted of only 50 pairs of elderly fraternal twins and the study included only male subjects. In addition, it relied on self-reporting of HL by the participants without any confirmation from a medical professional or audiometric testing. For ARHL, as for other complex diseases, irreproducibility of positive findings has been a common problem in investigating the genetic basis of the disorders. Several reasons are cited, including small sample size, a lack of statistical power for detection of small and moderate effects, and differences in study designs.",
+                "cite_spans": [
+                    {
+                        "start": 1805,
+                        "end": 1809,
+                        "text": "[70,",
+                        "ref_id": "BIBREF71"
+                    },
+                    {
+                        "start": 1810,
+                        "end": 1813,
+                        "text": "72,",
+                        "ref_id": "BIBREF73"
+                    },
+                    {
+                        "start": 1814,
+                        "end": 1817,
+                        "text": "73]",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 2439,
+                        "end": 2443,
+                        "text": "[70]",
+                        "ref_id": "BIBREF71"
+                    },
+                    {
+                        "start": 2807,
+                        "end": 2811,
+                        "text": "[72]",
+                        "ref_id": "BIBREF73"
+                    },
+                    {
+                        "start": 3455,
+                        "end": 3459,
+                        "text": "[73]",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 3653,
+                        "end": 3657,
+                        "text": "[72]",
+                        "ref_id": "BIBREF73"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Linkage studies",
+                "sec_num": null
+            },
+            {
+                "text": "ARHL is a complex disorder, influenced by genetic, environmental/lifestyle and stochastic factors. Despite its high prevalence and the recent progress in hearing research, few attempts to identify genetic determinants of ARHL have been made. In this postgenome era, with high-throughput genotyping platforms now developed, a HapMap project to guide marker selection, the constructive challenge we face is to find strategies that are best suited to unravel the genetic basis of complex traits such as presbyscusis. The reverse genetics approach, where phenotypes are refined in relation to genetic marker data (linkage and linkage-disequilibrium analysis), although statistical challenges remain, may lead to the identification of susceptibility components for ARHL. On the other hand, forward genetics may also be a promising approach. Isolating all the genes in the human genome, as well as identifying and cataloguing the functional variants within them in the human population, will allow assessment of the impact of genotype on phenotypic outcome of interest. Additionally, complementary strategies, based on functional genomics technology involving microarrays and proteomics, can be used to develop predictors of disease susceptibility based on biological pathways physiologically relevant to ARHL. Nevertheless, choices in study designs will still be the major factor in the probability of success. Determination of the genetic variants involved in ARHL should provide new insights into the disorder mechanism, which may uncover new leads for pharmaceutical intervention and could result in the development of screening kits to identify individuals at increased risk.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": null
+            },
+            {
+                "text": ", 2007, 2, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2102, Wiley Online Library on [24/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": ", 2007, 2, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2102, Wiley Online Library on [24/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "We thank Dr Thomas Van de Water for his valuable comments on the manuscript. The research in our laboratory is supported by NIH DC 05575 (to XZL).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgements",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Hair cell distributions in the normal human cochlea",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wright",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Bredberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ulehlova",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Spencer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Acta Otolaryngol",
+                "volume": "444",
+                "issue": "",
+                "pages": "1--48",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wright A, Davis A, Bredberg G, Ulehlova L, Spencer H. Hair cell distributions in the normal human cochlea. Acta Otolaryngol 1987;444:1-48.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Auditive and cognitive factors in speech perception by elderly listeners. II: Multivariate analyses",
+                "authors": [
+                    {
+                        "first": "Jcgm",
+                        "middle": [],
+                        "last": "Van Rooij",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Plomp",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Van Rooij JCGM, Plomp R. Auditive and cognitive factors in speech perception by elderly listeners. II: Multivariate analyses.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Hearing impairment in older adults: new concepts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Jerger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Chmiel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Wilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Luchi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "J Am Geriatr Soc",
+                "volume": "43",
+                "issue": "",
+                "pages": "928--935",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jerger J, Chmiel R, Wilson N, Luchi R. Hearing impairment in older adults: new concepts. J Am Geriatr Soc 1995;43:928-935.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "National Institutes of Health, National Institute on Deafness and Other Communication Disorders. National Strategic Research Plan",
+                "authors": [],
+                "year": 1993,
+                "venue": "National Institutes of Health",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "US Department of Health and Human Services, National Institutes of Health, National Institute on Deafness and Other Communication Disorders. National Strategic Research Plan. National Institutes of Health: Bethesda, MD, 1993.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Statistical Abstract of the United States",
+                "authors": [],
+                "year": 1994,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bureau of the Census, US Department of Commerce, Economics and Statistics Administration. Statistical Abstract of the United States (114th edn). US Government Printing Office: Washington, DC, 1994.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Hearing impairments in middle age: the acceptability, benefit and cost of detection (ABCD)",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Stephens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rayment",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Thomas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Br J Audiol",
+                "volume": "26",
+                "issue": "",
+                "pages": "1--14",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davis A, Stephens D, Rayment A, Thomas K. Hearing impair- ments in middle age: the acceptability, benefit and cost of detection (ABCD). Br J Audiol 1997;26:1-14.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Epidemiological studies on hearing impairment with reference to genetic factors in Sichuan, China",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "X"
+                        ],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Ying",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Walter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Si",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Ying",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Ann Otol Rhinol Laryngol",
+                "volume": "110",
+                "issue": "",
+                "pages": "356--363",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Liu XZ, Li RX, Ying H, Walter EN, Si LZ, Ying X. Epidemiolog- ical studies on hearing impairment with reference to genetic factors in Sichuan, China. Ann Otol Rhinol Laryngol 2001;110:356-363.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Screening for hearing impairment in the elderly: rationale and strategy",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Mulrow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Lichtenstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "J Gen Intern Med",
+                "volume": "6",
+                "issue": "",
+                "pages": "249--258",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mulrow CD, Lichtenstein MJ. Screening for hearing impairment in the elderly: rationale and strategy. J Gen Intern Med 1991;6:249-258.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Hearing in the elderly: the Framingham cohort, 1983-1985. Part I. Basic audiometric test results",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cooper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Kannel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Miller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Ear Hear",
+                "volume": "11",
+                "issue": "",
+                "pages": "247--256",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gates GA, Cooper JC Jr, Kannel WB, Miller NJ. Hearing in the elderly: the Framingham cohort, 1983-1985. Part I. Basic audiometric test results. Ear Hear 1990;11:247-256.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Incidence of hearing decline in the elderly",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cooper",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Acta Otolaryngol",
+                "volume": "111",
+                "issue": "",
+                "pages": "240--248",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gates GA, Cooper JC. Incidence of hearing decline in the elderly. Acta Otolaryngol 1991;111:240-248.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Gender differences in a longitudinal study of ageassociated hearing loss",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Pearson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Morrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gordon-Salant",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Brant",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Metter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Klein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "J Acoust Soc Am",
+                "volume": "97",
+                "issue": "",
+                "pages": "1196--1205",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pearson JD, Morrell CH, Gordon-Salant S, Brant LJ, Metter EJ, Klein LL, et al. Gender differences in a longitudinal study of age- associated hearing loss. J Acoust Soc Am 1995;97:1196-1205.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Gap junctions in the rat cochlea: immunohistochemical and ultrastructural analysis",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Kikuchi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Kimura",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Paul",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Adams",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kikuchi T, Kimura RS, Paul DL, Adams JC. Gap junctions in the rat cochlea: immunohistochemical and ultrastructural analysis.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Online Library for rules of use",
+                "authors": [],
+                "year": 2007,
+                "venue": "See the Terms and Conditions",
+                "volume": "211",
+                "issue": "",
+                "pages": "188--197",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/pathCopyright\uf8e92007"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "J Pathol 2007; 211: 188-197 DOI: 10.1002/path Copyright \uf8e9 2007 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd. 10969896, 2007, 2, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2102, Wiley Online Library on [24/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 196 XZ Liu et al",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Expression of \u03b1 and \u03b2 subunit isoforms of Na,K-ATPase in the mouse inner ear and changes with mutations at the W v or Sl d loci",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schulte",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Steel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Hear Res",
+                "volume": "78",
+                "issue": "",
+                "pages": "65--76",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schulte BA. Steel KP. Expression of \u03b1 and \u03b2 subunit isoforms of Na,K-ATPase in the mouse inner ear and changes with mutations at the W v or Sl d loci. Hear Res 1994;78:65-76.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Evidence for a medial K + recycling pathway from inner hair cells",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Spicer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schulte",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Hear Res",
+                "volume": "118",
+                "issue": "",
+                "pages": "1--12",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Spicer SS. Schulte BA. Evidence for a medial K + recycling pathway from inner hair cells. Hear Res 1998;118:1-12.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Transduction and tuning in auditory hair cells",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Fettiplace",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Semin Neurosci",
+                "volume": "2",
+                "issue": "",
+                "pages": "33--40",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fettiplace R. Transduction and tuning in auditory hair cells. Semin Neurosci 1990;2:33-40.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Recent progress in auditory physiology",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "M\u00f8ller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "News Physiol Sci",
+                "volume": "8",
+                "issue": "",
+                "pages": "53--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "M\u00f8ller AR. Recent progress in auditory physiology. News Physiol Sci 1993;8:53-54.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The olivocochlear efferent bundle and susceptibility of the inner ear to acoustic injury",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Liberman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "J Neurophysiol",
+                "volume": "65",
+                "issue": "",
+                "pages": "123--132",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Liberman MC. The olivocochlear efferent bundle and suscep- tibility of the inner ear to acoustic injury. J Neurophysiol 1991;65:123-132.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Further observations on the pathology of presbycusis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Schuknecht",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1964,
+                "venue": "Arch Otolaryngol",
+                "volume": "80",
+                "issue": "",
+                "pages": "369--382",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schuknecht HF. Further observations on the pathology of presbycusis. Arch Otolaryngol 1964;80:369-382.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Cochlear pathology in presbycusis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Schuknecht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Gacek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Ann Otol Rhinol Laryngol",
+                "volume": "102",
+                "issue": "",
+                "pages": "1--16",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schuknecht HF, Gacek MR. Cochlear pathology in presbycusis. Ann Otol Rhinol Laryngol 1993;102:1-16.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Selective aspects of human pathology in high-tone hearing loss of the ageing inner ear",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Scholtz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kammen-Jolly",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Felder",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Hussl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Rask-Andersen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Schrott-Fischer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Hearing Res",
+                "volume": "157",
+                "issue": "",
+                "pages": "77--86",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scholtz AW, Kammen-Jolly K, Felder E, Hussl B, Rask- Andersen H, Schrott-Fischer A. Selective aspects of human pathology in high-tone hearing loss of the ageing inner ear. Hearing Res 2001;157:77-86.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Longitudinal threshold changes in older men with audiometric notches",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schmid",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Kujawa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nam",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Agostino",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Hear Res",
+                "volume": "141",
+                "issue": "",
+                "pages": "220--228",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gates GA, Schmid P, Kujawa SG, Nam B, D'Agostino R. Longi- tudinal threshold changes in older men with audiometric notches. Hear Res 2000;141:220-228.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "The influence of ageing on noise-induced hearing loss",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Rosenhall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Noise Health",
+                "volume": "5",
+                "issue": "",
+                "pages": "47--53",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenhall U. The influence of ageing on noise-induced hearing loss. Noise Health 2003;5:47-53.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Longitudinal study of pure-tone thresholds in older persons",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Dubno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Mills",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Ear Hear",
+                "volume": "26",
+                "issue": "",
+                "pages": "1--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lee FS, Matthews LJ, Dubno JR, Mills JH. Longitudinal study of pure-tone thresholds in older persons. Ear Hear 2005;26:1-11.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Compound action potential input/output functions in young and quiet aged gerbils",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Hellstrom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schmiedt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Hear Res",
+                "volume": "50",
+                "issue": "",
+                "pages": "163--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hellstrom LI, Schmiedt RA. Compound action potential input/output functions in young and quiet aged gerbils. Hear Res 1990;50:163-174.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Effects of industrial noise exposure on distortion product otoacoustic emissions (DPOAEs) and hair cell loss of the cochlea -long term experiments in awake guinea pigs",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Emmerich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Richter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Reinhold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Linss",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Linss",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Hear Res",
+                "volume": "148",
+                "issue": "",
+                "pages": "9--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Emmerich E, Richter F, Reinhold U, Linss V, Linss W. Effects of industrial noise exposure on distortion product otoacoustic emissions (DPOAEs) and hair cell loss of the cochlea -long term experiments in awake guinea pigs. Hear Res 2000;148:9-17.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Noise, aminoglycosides, diuretics",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Aran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Hiel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Hayashida",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Noise Induced Hearing Loss",
+                "volume": "",
+                "issue": "",
+                "pages": "188--195",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aran JM, Hiel H, Hayashida T. Noise, aminoglycosides, diuretics. In Noise Induced Hearing Loss, Dancer A, Henderson D, Salvi R, Hamernik R (eds). Mosby: St Louis, 1992; 188-195.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Interaction of noise and other agents: recent advances",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Boettcher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gratton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bancroft",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Spongr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Noise Induced Hearing Loss",
+                "volume": "",
+                "issue": "",
+                "pages": "175--187",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Boettcher FA, Gratton MA, Bancroft BR, Spongr V. Interaction of noise and other agents: recent advances. In Noise Induced Hearing Loss, Henderson D, Salvi R, Hamernik R (eds). Mosby: St Louis, 1992; 175-187.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Age-related hearing loss, vitamin B-12, and folate in elderly women",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Houston",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Nozza",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Gunter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Shea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Cutler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Am J Clin Nutr",
+                "volume": "69",
+                "issue": "",
+                "pages": "564--571",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Houston DK, Johnson MA, Nozza RJ, Gunter EW, Shea KJ, Cutler GM, et al. Age-related hearing loss, vitamin B-12, and folate in elderly women. Am J Clin Nutr 1999;69:564-571.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Cigarette smoking and hearing loss: the epidemiology of hearing loss study",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Cruickshanks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Klein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Klein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Wiley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Nondahl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Tweed",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "J Am Med Assoc",
+                "volume": "279",
+                "issue": "",
+                "pages": "1715--1719",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cruickshanks KJ, Klein R, Klein B, Wiley TL, Nondahl DM, Tweed TS. Cigarette smoking and hearing loss: the epidemiology of hearing loss study. J Am Med Assoc 1998;279:1715-1719.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Correlations between presbyacusis and extrinsic noxious factors",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Rosenhall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Sixt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Sundh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Svanborg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Audiology",
+                "volume": "32",
+                "issue": "",
+                "pages": "234--243",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rosenhall U, Sixt E, Sundh V, Svanborg A. Correlations between presbyacusis and extrinsic noxious factors. Audiology 1993;32:234-243.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Risk factors related to age-associated hearing loss in the speech frequencies",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Brant",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gordon-Salant",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Pearson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Klein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Morrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Metter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "J Am Acad Audil",
+                "volume": "7",
+                "issue": "",
+                "pages": "152--160",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brant LJ, Gordon-Salant S, Pearson JD, Klein LL, Morrell CH, Metter EJ, et al. Risk factors related to age-associated hearing loss in the speech frequencies. J Am Acad Audil 1996;7:152-160.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Genetic associations in age-related hearing thresholds",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Couropmitree",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Arch Otolaryngol Head Neck Surg",
+                "volume": "125",
+                "issue": "",
+                "pages": "654--659",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gates GA, Couropmitree NN, Myers RH. Genetic associations in age-related hearing thresholds. Arch Otolaryngol Head Neck Surg 1999;125:654-659.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Description and primary results from an audiometric study of male twins",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Karlsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Harris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Svartengren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Ear Hear",
+                "volume": "18",
+                "issue": "",
+                "pages": "114--120",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Karlsson KK, Harris JR, Svartengren M. Description and primary results from an audiometric study of male twins. Ear Hear 1997;18:114-120.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Self-reported health history survey (Q8) and genetic analyses in the NAS-NRC ageing twin panel cohort",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Reed",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Christian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Page",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Am J Hum Genet",
+                "volume": "67",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Reed T, Christian JC, Page WH. Self-reported health history survey (Q8) and genetic analyses in the NAS-NRC ageing twin panel cohort. Am J Hum Genet 2000;67:215.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Occupational noise and demographic factors in hearing",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lutman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Spencer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Acta Otolaryngol Suppl",
+                "volume": "476",
+                "issue": "",
+                "pages": "74--88",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lutman ME, Spencer HS. Occupational noise and demographic factors in hearing. Acta Otolaryngol Suppl 1990;476:74-88.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Mutations in a plasma membrane Ca(2+)-ATPase gene cause deafness in deafwaddler mice",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Street",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Mckee-Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Fonseca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tempel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Noben-Trauth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Nat Genet",
+                "volume": "19",
+                "issue": "",
+                "pages": "390--394",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Street VA, McKee-Johnson JW, Fonseca RC, Tempel BL, Noben- Trauth K. Mutations in a plasma membrane Ca(2+)-ATPase gene cause deafness in deafwaddler mice. Nat Genet 1998;19:390-394.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "High-resolution genetic and physical mapping of modifierof-deafwaddler (mdfw ) and Waltzer (Cdh23v )",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Bryda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Legare",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Frankel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Noben-Trauth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Genomics",
+                "volume": "73",
+                "issue": "",
+                "pages": "338--342",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bryda EC, Kim HJ, Legare ME, Frankel WN, Noben-Trauth K. High-resolution genetic and physical mapping of modifier- of-deafwaddler (mdfw ) and Waltzer (Cdh23v ). Genomics 2001;73:338-342.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Hearing loss associated with the modifier of deaf waddler (mdfw ) locus corresponds with age-related hearing loss in 12 inbred strains of mice",
+                "authors": [
+                    {
+                        "first": "Q",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Zheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Erway",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Hear Res",
+                "volume": "154",
+                "issue": "",
+                "pages": "45--53",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Zheng QY, Johnson KR, Erway LC. Hearing loss associated with the modifier of deaf waddler (mdfw ) locus corresponds with age-related hearing loss in 12 inbred strains of mice. Hear Res 2001;154:45-53.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Association of cadherin 23 with polygenic inheritance and genetic modification of sensorineural hearing loss",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Noben-Trauth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Zheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Nat Genet",
+                "volume": "35",
+                "issue": "",
+                "pages": "21--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Noben-Trauth K, Zheng QY, Johnson KR. Association of cad- herin 23 with polygenic inheritance and genetic modification of sensorineural hearing loss. Nat Genet 2003;35:21-23.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "A major gene affecting agerelated hearing loss is common to at least ten inbred strains of mice",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Zheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Lc2",
+                        "middle": [],
+                        "last": "Erway",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Genomics",
+                "volume": "70",
+                "issue": "",
+                "pages": "171--180",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Johnson KR, Zheng QY, Erway LC2. A major gene affecting age- related hearing loss is common to at least ten inbred strains of mice. Genomics 2000;70:171-180.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "A nuclear-mitochondrial DNA interaction affecting hearing impairment in mice",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Zheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Bykhovskaya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Spirina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Fischel-Ghodsian",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Nat Genet",
+                "volume": "27",
+                "issue": "",
+                "pages": "191--194",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Johnson KR, Zheng QY, Bykhovskaya Y, Spirina O, Fischel- Ghodsian N. A nuclear-mitochondrial DNA interaction affecting hearing impairment in mice. Nat Genet 2001;27:191-194.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Ahl2, a second locus affecting age-related hearing loss in mice",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Zheng",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Genomics",
+                "volume": "80",
+                "issue": "",
+                "pages": "461--464",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Johnson KR, Zheng QY. Ahl2, a second locus affecting age-related hearing loss in mice. Genomics 2002;80:461-464.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Ahl3, a third locus on mouse chromosome 17 affecting age-related hearing loss",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Nemoto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Morita",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Mishima",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Takahashi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Nomura",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Ushiki",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Biochem Biophys Res Commun",
+                "volume": "324",
+                "issue": "",
+                "pages": "1283--1288",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nemoto M, Morita Y, Mishima Y, Takahashi S, Nomura T, Ushiki T, et al. Ahl3, a third locus on mouse chromosome 17 affecting age-related hearing loss. Biochem Biophys Res Commun 2004;324:1283-1288.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Deficiency in plasma membrane calcium ATPase isoform 2 increases susceptibility to noise-induced hearing loss in mice",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kozel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Krieg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Shull",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Erway",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Hear Res",
+                "volume": "164",
+                "issue": "",
+                "pages": "231--239",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kozel PJ, Davis RD, Krieg EF, Shull GE and Erway LC. Defi- ciency in plasma membrane calcium ATPase isoform 2 increases susceptibility to noise-induced hearing loss in mice. Hear Res 2002;164:231-239.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Modification of human hearing loss by plasma-membrane calcium pump PMCA2",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Schultz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Caride",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Filoteo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Penheiter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lagziel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "N Eng J Med",
+                "volume": "352",
+                "issue": "",
+                "pages": "1557--1564",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schultz JM, Yang Y, Caride AJ, Filoteo AG, Penheiter AR, Lagziel A, et al. Modification of human hearing loss by plasma-membrane calcium pump PMCA2. N Eng J Med 2005;352:1557-1564.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Glutathione S-transferase in the organ of Corti of the rat: enzymatic activity, subunit composition and immunohistochemical localization",
+                "authors": [
+                    {
+                        "first": "El",
+                        "middle": [],
+                        "last": "Barbary",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Altschuler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schacht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Hear Res",
+                "volume": "71",
+                "issue": "",
+                "pages": "80--90",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "El Barbary A, Altschuler RA, Schacht J. Glutathione S-transferase in the organ of Corti of the rat: enzymatic activity, subunit composition and immunohistochemical localization. Hear Res 1993;71:80-90.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Changes in cochlear antioxidant enzyme activity after sound conditioning and noise exposure in the chinchilla",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Jacono",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Kopke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Henderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Van De Water",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Steinman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Hear Res",
+                "volume": "117",
+                "issue": "",
+                "pages": "31--38",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jacono AA, Hu B, Kopke RD, Henderson D, Van De Water TR, Steinman HM. Changes in cochlear antioxidant enzyme activity after sound conditioning and noise exposure in the chinchilla. Hear Res 1998;117:31-38.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "The influence of superoxide dismutase and glutathione peroxidase deficiencies on noise-induced hearing loss in mice",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mcfadden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Ohlemiller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Ding",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Shero",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Salvi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Noise Health",
+                "volume": "3",
+                "issue": "",
+                "pages": "49--64",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McFadden SL, Ohlemiller KK, Ding D, Shero M, Salvi RJ. The influence of superoxide dismutase and glutathione peroxidase deficiencies on noise-induced hearing loss in mice. Noise Health 2001;3:49-64.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Targeted mutation of the gene for cellular glutathione peroxidase (Gpx1 ) increases noise-induced hearing loss in mice",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Ohlemiller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mcfadden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Ding",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pmi",
+                        "middle": [],
+                        "last": "Lear",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Ho",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Assoc Res Otolaryngol",
+                "volume": "1",
+                "issue": "",
+                "pages": "243--254",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ohlemiller KK, McFadden SL, Ding DL, Lear PMI, Ho YS. Targeted mutation of the gene for cellular glutathione peroxidase (Gpx1 ) increases noise-induced hearing loss in mice. Assoc Res Otolaryngol 2000;1:243-254.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Paraoxonase and superoxide dismutase gene polymorphisms and noise-induced hearing loss",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Fortunato",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Marciano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zarrilli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Mazzaccara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Intrieri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Calcagno",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Clin Chem",
+                "volume": "50",
+                "issue": "",
+                "pages": "2012--2018",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fortunato G, Marciano E, Zarrilli F, Mazzaccara C, Intrieri M, Calcagno G, et al. Paraoxonase and superoxide dismutase gene polymorphisms and noise-induced hearing loss. Clin Chem 2004;50:2012-2018.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Nomenclature for human glutathione transferases",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Mannervik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Awasthi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Board",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Hayes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Di",
+                        "middle": [],
+                        "last": "Ilio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ketterer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Biochem J",
+                "volume": "282",
+                "issue": "",
+                "pages": "305--306",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mannervik B, Awasthi YC, Board PG, Hayes JD, Di Ilio C, Ket- terer B, et al. Nomenclature for human glutathione transferases. Biochem J 1992;282:305-306.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Glutathione-S-transferase family of enzymes",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Strange",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Spiteri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Ramachandran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fryer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Mutat Res",
+                "volume": "482",
+                "issue": "",
+                "pages": "21--26",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Strange RC, Spiteri MA, Ramachandran S, Fryer AA. Gluta- thione-S-transferase family of enzymes. Mutat Res 2001;482:21-26.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Human glutathione S-transferase theta (GSTT1): cDNA cloning and the characterization of a genetic polymorphism",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Pemble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Schroeder",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Spencer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Meyer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hallier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bolt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Biochem J",
+                "volume": "300",
+                "issue": "",
+                "pages": "271--276",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pemble S, Schroeder KR, Spencer SR, Meyer DJ, Hallier E, Bolt HM, et al. Human glutathione S-transferase theta (GSTT1): cDNA cloning and the characterization of a genetic polymorphism. Biochem J 1994;300:271-276.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Antioxidant status and hearing function in noise-exposed workers",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Rabinowitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pierce",
+                        "middle": [],
+                        "last": "Wise",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Sr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Hur",
+                        "middle": [],
+                        "last": "Mobo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Antonucci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Powell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Slade",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Hear Res",
+                "volume": "173",
+                "issue": "",
+                "pages": "164--171",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rabinowitz PM, Pierce Wise J Sr, Hur Mobo B, Antonucci PG, Powell C, Slade M. Antioxidant status and hearing function in noise-exposed workers. Hear Res 2002;173:164-171.",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Camdeviren H. N-acetyltransferase 2 gene polymorphism and presbycusis",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Unal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Tamer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Dogruer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Yildirim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Vayisoglu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Laryngoscope",
+                "volume": "115",
+                "issue": "",
+                "pages": "2238--2241",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Unal M, Tamer L, Dogruer ZN, Yildirim H, Vayisoglu Y, Camde- viren H. N-acetyltransferase 2 gene polymorphism and presbycu- sis. Laryngoscope 2005;115:2238-2241.",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Mitochondrial DNA deletions associated with ageing and presbyacusis",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Seidman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Bai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Khan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Quirk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Arch Otolaryngol Head Neck Surg",
+                "volume": "123",
+                "issue": "",
+                "pages": "1039--1045",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seidman MD, Bai U, Khan MJ, Quirk WS. Mitochondrial DNA deletions associated with ageing and presbyacusis. Arch Otolaryngol Head Neck Surg 1997;123:1039-1045.",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Mitochondrial DNA4977 deletions associated with human presbycusis",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Jiang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Zhonghua Er Bi Yan Hou Ke Za Zhi",
+                "volume": "35",
+                "issue": "",
+                "pages": "416--419",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Han W, Han D, Jiang S. Mitochondrial DNA4977 deletions associated with human presbycusis. Zhonghua Er Bi Yan Hou Ke Za Zhi 2000;35:416-419.",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Mitochondrial DNA deletions associated with ageing and possibly presbycusis: a human archival temporal bone study",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Bai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Seidman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Hinojosa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Quirk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Am J Otol",
+                "volume": "4",
+                "issue": "",
+                "pages": "449--453",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bai U, Seidman MD, Hinojosa R, Quirk WS. Mitochondrial DNA deletions associated with ageing and possibly presbycusis: a human archival temporal bone study. Am J Otol 1997;4:449-453.",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Correlation of cochlear blood supply with mitochondrial DNA common deletion in presbyacusis",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Dai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Jiang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Gu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Yuan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Acta Otolaryngol",
+                "volume": "124",
+                "issue": "",
+                "pages": "130--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dai P, Yang W, Jiang S, Gu R, Yuan H, Han D, et al. Correlation of cochlear blood supply with mitochondrial DNA common deletion in presbyacusis. Acta Otolaryngol 2004;124:130-136.",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Mitochondrial DNA mutations, oxidative stress, and apoptosis in mammalian ageing",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Kujoth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hiona",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Pugh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Someya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Panzer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Wohlgemuth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Science",
+                "volume": "309",
+                "issue": "",
+                "pages": "481--484",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kujoth GC, Hiona A, Pugh TD, Someya S, Panzer K, Wohlge- muth SE, et al. Mitochondrial DNA mutations, oxidative stress, and apoptosis in mammalian ageing. Science 2005;309:481-484.",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "Distortion product otoacoustic emissions in the C57BL/6J mouse",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Parham",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Hear Res",
+                "volume": "112",
+                "issue": "",
+                "pages": "216--234",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parham K. Distortion product otoacoustic emissions in the C57BL/6J mouse. Hear Res 1997;112:216-234.",
+                "links": null
+            },
+            "BIBREF66": {
+                "ref_id": "b66",
+                "title": "Frequency and temporal resolution in elderly listeners with good and poor word recognition",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Phillips",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gordon-Salant",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fitzgibbons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Yeni-Komshian",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "J Speech Hear Res",
+                "volume": "43",
+                "issue": "",
+                "pages": "217--228",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Phillips SL, Gordon-Salant S, Fitzgibbons PJ, Yeni-Komshian G. Frequency and temporal resolution in elderly listeners with good and poor word recognition. J Speech Hear Res 2000;43:217-228.",
+                "links": null
+            },
+            "BIBREF67": {
+                "ref_id": "b67",
+                "title": "Non-syndromic autosomal-dominant deafness",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Petersen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Clin Genet",
+                "volume": "62",
+                "issue": "",
+                "pages": "1--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Petersen MB. Non-syndromic autosomal-dominant deafness. Clin Genet 2002;62:1-13.",
+                "links": null
+            },
+            "BIBREF68": {
+                "ref_id": "b68",
+                "title": "Large-scale identification, mapping, and genotyping of single-nucleotide polymorphisms in the human genome",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Fan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Siao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Berno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Young",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Sapolsky",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Science",
+                "volume": "280",
+                "issue": "",
+                "pages": "1077--1082",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wang DG, Fan JB, Siao CJ, Berno A, Young P, Sapolsky R, et al. Large-scale identification, mapping, and genotyping of single-nucleotide polymorphisms in the human genome. Science 1998;280:1077-1082.",
+                "links": null
+            },
+            "BIBREF69": {
+                "ref_id": "b69",
+                "title": "On the allelic spectrum of human disease",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Reich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lander",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Trends Genet",
+                "volume": "17",
+                "issue": "",
+                "pages": "502--510",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Reich DE, Lander ES. On the allelic spectrum of human disease. Trends Genet 2001;17:502-510.",
+                "links": null
+            },
+            "BIBREF70": {
+                "ref_id": "b70",
+                "title": "The future of genetic studies of complex human diseases",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Risch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Merikangas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Science",
+                "volume": "273",
+                "issue": "",
+                "pages": "1516--1517",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Risch N, Merikangas K. The future of genetic studies of complex human diseases. Science 1996;273:1516-1517.",
+                "links": null
+            },
+            "BIBREF71": {
+                "ref_id": "b71",
+                "title": "Is DFNA5 a susceptibility gene for age-related hearing impairment?",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Van Laer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Destefano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Flothmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Thys",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Fransen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Eur J Hum Genet",
+                "volume": "10",
+                "issue": "",
+                "pages": "883--888",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Van Laer L, DeStefano AL, Myers RH, Flothmann K, Thys S, Fransen E, et al. Is DFNA5 a susceptibility gene for age-related hearing impairment? Eur J Hum Genet 2002;10:883-888.",
+                "links": null
+            },
+            "BIBREF72": {
+                "ref_id": "b72",
+                "title": "A novel Z-score-based method to analyze candidate genes for age-related hearing impairment",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Fransen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Van Laer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Lemkens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Caethoven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Flothmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Govaerts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Ear Hear",
+                "volume": "25",
+                "issue": "",
+                "pages": "133--141",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fransen E, Van Laer L, Lemkens N, Caethoven G, Flothmann K, Govaerts P, et al. A novel Z-score-based method to analyze candidate genes for age-related hearing impairment. Ear Hear 2004;25:133-141.",
+                "links": null
+            },
+            "BIBREF73": {
+                "ref_id": "b73",
+                "title": "Baldwin CT. Genomewide linkage analysis to presbycusis in the Framingham heart study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Destefano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Heard-Costa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Arch Otolaryngol Head Neck Surg",
+                "volume": "129",
+                "issue": "",
+                "pages": "285--289",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Destefano AL Gates GA, Heard-Costa N, Myers RH, Bald- win CT. Genomewide linkage analysis to presbycusis in the Framingham heart study. Arch Otolaryngol Head Neck Surg 2003;129:285-289.",
+                "links": null
+            },
+            "BIBREF74": {
+                "ref_id": "b74",
+                "title": "Hearing impairment susceptibility in elderly men and the DFNA18 locus",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Garringer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Pankratz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Nichols",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Reed",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Arch Otolaryngol Head Neck Surg",
+                "volume": "132",
+                "issue": "",
+                "pages": "506--510",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Garringer HJ, Pankratz ND, Nichols WC, Reed T. Hearing impairment susceptibility in elderly men and the DFNA18 locus. Arch Otolaryngol Head Neck Surg 2006;132:506-510.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "text": ", 2007, 2, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2102, Wiley Online Library on [24/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+                "html": null,
+                "content": "<table/>",
+                "num": null,
+                "type_str": "table"
+            }
+        }
+    }
+}

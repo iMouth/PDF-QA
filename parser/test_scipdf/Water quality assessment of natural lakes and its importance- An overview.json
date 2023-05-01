@@ -1,0 +1,857 @@
+{
+    "title": "Water quality assessment of natural lakes and its importance: An overview",
+    "authors": "Prachi Vasistha; Rajiv Ganguly",
+    "pub_date": "2020-02-27",
+    "abstract": "",
+    "sections": [
+        {
+            "heading": "Introduction",
+            "text": "Water contains many nutrients and minerals and is of primary importance in human life [1]. In the past few years strict regulations and control have increased rapidly in monitoring of surface water bodies due to deteriorating environmental concerns. The quality of the lake water is dependent on the geological structure of earth and also on the anthropogenic activities surrounding it such as construction, waste dumping, agriculture and other associated activities [2][3][4][5] as these destroy the potential use of water [6]. As the water percolates through the soil it adds into itself a large amount of soluble and insoluble substances which alters the properties of the water making it less potable and in some cases unpalatable [7][8][9]. In essence, the variations in physico-chemical properties fluctuate on both temporal and spatial scales [10,11]. The surface water bodies such as lakes, rivers and springs are the important sources of fresh water [12]. The insufficiency in the surface water resources makes the people dependent on the groundwater for the regular water supply. In this context, lakes are one of the most important water resources and are classified as either man made or natural and have been used as a source of water supply for human consumption [13]. The imbalance on the water inflow and outflow could lead to cultural Eutrophication in these lakes [14]. The nutrients enter into the lake water through disposal of human excreta and agricultural wastes which are rich in fertilizers containing nitrogen, phosphorous and potassium with phosphorous being the major factor limiting the growth of algae and eutrophication in lake water [15]. With water scarcity being already an important environmental problem the present focus is on improvement in the quality of existing water sources particularly lakes by means of characterization for improving and restora-tion of the water quality [16] .The water quality is defined on the physico-chemical parametric values determined [17]. The parametric values reveal the present status of the water body and the prolonged evaluations of these parameters easily depict the hydrological modifications taking place in the water bodies [18]. Table 1 presents the permissible standards for drinking water quality as per Bureau of Indian Standards (BIS) [19]. The water quality may be evaluated on the basis of requirements of one or more species such as flora, fauna or human beings [20].",
+            "n_publication_ref": 20,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Water quality parameters, significance and effects in determination of water quality",
+            "text": "The water quality in the water bodies is greatly dependent on the physical, chemical and biological parameters and their interaction with each other. According to [12] the lakes are a unique system to study the interactions among various water quality parameters since they offer a unique ecosystem quite different from land or air. There are quite a large number of physical, chemical and biological parameters which needs to be evaluated before deciding the specific usage of water. According to the water quality monitoring guidelines by Central Pollution Control Board of India [21] the parameters to be decided greatly depends upon the purpose for which water to be utilized in the society. Table 2 presents the parameters and their permissible values for various DBU of the present water sources. These above parameters need to be evaluated for the determination of best use of the water available around the place. The various physico-chemical and biological parameters are in relation to each other and the overall quality of water depends upon the deviation from the permissible range.\nIn this context, Table 2 summarizes important parameters in a lake ecosystem and their relation to each other as well as an identity to the overall condition of the water in the lake. The increase or decrease in the value of parameters causes a significant effect on the other parameters thereby affecting the overall quality of the water body which in turn results in the overall change in the characteristics of a water body. Table 2 above gives the interdependency of parameters on each other as well as their effect on the properties of lake water. The parameters are interrelated to each other and therefore affect the overall quality of lake water.",
+            "n_publication_ref": 2,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Water quality indices for assessment of lake water quality",
+            "text": "The presence of large number of sites within lake system leads to monitoring of samples from different locations which creates huge databank and which are difficult to analyse, hence we need simple tools for interpretation of the results for understanding the water quality for both the common public and for regulatory bodies [45]. The Water Quality Index (WQI) is one such tool which could be used for analysis of this complex data, wherein individual parameter are determined and assigned a certain weightage and the WQI is calculated depending on the chosen method.\nThere are a large number Water Quality Indexes available globally, based on the different physico-chemical parameters and the purpose of the study and the best fit index is chosen [46]. There is no prominent identification of any WQI techniques to give out best results but different water quality indices are available and can be evaluated for determining overall water quality of lake water and which might be suitable for different purposes [47].\nThe main problems with water quality indexing are eclipsing and ambiguity which raise concerns about the limitations, opacity and misinterpretations that can take place in these indices which are generally based on aggregation methods [48]. The term ambiguity clearly means that the process of indexing cannot be solved in fixed number of steps and might need additional number of steps with extra interpretations. There can be an ambiguity related to measurement of parameters or due to spatial distributions in the water body which are generally not considered in case of traditional water quality index [49]. Rigidity of parameters is another problem of these indices as the additional parameters other than the existing ones; therefore the water quality index aggregation used for one area might be ambiguous for other areas [50,51]. Rigidity is based on parameters used in indices, when area demands utilization of extra parameters for a certain water quality issue determination in concerned area but the WQI does not allow doing so then the rigidity factor comes into play. There is no scope for additional parameters to be included. Table 3 presents an insight of WQI used around the globe along with the concerned parameters measured their permissible limits and the area of application.\nThe parameter are of the concerned water quality index and does not consider any hard and fast rule but is exclusive of the concerned water quality index being used for the determination of water quality of the water body of the area.",
+            "n_publication_ref": 7,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Trophic status of lakes and its determination",
+            "text": "The natural lakes are stationary water bodies which lack any direct contact with any water body such as ocean [12]. The physical, chemical and biological properties are limited within lake ecosystem. The lack of heavy inflow and outflow leads to increase in the nutrient status of lakes. The lakes are also classified based on their nutrient status as oligotrophic with low productivity, mesotrophic with intermediate productivity, eutrophic with high productivity due to increase in nitrogen and phosphorous concentrations leading to growth of aquatic plants making the water clear or increase in algae making the water black in colour and hyper-eutrophic with high levels of chlorophyll and phosphorous leading to excessive algal blooms and formation of dead zones [12].\nA trophic state index was developed by [15] using a numerical approach to determine the trophic status of lake. The index serves as a tool for trophic state investigations. Table 4 below gives a summary of the trophic status of various tropical and subtropical lakes around the globe along with the different parameters that can be used for the determination of trophic status of these lakes.\nFrom the above discussions it can be concluded that out of the above parameters that can be used for the determination of trophic status of a water body the major parameters that can be considered are Secchi disk depth, total phosphorous, Chlorophyll a and Total Nitrogen. The major portion of above studies has considered these parameters as important for trophic status evaluation. Table 1 Parameters for drinking water quality according to BIS.",
+            "n_publication_ref": 3,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Chemical parameters",
+            "text": "Standards (BIS)\npH 6.5-8.5 Total dissolved solids (mg/L) 500 Chloride (mg/L) 250 Fluoride (mg/L) 1 Nitrate (mg/L) 45 Sulphate (mg/L) 200 Bicarbonate (mg/L) 200 Calcium (mg/L) 75 Magnesium (mg/L) 30 Total Hardness (as CaCo 3 ) (mg/L) 200",
+            "n_publication_ref": 0,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Heavy metal determination and indexing",
+            "text": "Heavy metals are usually measured by measuring their concentration in water [93]. The quality of water is therefore influenced by the excessive concentration of heavy metals in water. The various human activities such as industrialization, urbanization, enhanced agricultural activities which input heavy loads of sewage, waste industrial water and harmful chemicals into lakes leading to heavy metal accumulation in the environment [94]. This input for large durations lead to bioaccumulation of toxic metals into the ecosystem and food chains causing harm to organisms and plants [95]. Table 5 represents the summary of few studies in terms of heavy metal values determined by the authors and their comparison with the standard permissible limits. The concentration of various heavy metals such as Pb, Zn, Cd, Mn, Fe, Ni, Cr, Cu, Co, As, and Hg were taken from the studies referred in above section. Altenworth Reservoir Danube [96], Dasarhalli Tank, Bangalore [97], Subarnarekha River [98], Akkulam-Veli lake [99], Ismailia Canal Egypt [79], Harike Wetland [100], Haihe Basin [101], 110 lakes of China [102] were few of the major study areas included above.\nThe maximum numbers of heavy metals exceeding the permissible limits were associated with 110 lakes of China, almost all the parameters were beyond permissible limits. The next was Table 2 Water quality parameters, their inter-relationships and their effects on water quality.",
+            "n_publication_ref": 11,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Parameter",
+            "text": "Permissible range Effect Reasoning References",
+            "n_publication_ref": 0,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Temperature 18¯C to 22¯C",
+            "text": "The temperature effects dissolved oxygen\nThe raise in temperature leads to decrease in the amount of dissolved oxygen and other gases due to decrease in molecular forces of attraction between gas molecules. The decrease in the temperature on the other hand increases the amount of D.O. in water which in turn affects the biodiversity in water as well as other chemical reactions.\n[ The increase in BOD clearly shows high level of organic pollution in water. The increased input of waste water can lead to decrease in DO and fish killing. The microorganisms utilise the oxygen of water to degrade the waste of the surface water body to release the energy for their growth and reproduction thereby increasing BOD levels and decreasing the levels of oxygen in water. Chlorine can be used to treat this water but needs to be neutralized at supply end.\n[31, 32 31,33] Phosphorous (P), Nitrate (NO 3 ) and Ammonia (NH 4 ),\nSulphate (So 4 ) 100mg/L 400mg/L\nThe inorganic nutrients in the water dissolved leads to increase in the productivity of lakes.\nThe discharge of sewage water, runoff from agricultural fields sprayed with fertilizers and pesticides can lead to input of inorganic nutrients into the soil which promote the productivity of lakes and hence growth of algal blooms similarly as for crops.\n[ The waste water runoff into lakes increases the levels of bacteria.\nThe faecal coliform bacteria are introduced into the surface waters from the inflow of waste waters into the surface waters thereby reducing the potability of water by introduction of various fatal diseases. [38,39,40,41] Planktons The increased nutrient contents in water from agricultural runoffs or waste water inputs induce growths of planktons\nThe planktons or algae are green microscopic plants which feed on the nutrients and utilise the sunlight to produce large algal blooms reducing the overall dissolved oxygen in the lower layers of lake leading to harmful effects on plants and animals in lower layers. They are most sensitive species and therefore can be an indicator for water quality. [35,42,43,44]  Akkulam-Veli lake in which all the heavy metal parameters for both seasons were found to be exceeding the prescribed limits. These lakes can be considered as unfit for human use as well as for aquatic purpose. For Haiha Basin in China the parameters that were beyond permissible limits were Pb, Zn, Ni, Cr & Cu rest all parameters were within permissible limits. For the Ismailia Canal, Egypt only the Cd and Zn were found to be beyond permissible limits. The total Fe was higher in Dasarhalli Tank in Banglore and rest  all parameters were within range. The same was applicable to Subarnarekha river. From the above discussions we can conclude that the heavy metals are the one of the major factors that contributes to deterioration of water quality of water bodies to an extent making it non potable. The major heavy metals contributing to toxicity in water bodies are Pb, Zn, Cd, Mn, Fe, Ni, Cr, Cu, Co, As, Hg provided that their quantity increases the permissible limits in water. Though they are trace metals present in surface as well as ground waters but a sudden increase or decrease in the quantity can lead to serious effects on human as well as animal health.\nThe increased use of water containing high content of heavy metals if for prolonged periods in agriculture does not only cause permanent damage to the plants and soil of the area, but also affects the activities and size of the soil microorganisms [103]. The heavy metals such asCo, Cu, Fe, Mn, Mo, Ni and Zn are very useful for plant growth and sustenance but their increased amount create toxicity inside the plants, the other heavy metals such as As, Cd, Hg, Pb or Se are not even contributors to plants growth and sustenance [104,105]. The heavy metals are resistant to bacteriological degradation and therefore leads to bioaccumulation in aquatic food chains [106], which creates ecological disturbance and degradation of ecological balance leading to limitations in diversity [107]. The heavy metals do not degrade in human body and keeps on accumulating in the soft tissues which creates impacts after years of exposure [108,109]. The cadmium affects kidneys, liver, lungs brain and bones and the symptoms for poisoning include nausea, muscular weakness, cramps etc. [109]. Zinc is not toxic unless taken in excess amount leading to impaired growth and reproduction issues [110]. The symptoms for Zinc poisoning include bloody urine, kidney failure, vomiting etc [111]. The Cu intake may lead to nervous system failure and acute depression [110]. The effects of Nickel exposure varies from skin irritation to damage of lungs and mucous membrane [112]. The effects of lead on Kidney, brain and liver leading to sickness and death is prevalent at low concentrations also [113]. The chromium IV ions can lead to oxidation of blood if it gets into the membranes [114]. Mercury poisoning produces rashes in organs, pink disease and even total damage to the brain [111]. Arsenic being a poison at low levels affects immune systems to a level where immunity reduces to a greatly low level producing various disorders [111]. Therefore it becomes imperative from the perspective of water quality determination to evaluate heavy metal content in the water body.",
+            "n_publication_ref": 25,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Microplastic contamination in water sources",
+            "text": "With increase in the globalization the use and production of plastic has significantly increased to 300 million tonnes globally which in past 50 years, the increased use of plastic generates a lot of waste which like other classes of waste does not degrade or rot therefore leading to a global accumulation of the plastic waste. This plastic usually washes away in the lakes or oceans through streams, rivers or small rivulets and end up being a part of the water bodies, with the action of wind, sunlight or disturbances by waves these plastics breakdown into smaller particles thereby getting to a size smaller than 5 mm and microplastics or secondary plastics [115]. The microplastics do not only affect the soil but also affects sediments, open waters, humans, animals and micro-organisms [116].\n333 mm mesh was used by [117] to take samples across Lake Laurentian and it was found to have about 43,000 microplastics/ km 2 and about 466,000 microplastics/km 2 downstream of 2 major cities. The Scanning Electron Microscope (SEM) technique was used to determine microplastics and it was found that the plastics were generally in form of microbeads originating from the packaging of consumer products originating from urban effluents.\nIn the study related to microplastic in Lake Winnipeg in Canada, [118] found that during the sampling duration of 2014 to 2016 the densities and the quantities of plastics were high as compared to Laurentian Great Lakes. The plastic was in the form of fibres known as secondary plastic. Though the effects of microplastics are unknown but it has been found to even exist around lakes with very sparse populations. The rivers are detected to be main source of carrying microplastics to the oceans and large sea. The lakes in remote areas also contain huge quantities of microplastics. The 2 lakes in Italy namely lake Bolsena and lake Chiusi were evaluated by [119] for microplastic contamination, themanta trawls approximately 6 in number were rotated around for determination of microplastic contents. The microplastics were found not only in the lake water but also in lake sediments. In lake Chiusi 2.68 to 3.36 particles/m 3 were found whereas in Lake Bolsena 0.82 to 4.42 particles/m 3 were detected. The factors such as location, type, wind intensity, waves, storm also determine the quantity of plastics in the lakes. The mean of 112 (Lake Bolsena) to 234 (Lake Chiusi) particles/kg was found. The Tibetan plateau which is known for sparse population and almost negligible human activities was also analysed by [120] for determining the microplastics in the Siling Co basin of the Plateau, the microplastics were confirmed in 6 out of 7 sites ranging from 8 ± 14 to 563 ± 1219 items/m 2 . River input is thought to be the main cause of the plastics in the lake. The nature of plastic is found to be generally packing and daily plastic products. Raman spectroscopyand SEM techniques were used for determining the texture of the microplastics. China's largest lake, Qinghai Lake was evaluated for presence of microplastics by [121]. The abundance of 0.03 Â 10 5 to 0.31 Â 10 5 items/km 2 in the inflowing rivers, 50 to 1292 items/m 2 in sediments and 2-15 items/m 2 i n fish respectively. Table 5 Comparison of Few studies in the above section in terms of Heavy metal values determined.",
+            "n_publication_ref": 7,
+            "n_figure_ref": 0
+        },
+        { 
+            "heading": "Metals (mg/L)",
+            "text": "Altenworth Reservoir Danube, Austria [96] Dasarhalli Tank, Banglore [97] Subarnareka River [98] Akkulan-Veli Lake (Avg.) [99] Ismailia Canal, Egypt [79] Harike Wetland [100] Haiha Basin, China (Avg.) [101] Lake sediments (110 lakes China) [102] T.\nD Small microplastics are present in lakes whereas large microplastics are present in rivers. The plastics were polyethylene and polypropylene as determined by Raman Spectroscopy. The centre of the lake contains high amount of plastics due to tourist effects. In Indian Context [122] studied the sediments of Vembanad lake of Kochi which is a freshwater system and a Ramsar Site. Density separation was used for separation of microplastics, Micro Raman Spectroscopy was used for identification of polymers. Low density polyethylene has been detected as prevalent type of microplastic posing a threat to the fish density in the lake, since the fish is the largest source of food and bioaccumulation of microplastics can be a threat due to non-reporting of effects till date.\nThe effect of microplastics on the lakes have been studied in a limited amount throughout globe specially in India therefore it is important to practice the waste management appropriately to avoid these harmful components into the water, soil, sediments etc. which might pose a threat to the well being of humans and animals.",
+            "n_publication_ref": 9,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Conclusion",
+            "text": "The water quality considers physical, chemical and biological parameters for defining the quality of water and its maintenance. The various parameters such as TDS, pH, Temperature, BOD, COD, Phosphorous, DO, Bacteria, Phytoplankton, SO 4 , Ca, Na, Mg, NO 3 , NO 2 , NH 4 , are determined and compared with the standard limits prescribed by agencies such as CPCB, WHO, BIS etc.. The variability of these components is then compared with the present standards to determine the usage for different purposes like drinking, bathing, fisheries, agriculture etc according to the guidelines prescribed by central board. The parameters create huge data sets therefore water quality Index is a method which presents the overall quality of water. There is large number of water quality indices available around globe used for various purposes such as surface water quality, irrigation, ground water quality, heavy metal determination, overall pollution determination, trophic status determination etc. The index value gives a single value which can be compared with the range values specified for classification of water quality as High, Medium or low respectively.\nThe complete water quality determination not only requires the physical, chemical and biological components but also requires assessment of toxicological components such as heavy metals and the heavy nutrients from use of pesticides and chemical fertilizers which even if exceeding the permissible limits in trace amounts can cause a great harm to not only the human beings but also aquatic animals and plants. The accumulation of these heavy metals can lead to bioaccumulation in the environment thereby entering the food chain and causing tremendous damage to health of humans, animals and plants. The nutrients produced from used of fertilizers and pesticides get washed up in the water bodies during monsoon and increase the productivity of the water bodies creating many detectable and non-detectable issue, one such issue being eutrophication which causes the excessive growth of algae and reduction in DO posing a harm to aquatic life. The study also discusses about microplastics in a small segment and their possible effects summarized in the literature.\nTherefore it can be concluded that a complete water quality criteria should not only include the basic water quality parameter determination but should involve a complete analysis of water quality comprising physical, chemical, biological and toxicological component analysis to determine all the potential uses of the water body.",
+            "n_publication_ref": 0,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "CRediT authorship contribution statement",
+            "text": "Prachi Vasistha: Conceptualization, Writing -original draft. Rajiv Ganguly: Conceptualization, Supervision, Writing -review & editing.",
+            "n_publication_ref": 0,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Declaration of Competing Interest",
+            "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "n_publication_ref": 0,
+            "n_figure_ref": 0
+        },
+        {
+            "heading": "Acknowledgements",
+            "text": "I would like to thank all the authors referred in the paper for their significant contribution towards the field of water quality.",
+            "n_publication_ref": 0,
+            "n_figure_ref": 0
+        }
+    ],
+    "references": [
+        {
+            "title": "Chemometric survey of Italian bottled mineral waters by means of their labelled physico-chemical and chemical composition",
+            "journal": "J. Food Compos. Anal",
+            "year": "2002",
+            "authors": "A Versari; G P Parpinello; S Galassi"
+        },
+        {
+            "title": "Impact on the environment due to industrial development in 924, Chhattisgarh region of Madhya Pradesh",
+            "journal": "Finance India",
+            "year": "1966",
+            "authors": "S C Lahiry"
+        },
+        {
+            "title": "Assessment of Pollution Status and Groundwater vulnerability Mapping of the Addis Ababa Water Supply Aquifers, Ethopia",
+            "journal": "",
+            "year": "2004",
+            "authors": "A Tamiru"
+        },
+        {
+            "title": "Physico-chemical analysis of surface and ground water of bargarh district",
+            "journal": "Int. J. Res. Rev. Appl. Sci",
+            "year": "2010",
+            "authors": "M R Mahananda; B P Mohanty; N R Behera"
+        },
+        {
+            "title": "Distribution of trace metals in two commercially important fish species (Tilapia Zilli and Oreochromis Niloticus) Sediment and Water from Lake Gudbahri, Eastern Tigray of Northen Ethiopia",
+            "journal": "Int. J. Sci. Res. Publ",
+            "year": "2013",
+            "authors": "M Mehari; B Mulu"
+        },
+        {
+            "title": "Analysis of water quality of Halena Block in Bharatpur Area",
+            "journal": "Int. J. Sci. Res. Publ",
+            "year": "2013",
+            "authors": "S K Tank; R C Chippa"
+        },
+        {
+            "title": "Chemistry of Sanitary Engineers",
+            "journal": "McGraw-Hill Publications",
+            "year": "1967",
+            "authors": "C N Sawyer; P I Mccarty"
+        },
+        {
+            "title": "Water-rock interaction and the chemistry of groundwaters from the Canadian Shield",
+            "journal": "Geochem. Cosmochim. Acta",
+            "year": "1984",
+            "authors": "S K Frape; P Fritz; R H Mcnutt"
+        },
+        {
+            "title": "A statistical procedure for the analysis of seismotechtonically induced hydrochemical signals: a case study from the Eastern Carpathians, Romnia",
+            "journal": "Tectonophysics",
+            "year": "2005",
+            "authors": "J Hartman; Z Berna; D Stuben; N Henze"
+        },
+        {
+            "title": "Diffuse pollution-an introduction to the problems and solutions",
+            "journal": "",
+            "year": "1996",
+            "authors": "N Campbell; B D'arcy; A Forst; V Novotny; A Sansom"
+        },
+        {
+            "title": "An approach to catchment-scale groundwater nitrate risk assessment from diffuse agricultural sources: a case study in the Upper Bann",
+            "journal": "Hydrol. Process",
+            "year": "2008",
+            "authors": "J L Wang; Y S Yang"
+        },
+        {
+            "title": "Water quality assessment of lake : a review",
+            "journal": "Sustain. Water Resour. Manage",
+            "year": "2016",
+            "authors": "R Bhateria; D Jain"
+        },
+        {
+            "title": "Determination of water quality index and sustainability of urban water body in Shimoga town Karnataka",
+            "journal": "M",
+            "year": "",
+            "authors": "K Yogendra; E T Puttaiah"
+        },
+        {
+            "title": "Proceedings of TAAL 2007: The 12th World Lake Conference",
+            "journal": "",
+            "year": "2008",
+            "authors": ""
+        },
+        {
+            "title": "Major environmental problems in world lakes",
+            "journal": "",
+            "year": "1993",
+            "authors": "T Kira"
+        },
+        {
+            "title": "A Trophic state index for lakes",
+            "journal": "Limnol. Oceanogr",
+            "year": "1977",
+            "authors": "R E Carlson"
+        },
+        {
+            "title": "Water management: current and future challenges and research directions",
+            "journal": "Water Resour. Res",
+            "year": "2015",
+            "authors": "W J Cosgrove; D P Loucks"
+        },
+        {
+            "title": "Water Quality: Frequently Asked Questions",
+            "journal": "",
+            "year": "2009",
+            "authors": "N Diersing"
+        },
+        {
+            "title": "Assessment of seasonal variations in physico chemical characteristics and quality of Pravara river water for irrigation use in Sangamner dist. Ahmednagar Maharashtra",
+            "journal": "J. Chem. Pharmaceut. Res",
+            "year": "2010",
+            "authors": "S N Thitame; G M Pondhe"
+        },
+        {
+            "title": "",
+            "journal": "Parameters of Drinking water quality BIS",
+            "year": "1500",
+            "authors": " Bureau;  Of Indian;  Standards"
+        },
+        {
+            "title": "Meanings of environmental terms",
+            "journal": "J. Environ. Qual",
+            "year": "1997",
+            "authors": "D N Johnson; P Lamb; M Saul; A E Winter Nelson"
+        },
+        {
+            "title": "CPCB Ministry of environment and forest Guidelines of water quality monitoring CPCB Guidelines",
+            "journal": "",
+            "year": "2007",
+            "authors": ""
+        },
+        {
+            "title": "Roles of water for chemical reactions in hightemperature water",
+            "journal": "Chem. Rev",
+            "year": "2002",
+            "authors": "N Akiya; P E Savage"
+        },
+        {
+            "title": "",
+            "journal": "McGraw Hill",
+            "year": "",
+            "authors": "Eddy Metcalf"
+        },
+        {
+            "title": "Groundwater Assessment Development and Management, Tata McGraw Hill publishing company Ltd",
+            "journal": "",
+            "year": "1987",
+            "authors": "K R Karanth"
+        },
+        {
+            "title": "",
+            "journal": "A. Serajuddin, Pharmaceut. Res",
+            "year": "2005",
+            "authors": "S Li; S M Wong; S Sethia; H Almoazen; Y M Joshi"
+        },
+        {
+            "title": "Water quality assessment of Pampa river in relation to pilgrimage season",
+            "journal": "Int. J. Res. Chem. Environ",
+            "year": "2013",
+            "authors": "F N Jalal; M G Sanalkumar"
+        },
+        {
+            "title": "Determination of physico-chemical parameters of surface water samples in and around Akot City",
+            "journal": "Int. J. Res. Chem. Environ",
+            "year": "2011",
+            "authors": "M H Gopalkrushna"
+        },
+        {
+            "title": "Water quality analysis of an organically polluted lake by investigating different physical and chemical parameters",
+            "journal": "Int. J. Res. Chem. Environ",
+            "year": "2012",
+            "authors": "P Verma; D Chandawat; U Gupta; H Solanki"
+        },
+        {
+            "title": "Water Quality Indicators: Temperature and Dissolved Oxygen Regional Aquatics Monitoring Program (RAMP)",
+            "journal": "",
+            "year": "1988",
+            "authors": "B C Melp"
+        },
+        {
+            "title": "Hydro-biological studies of Wohar reservoir Aurangabad (Maharashtra State) India",
+            "journal": "J. Environ. Biol",
+            "year": "1990",
+            "authors": "R Krishnamurthy"
+        },
+        {
+            "title": "",
+            "journal": "Ecol. Chem",
+            "year": "2003",
+            "authors": "Pauer Penn; Environ Mihelcic"
+        },
+        {
+            "title": "Impact assessment of human activities and seasonal variation on River Benue, within Makurdi Metropolis",
+            "journal": "Int. J. Sci. Technol",
+            "year": "2012",
+            "authors": "B A Anhwange; E B Agbaji; E C Gimba"
+        },
+        {
+            "title": "Standards methods for the examination of water and wastewater",
+            "journal": "APHA",
+            "year": "2005",
+            "authors": ""
+        },
+        {
+            "title": "Total nitrogen, total phosphorus, and nutrient limitation in lakes and oceans: Is there a common relationship?",
+            "journal": "Limnol Oceanogr",
+            "year": "2000",
+            "authors": "S J Guildford; R E Hecky"
+        },
+        {
+            "title": "Perspectives on the eutrophication of the Yahara lakes",
+            "journal": "",
+            "year": "2009",
+            "authors": "R C Lathrop"
+        },
+        {
+            "title": "Suspended sediment and bedload",
+            "journal": "Academic Press, Inc",
+            "year": "1996",
+            "authors": "R L Beschta"
+        },
+        {
+            "title": "Ecology of Sarny Reservoir (M.P.) in the context of Fisheries",
+            "journal": "",
+            "year": "2003",
+            "authors": "A K Das; N P Shrivastva"
+        },
+        {
+            "title": "Effects of using wastewater on vegetable growing and the associated socio-economic impacts on farmers in the kafue lagoon areas and along ngwerere river, Ministry of Finance and National Planning Zambia Social Investment Fund",
+            "journal": "",
+            "year": "2004",
+            "authors": "C B Chisanga; O M Silembo"
+        },
+        {
+            "title": "Studies on the river Panchganga at Kolhapur 2001 with special reference to human impact on water quality",
+            "journal": "ABD Publishers",
+            "year": "2001",
+            "authors": "P K Goel; P M Bhosale"
+        },
+        {
+            "title": "Water quality of river Tapti at Bhusawal Town",
+            "journal": "Indian J. Environ. Protect",
+            "year": "2003",
+            "authors": "Y S Patil; S K Patil; A D Dhande; N S Pawar"
+        },
+        {
+            "title": "Studies on pollution statua of Jalangi river around Krishnanagar city in West Bengal",
+            "journal": "Sci. Cult",
+            "year": "2004",
+            "authors": "P B Maity; T Saha; P B Ghosh; T S Bandopadhyay"
+        },
+        {
+            "title": "Significance of algae, Algae and Water Pollution Castle, Home publications",
+            "journal": "",
+            "year": "1980",
+            "authors": "C M Palmer"
+        },
+        {
+            "title": "Algal community used for assessment of water quality of Haranbaree dam and Mosam river of Maharashta",
+            "journal": "J. Environ. Biol",
+            "year": "2005",
+            "authors": "S N Nandan; N H Aher"
+        },
+        {
+            "title": "Influence of cooling water discharges from Kaiga nuclear power plant on selected indices applied to plankton population of Kadra reservoirs",
+            "journal": "J. Envi. Biol",
+            "year": "2006",
+            "authors": "S Zargar; T K Gosh"
+        },
+        {
+            "title": "Determining the water quality index of an urban water body Dal Lake",
+            "journal": "J. Environ. Sci. Toxicol. Food Technol",
+            "year": "2015",
+            "authors": "R S Kanakiya; S K Singh; J N Sharma"
+        },
+        {
+            "title": "Water Quality Assessment of Aswan High Dam Reservoir",
+            "journal": "",
+            "year": "2016",
+            "authors": "M Elshemy; G Meon"
+        },
+        {
+            "title": "Indexing method for assessment of pollution potential of leachate from non-engineered landfill sites and its effect on ground water quality",
+            "journal": "Environ Monit Assess",
+            "year": "2018",
+            "authors": "R Rana; R Ganguly; A K Gupta"
+        },
+        {
+            "title": "Environmental quality indices: Theory and practice",
+            "journal": "Ann Arbor Science",
+            "year": "1978",
+            "authors": "W R Ott"
+        },
+        {
+            "title": "Water quality index: a fuzzy river pollution decision support expert system",
+            "journal": "J. Water Resour. Plan. Manage",
+            "year": "2007",
+            "authors": "F Nasiri; I Maqsood; G Huang; N Fuller"
+        },
+        {
+            "title": "Formation of an air pollution index",
+            "journal": "J. Air Waste Manage. Assoc",
+            "year": "1999",
+            "authors": "P K Swamee; A Tyagi"
+        },
+        {
+            "title": "Describing water quality with an aggregate index",
+            "journal": "J. Environ. Eng. ASCE",
+            "year": "2000",
+            "authors": "P K Swamee; A Tyagi"
+        },
+        {
+            "title": "Identification of river water quality using the fuzzy synthetic evaluation approach",
+            "journal": "J. Environ. Manage",
+            "year": "2001",
+            "authors": "N B Chang; H W Chen; S K Ning"
+        },
+        {
+            "title": "Fuzzy reasoning in decision making and optimization, (studies in fuzziness and soft computing)",
+            "journal": "",
+            "year": "2001",
+            "authors": "C Carlsson; R Fuller"
+        },
+        {
+            "title": "On method for uncertain multiple attribute decision making problems with uncertain multiplicative preference information on alternatives",
+            "journal": "Fuzzy Optim. Decision Making",
+            "year": "2005",
+            "authors": "Z Xu"
+        },
+        {
+            "title": "Development of chemical index as a measure of in-stream water quality in response to land-use and land cover changes",
+            "journal": "Water Air Soil Pollut",
+            "year": "2006",
+            "authors": "T Tsegaye; D Sheppard; K R Islam; A Johnson; W Tadesse; A Atalay; L Marzen"
+        },
+        {
+            "title": "Application of CCME procedure for deriving site-specific water quality guidelines for the CCME Water Quality Index",
+            "journal": "Water Qual. Res. J. Can",
+            "year": "2005",
+            "authors": "A A Khan; A Tobin; R Paterson; H Khan; R Warren"
+        },
+        {
+            "title": "Effect of dissolved oxygen concentration on nitrite accumulation in nitrifying sequencing batch reactor",
+            "journal": "Water Environ. Res",
+            "year": "2007",
+            "authors": "O Sánchez"
+        },
+        {
+            "title": "Application of water quality indices and dissolved oxygen as indicators for river water classification and urban impact assessment",
+            "journal": "Environ. Monit. Assess",
+            "year": "2007",
+            "authors": "P R Kannel; S Lee; Y S Lee; S R Kanel; S P Khan"
+        },
+        {
+            "title": "Physicochemical analysis of groundwater quality of Anand district",
+            "journal": "ISCA Int. Res. J. Environ. Sci",
+            "year": "2012",
+            "authors": "T Bhattacharya; N Tuck; S Chakraborty"
+        },
+        {
+            "title": "Quality characterization of groundwater using Water Quality Index in Surat city",
+            "journal": "ISCA Int. Res. J. Environ. Sci",
+            "year": "2012",
+            "authors": "R Mangukiya; T Bhattacharya; T ; S Chakraborty"
+        },
+        {
+            "title": "A modified drinking water quality index (DWQUI) for assessing drinking source water quality in rural communities of Khusestan province Iran",
+            "journal": "Ecological Indicators",
+            "year": "2015",
+            "authors": "M Abtahi; N Golchinpour; K Yaghmaeian; M Rafiee; M J Rad; A Keyani; R Saeedi"
+        },
+        {
+            "title": "Development of overall water quality index in for surface water in Indian context",
+            "journal": "Current World Environ",
+            "year": "2015",
+            "authors": "S Singh; N C Ghosh; G Krishan; R Galkate; T Thomas; R K "
+        },
+        {
+            "title": "Water quality characteristics and trends for Banff and",
+            "journal": "Ecological Sciences Division",
+            "year": "1973",
+            "authors": "N E Glozier; R W Crosley; L W Mottle; D B Donald"
+        },
+        {
+            "title": "Water quality characteristics and trends in a small agricultural watershed: South Tobacco Creek",
+            "journal": "Environment Canada",
+            "year": "1992",
+            "authors": "N E Glozier; J A Elliot; B Holliday; J Yarotski; B Harker"
+        },
+        {
+            "title": "Application of CCME water quality index to monitor water quality: a case of the Mackenzie river basin",
+            "journal": "Canada, Environ. Monit. Assess",
+            "year": "2006",
+            "authors": "A Lumb; D Halliwell; T Sharma"
+        },
+        {
+            "title": "Water quality analysis of River Yamuna using water quality index in the national capital territory",
+            "journal": "Appl, Water Sci",
+            "year": "2000",
+            "authors": "D Sharma; A "
+        },
+        {
+            "title": "Assessment of Water Quality Trends of Khadakwasla Reservoir Using CCME-WQI",
+            "journal": "Environmental Pollution, Water Science and Technology Library",
+            "year": "2018",
+            "authors": "S K Hansda; K K Swain; S P Vaidya; R S Jagtap"
+        },
+        {
+            "title": "Use of water quality indices to verify the impact of Cordoba city (Argentina) on Suquya River",
+            "journal": "Water Res",
+            "year": "2000",
+            "authors": "S F Pesce; D A Wunderlin"
+        },
+        {
+            "title": "Study of the pollution load in the drinking water of Rairangpur, a small tribal dominated town of North Orissa",
+            "journal": "Indian J. Environ. Ecoplann",
+            "year": "2001",
+            "authors": "P C Mishra; R K Patel"
+        },
+        {
+            "title": "Water quality in the Río Lerma, Mexico: an overview of the last quarter of the twentieth century",
+            "journal": "Water Resour. Manage",
+            "year": "2007",
+            "authors": "J E Sedeño-Díaz; E López-López"
+        },
+        {
+            "title": "Development of water quality indexes to identify pollutants in Vietnam's surface water",
+            "journal": "J. Environ. Eng",
+            "year": "2011",
+            "authors": "P T M Hanh; S Sthiannopkao; D T Ba; K W Kim"
+        },
+        {
+            "title": "Water quality assessment based on WQI and CWQI indexes in",
+            "journal": "",
+            "year": "2013",
+            "authors": "E Fataei; A S Seyyedsharifi; T S Seiiedsafaviyan; S Nasrollahzadeh"
+        },
+        {
+            "title": "Water quality index as a tool for assessment of status of an urban lake of Mumbai",
+            "journal": "Int. J. Current Microbiol. Appl. Sci",
+            "year": "2018",
+            "authors": "A Usman; K Dube; S P Shukla; P Salaskar; C Prakash; P B Sawant; R Singh"
+        },
+        {
+            "title": "DELPHI: The Rand Corporation",
+            "journal": "",
+            "year": "1968",
+            "authors": "N C Dalkey"
+        },
+        {
+            "title": "The Delphi technique, a forecasting tool: issues and analysis",
+            "journal": "Int. J. Forecast",
+            "year": "1999",
+            "authors": "G Rowe; G Wright"
+        },
+        {
+            "title": "A tool for evaluating water quality management effectiveness",
+            "journal": "J. American Water Resour. Assess",
+            "year": "2001",
+            "authors": "C Cude"
+        },
+        {
+            "title": "Assessment of water quality in Iran's Anzali Wetland, using qualitative indices from 1985",
+            "journal": "Wetlands Ecol. Manage",
+            "year": "2007",
+            "authors": "M Fallah; R Z Ahmadmahmoodi"
+        },
+        {
+            "title": "Water quality assessment based on CWQI and NDWI indices in Mariout Lake",
+            "journal": "",
+            "year": "2017",
+            "authors": "S B Kafraway; N S Donia; A M Mohamed"
+        },
+        {
+            "title": "El-sayed, Evaluation of surface water quality and heavy metal indices of Ismailia Canal",
+            "journal": "J. Aquat. Res",
+            "year": "2014",
+            "authors": "M E Goher; A M Hassan; I A A Moniem; A H Fahmy; S M "
+        },
+        {
+            "title": "Assessing heavy metal contamination in Sado Estuary sediment: an index analysis approach",
+            "journal": "Ecol. Indicators",
+            "year": "2005",
+            "authors": "S Caerio; M H Costa; T B Ramos; F Fernandes; N Silveira; A Coimbra; G Mederios; M Painho"
+        },
+        {
+            "title": "A critical review on the application of the National Sanitation",
+            "journal": "Foundation Water Quality Index",
+            "year": "2019",
+            "authors": "R Noori; R Berndtsson; M Hosseinzadeh; J F Adamowski; M R Abyaneh"
+        },
+        {
+            "title": "Evaluation of Aydoghomush Dam Reservoir water quality by National Sanitation Foundation Water Quality Index (NSF-WQI)and water quality parameter changes",
+            "journal": "Iran. J. Health Environ",
+            "year": "2012",
+            "authors": "R Shokuhi; E Hosinzadeh; G Roshanaei; M Alipour; S Hoseinzadeh"
+        },
+        {
+            "title": "A water 1064 quality index-Do we dare?",
+            "journal": "",
+            "year": "1970",
+            "authors": "R M Brown; N I Mcclelland; R A Deininger; R G Tozer"
+        },
+        {
+            "title": "Discussion of 'An objective water quality index",
+            "journal": "Control 1069 Fed",
+            "year": "1974",
+            "authors": "J M Landwehr; R A Deininger; N L Mcclelland; R M Brown"
+        },
+        {
+            "title": "Aspects of eutrophication management in 1191. Tropical/ subtropical regions",
+            "journal": "J. Limnol. Soc. sth. Afr",
+            "year": "1987",
+            "authors": "J A Thornton"
+        },
+        {
+            "title": "Relative influence of lake age and watershed land use on trophic state and water quality of artificial lakes in Kansas",
+            "journal": "",
+            "year": "2009",
+            "authors": "E Carney"
+        },
+        {
+            "title": "The Eutrophication of lake Okeechobee",
+            "journal": "",
+            "year": "2009",
+            "authors": "D E Canfield; M V Hoyer"
+        },
+        {
+            "title": "Accelerated eutrophication in a New Zealand lake: Lake Rotoiti, central North Island",
+            "journal": "N. Z. J. Mar. Freshwater Res",
+            "year": "2010",
+            "authors": "W F Vincent; M M Gibbs; S J Dryden"
+        },
+        {
+            "title": "Factors determining the distributions of total phosphorus, total nitrogen, and chlorophyll a in Florida lakes",
+            "journal": "",
+            "year": "2012",
+            "authors": "R W Bachmann; D L Bigham; M V Hoye; D E Canfield"
+        },
+        {
+            "title": "China: geological formation, causes of eutrophication and recent restoration efforts",
+            "journal": "Aquat. Ecosyst. Health Manage",
+            "year": "2016",
+            "authors": "X Liu; H Wang; Dianchi Lake"
+        },
+        {
+            "title": "Phosphorus and nitrogen loading restraints are essential for successful eutrophication control of Lake Rotorua",
+            "journal": "Int. Soc. Limnol",
+            "year": "2017",
+            "authors": "V H Smith; S A Wood; C G Mcbride; J Atalahj; D P Hamilton; J Abell"
+        },
+        {
+            "title": "Estimation of trophic state index of sukhna lake using remote sensing and GIS",
+            "journal": "J. Indian Soc. Remote Sens",
+            "year": "2014",
+            "authors": "J K Dhillon; A K Mishra"
+        },
+        {
+            "title": "Heavy metal concentrations in water and sediments in TasikChini, a freshwater lake",
+            "journal": "Environ. Monit. Assess",
+            "year": "2008",
+            "authors": "M Ebrahimpour; I Mushrifah"
+        },
+        {
+            "title": "Environmental geochemistry of heavy metals in a sediment core off Bushehr",
+            "journal": "J. Environ. Health Sci. Eng",
+            "year": "2005",
+            "authors": "A Karbassi;  Bayati"
+        },
+        {
+            "title": "The accumulation of heavy metals in Typha latifolia L. grown in a stream carrying secondary effluent",
+            "journal": "Ecol. Eng",
+            "year": "2008",
+            "authors": "A Sasmaz; E Obek; H Hasar"
+        },
+        {
+            "title": "Heavy metal distribution in the Altenworth Reservoir",
+            "journal": "Acta hydrochim. hydrobiol",
+            "year": "1988",
+            "authors": "R Colley"
+        },
+        {
+            "title": "Effects of heavy metal contamination from anthropogenic sources on Dasarahalli tank",
+            "journal": "Res. Manage",
+            "year": "2007",
+            "authors": "H Lokeshwari; G T Chandrappa"
+        },
+        {
+            "title": "Study of heavy metal contamination of the river water through index analysis approach and environmetrics",
+            "journal": "Bull. Environ. Pharmacol. Life Sci",
+            "year": "2012",
+            "authors": "M Kumar; P Padhy; K Chaudhury"
+        },
+        {
+            "title": "Assessment of heavy metal contamination in coastal lake sediments associated with urbanization: Southern Kerala",
+            "journal": "",
+            "year": "2012",
+            "authors": "A M Sheela; J Letha; S Joseph; J Thomas"
+        },
+        {
+            "title": "Evaluation of water quality pollution indices for heavy metal contamination monitoring in the water of Harike Wetland (Ramsar Site), India",
+            "journal": "Int. J. Sci. Res. Publ",
+            "year": "2015",
+            "authors": "O S Brraich; S Jangu"
+        },
+        {
+            "title": "Pollution, toxicity, and ecological risk of heavy metals in surface river sediments of a large basin undergoing rapid economic development",
+            "journal": "Environ. Toxicol. Chem",
+            "year": "2016",
+            "authors": "W Tang; C Zhang; Y Zhao; B Shan"
+        },
+        {
+            "title": "The current status of heavy metal in lake sediments from China: pollution and ecological risk assessment",
+            "journal": "Ecol. Evol",
+            "year": "2016",
+            "authors": "Y Xu; Y Wu; J Han; P Li"
+        },
+        {
+            "title": "Substrate utilization pattern, biomass and activity of microbial communities in a sequence of heavy metalpolluted paddy soils",
+            "journal": "Geoderma",
+            "year": "2003",
+            "authors": "H Yao; J Xu; C Huang"
+        },
+        {
+            "title": "Heavy metals in soil treated with sewage sludge composting, their effect on yield and uptake of broad bean seeds",
+            "journal": "Water Air Soil Pollut",
+            "year": "2002",
+            "authors": "S Garrido; G M D Campo; M V Esteller; R Vacaand; J Lugo"
+        },
+        {
+            "title": "Heavy metal hyperaccumulating plants: how and why do they do it? And what makes them so interesting?",
+            "journal": "Plant Sci",
+            "year": "2011",
+            "authors": "N Rascio; F N Izzo"
+        },
+        {
+            "title": "Effects of heavy metals on antioxidants and stress-responsive gene expression in Javanese medaka (Oryziasjavanicus)",
+            "journal": "Comp. Biochem. Physiol. C",
+            "year": "2009",
+            "authors": "S Woo; S Yum; H S Park; T K Lee; J C Ryu"
+        },
+        {
+            "title": "Bioconcentration of metals in the body muscle and gut of Clariasgariepinus exposed to sublethal concentrations of soap and detergent effluent",
+            "journal": "J. Cell Anim. Biol",
+            "year": "2009",
+            "authors": "T A Ayandiran; O O Fawole; S O Adewoyeand; M A Ogundiran"
+        },
+        {
+            "title": "Health risks of heavy metals in contaminated soils and food crops irrigated with wastewater in Beijing",
+            "journal": "Environ. Pollut",
+            "year": "2008",
+            "authors": "S Khan; Q Cao; Y M Zheng; Y Z Huangand; Y G Zhu"
+        },
+        {
+            "title": "A study on biochemical changes in the fresh water fish, catlacatla (hamilton) exposed to the heavy metal toxicant cadmium chloride, Kathmandu Univ",
+            "journal": "J. Sci. Eng. Technol",
+            "year": "2007",
+            "authors": "K Sobha; A Poornima; P Harini; K Veeraiah"
+        },
+        {
+            "title": "Effects of heavy metals on soil, plants, human health and aquatic life",
+            "journal": "Int. J. Res. Chem. Environ",
+            "year": "2011",
+            "authors": "J Singh; A S Kalamdhad"
+        },
+        {
+            "title": "Heavy metal pollution and human biotoxic effects",
+            "journal": "Int. J. Phys. Sci",
+            "year": "2007",
+            "authors": "J O Duruibe; M O C Ogwuegbu; J N Egwurugwu"
+        },
+        {
+            "title": "Heavy Metals in the Environment Using Wetlands for Their Removal",
+            "journal": "Lewis Publishers",
+            "year": "2000",
+            "authors": "H T Odum"
+        },
+        {
+            "title": "Removal of lead, cadmium, zinc, and copper from industrial wastewater by carbon developed from walnut, hazelnut, almond, pistachio shell, and apricot stone",
+            "journal": "J. Hazard. Mater",
+            "year": "2008",
+            "authors": "M Kazemipour; M Ansari; S Tajrobehkar; M Majdzadehand; H R Kermani"
+        },
+        {
+            "title": "Speciation of chromium in simulated soil samples using X-ray absorption spectroscopy and multivariate calibration",
+            "journal": "Anal. Chim. Acta",
+            "year": "2001",
+            "authors": "R E Shaffer; J O Cross; S L R Pehrsson; W T Elam"
+        },
+        {
+            "title": "Microplastics: An Emerging Contaminant -with Potential Threat to Aquatic Systems-less studied in India",
+            "journal": "",
+            "year": "",
+            "authors": "E V Ramasa"
+        },
+        {
+            "title": "The present and future of microplastic pollution in the marine environment",
+            "journal": "Environ. Pollut",
+            "year": "2014",
+            "authors": "A Juliana; I D Sul; M F Costa"
+        },
+        {
+            "title": "Microplastic pollution in the surface waters of the Laurentian Great Lakes",
+            "journal": "Mar. Pollut. Bull",
+            "year": "2013",
+            "authors": "M Eriksen; S Mason; S Wilson; C Boxa; A Zellersc; W Edwardsd; H Farley; S Amatoa"
+        },
+        {
+            "title": "Microplastic contamination in Lake Winnipeg",
+            "journal": "Canada, Environ. Pollut",
+            "year": "2017",
+            "authors": "P J Anderson; S Warrack; V Langen; J K Challis; M L Hanson; M D Rennie"
+        },
+        {
+            "title": "Microplastic pollution in lakes and lake shoreline sediments A case study on Lake Bolsenaand Lake Chiusi (central Italy)",
+            "journal": "Environ. Pollut",
+            "year": "2016",
+            "authors": "E K Fischer; L Paglialonga; E Czech; M Tamminga"
+        },
+        {
+            "title": "Microplastic pollution of lakeshore sediments from remote lakes in Tibet plateau",
+            "journal": "Environ. Pollut",
+            "year": "2016",
+            "authors": "K Zhang; S J Jing; X Xiong; X Wu; C Wu; J Liu"
+        },
+        {
+            "title": "Sources and distribution of microplastics in China's largest inland lake e Qinghai Lake",
+            "journal": "Environ. Pollut",
+            "year": "2018",
+            "authors": "X Xiong; K Zhang; X Chen; H Shi; Z Luo; C Wu"
+        },
+        {
+            "title": "Microplastic pollution in Vembanad Lake, Kerala, India: the first report of microplastics in lake and estuarine sediments in India",
+            "journal": "Environ. Pollut",
+            "year": "2016",
+            "authors": "S Sruthy; E V Ramasamy"
+        }
+    ],
+    "figures": [
+        {
+            "figure_label": "3",
+            "figure_type": "table",
+            "figure_id": "tab_2",
+            "figure_caption": "WQI Approach, its application and parameters concerned.",
+            "figure_data": "WQI ApproachApplication AreaConcerned ParametersPermissible Limits (BIS)ReferencesFuzzy Logic Water Quality IndexWater quality of RiverDO, BOD, TP, Total coliform, NH 3, NO 3.DO > 6.0 mg/L[52 53 54BOD < 2.0 mg/L49]TP-NATotal coliform < 50/100 mlNH 3 -N.A.NO 3 -20 mg/LChemical Water Quality IndexLake water qualityTotal nitrogen, Dissolved lead, DissolvedTotal nitrogen-45 mg/L[55]oxygen, pH, and Total particulate andDissolved lead-0.01 mg/LDissolved P.Dissolved oxygen->6.0 mg/LPh-6.5-8.5Total particulate-500 mg/LModified Water Quality IndexWater quality of drinkingAl, NH 3 , Ca, Cl, Fe, Mg, pH, RI, Na, SO 4 , TDS,Al -0.2 mg/L[56 57 58sourceTotal Hardness, Zn, As, E. Coli, Cr, Cu, F,NH 3 -NA59 60 61NO 3 , NO 2 , Turbidity.Ca-200 mg/L62]Cl-1000 mg/LFe-1.0 mg/LMg-100 mg/LpH-6.5-8.5Na-NASO 4-400 mg/LTDS-500 mg/LTotal Hardness-300 mg/LZn-15 mg/LAs-0.05 mg/LE. Coli À 0/100 mlCr-0.05 mg/LCu-1.5 mg/LF-1.5 mg/LNO 3 -20 mg/LNO 2 -45 mg/LTurbidity-NACCME Water Quality IndexWater quality aspect oftemperature, DO, chlorophyll a, PO 3 , TP,DO > 6.0 mg/L[63 64 65lakes, rivers and reservoirNO 3 -NO 2 , NH 3 , TDS, TSS, turbidity, fecalchlorophyll a-66 46 67]coliform and pHPO 3 -NATP-NANO 3 -NO 2 -45 mg/LNH 3 -NATDS-500 Mg/LTSS-NATurbidity-NAFecal coliform-0/100 mlpH-6.5-8.5Overall Water Quality IndexSurface water qualitypH, DO, temperature, turbidity,pH-6.5-8.5[68 69 70conductivity, SS , TDS, Cl, BOD, COD, T. coliDO > 6.0 mg/L71 72 73], fecal coliform, NH 4 NO 3 ,NO 2 , PO 3 , HeavyTurbidity-NAmetals, pesticides.Conductivity À2250 maxSS-NATDS-500 mg/LCl-250 mg/LBOD < 2.0 mg/LCOD-NAT. coli-50/100 mlfecal coliform-0/100 mlNH 4 -NANO 3 -20 mg/LNO 2 -NAPO 3 -NAHeavy metals-Pesticides-0.001 mg/LOregon Water Quality IndexWater quality of a wetland pH, turbidity (TURB), temperature (T),pH-6.5-8.5[74 75 76dissolved oxygen (DO), nitrate (NO3), totalDO > 6.0 mg/L77 78]solids (TS), phosphate (PO4), biologicalTurbidity-NAoxygen demand (BOD 5 ), and fecalNO 3 -20 mg/Lcoliforms (FC).TS-NAphosphate -NABOD < 2.0 mg/Lfecal coliforms -0/100 mlPollution IndexWater quality of surfaceAl, NH Al-0.03 mg/L[79 80]water such as canal andNH 3 -NAriverCa-200 mg/LCl-1000 mg/LFe-1.0 mg/LMg-100 mg/L pH-6.5-8.5Na-NA"
+        },
+        {
+            "figure_label": "3",
+            "figure_type": "table",
+            "figure_id": "tab_3",
+            "figure_caption": "",
+            "figure_data": "continued)WQI ApproachApplication AreaConcerned ParametersPermissible Limits (BIS)ReferencesSO 4-400 mg/LTDS-500 Mg/LTH-300 mg/LZn-15 mg/LAs-0.05 mg/LE. Coli-0/100 mlCr-0.05 mg/LCu-1.5 mg/LF-1.5 mg/LNO 3 -20 mg/LNO 2 -NATurbidity-NADO > 6 mg/LTS-NAPhosphate-NABOD < 2 mg/LFC-0/100 mlNational Sanitation Foundation WaterWater quality of a riverDO, FC, pH, BOD 5 , PO 4 NO 3 , Turbidity, TSpH-6.5-8.5[81 82 83quality Index (NSFWQI)and ground water qualityTP, TDS, TSSDO > 6.0 mg/84]BOD < 2.0 mg/LFC-0/100 mlTDS-500 mg/L"
+        },
+        {
+            "figure_label": "4",
+            "figure_type": "table",
+            "figure_id": "tab_4",
+            "figure_caption": "Summary of water bodies around the world for trophic status, concerned parameters and reference.",
+            "figure_data": "Water BodyType of Water BodyParametersReferencesAll water bodies whether it beChlorophyll-a[15]tropical, subtropical andPhosphoroustemperateSecchi disk transparencyTropical and Subtropical waterChlorophyll-a[85]bodiesTotal PhosphorousTotal NitrogenPhotosynthetic efficiencyNutrient limitationMean primary productivityLake Victoria, Lake Malawi, Lake Superior,Freshwater(tropical lakes) andChlorophyll-a[34]Lake Nipigon (East Africa), Coastal Arcticmarine water bodies (tropicalTotal PhosphorousOcean, North Atlantic OceanWater Bodies)Total NitrogenArtificial Lakes in KansasSubtropical lakestotal calcium, total alkalinity, total dissolved solids (TDS), chlorophyll-[86]a (Chl-a), total phosphorus (TP), total Kjeldahl nitrogen (TKN), nitrateplus nitrite (NOX), Secchi disk depth, nephelometric turbidity, andalgal cell count/biovolume.Lake OkeechobeeSubtropical lakeChlorophyll-a[87]Total PhosphorousTotal NitrogenSecchi disk transparencyYahara lakes in WisconsinSubtropical lakesDissolved reactive Phosphorous[35]Inorganic NitrogenLake Rotoiti in New ZealandSubtropical LakeChlorophyll-a[88]Secchi disk transparencyAlgal PhotosynthesisFlorida lakesSubtropical lakeTotal Phosphorous[89]Total NitrogenChlorophyll-aDianchi lake of ChinaSubtropical LakeTotal Nitrogen[90]Total PhosphorousWater bodies of USSubtropical LakeTotal Phosphorous[91]Phytoplankton biomassChlorophyll aSukhna LakeTropical LakepH[92]DOSecchi Disk DepthTemperatureSatellite Images of transparency"
+        }
+    ],
+    "formulas": [],
+    "doi": "10.1016/j.matpr.2020.02.092"
+}

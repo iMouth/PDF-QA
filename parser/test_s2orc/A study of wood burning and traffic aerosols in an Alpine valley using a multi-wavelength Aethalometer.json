@@ -1,0 +1,3010 @@
+{
+    "paper_id": "A study of wood burning and traffic aerosols in an Alpine valley using a multi-wavelength Aethalometer",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2023-03-31T14:39:33.012425Z"
+    },
+    "title": "A study of wood burning and traffic aerosols in an Alpine valley using a multi-wavelength Aethalometer",
+    "authors": [
+        {
+            "first": "J",
+            "middle": [],
+            "last": "Sandradewi",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory of Atmospheric Chemistry",
+                "institution": "Paul Scherrer Institut",
+                "location": {
+                    "postCode": "CH-5232",
+                    "settlement": "Villigen PSI",
+                    "country": "Switzerland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "A",
+            "middle": [
+                "S H"
+            ],
+            "last": "Pre\u00b4vo\u02c6t",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory of Atmospheric Chemistry",
+                "institution": "Paul Scherrer Institut",
+                "location": {
+                    "postCode": "CH-5232",
+                    "settlement": "Villigen PSI",
+                    "country": "Switzerland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "E",
+            "middle": [],
+            "last": "Weingartner",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory of Atmospheric Chemistry",
+                "institution": "Paul Scherrer Institut",
+                "location": {
+                    "postCode": "CH-5232",
+                    "settlement": "Villigen PSI",
+                    "country": "Switzerland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "R",
+            "middle": [],
+            "last": "Schmidhauser",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory of Atmospheric Chemistry",
+                "institution": "Paul Scherrer Institut",
+                "location": {
+                    "postCode": "CH-5232",
+                    "settlement": "Villigen PSI",
+                    "country": "Switzerland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "M",
+            "middle": [],
+            "last": "Gysel",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory of Atmospheric Chemistry",
+                "institution": "Paul Scherrer Institut",
+                "location": {
+                    "postCode": "CH-5232",
+                    "settlement": "Villigen PSI",
+                    "country": "Switzerland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "U",
+            "middle": [],
+            "last": "Baltensperger",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory of Atmospheric Chemistry",
+                "institution": "Paul Scherrer Institut",
+                "location": {
+                    "postCode": "CH-5232",
+                    "settlement": "Villigen PSI",
+                    "country": "Switzerland"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "We present a study of aerosol light absorption using a multi-wavelength Aethalometer (l \u00bc 370-950 nm) in an Alpine valley where the major local emissions of aerosols in winter are from domestic wood burning and traffic. The measurements were done in winter and summer periods in 2004 and 2005. Much stronger diurnal trends in CO, NO x and aerosol light absorption parameters were observed in winter than in summer. The average (71 S.D.) PM 10 concentrations measured at this site were 31.5721.7 mg m \u00c03 in winter and 15.8710.0 mg m \u00c03 in summer. The highest PM 10 concentrations were observed between 18:00 and 22:00 h CET in both campaigns, with 45.4721.0 mg m \u00c03 for winter and 21.079.5 mg m \u00c03 for summer. The average (71 S.D.) power law exponents of the absorption coefficients (also called absorption exponent) with l \u00bc 370-950 nm, a 370-950 nm were 1.670.25 in winter and 1.170.05 in summer. The calculation of a separately for lower and higher wavelengths (i.e., a 370-520 nm and a 660-950 nm) provided a better description of the wavelength dependence from the UV-to the near-IR region. The highest mean values of a 370-520 nm and a 660-950 nm were observed between 22:00 and 02:00 h CET in winter with 2.770.4 and 1.370.1, respectively. Comparison of a 370-520 nm with CO and NO x data indicated that the relative contribution of wood burning versus traffic was responsible for the seasonal and diurnal variability of a. The seasonal and diurnal trends of a were not attributed to changes in the particle size since the aerosol volume size distributions (dV/d log D) were found to be similar in both campaigns.",
+    "pdf_parse": {
+        "paper_id": "A study of wood burning and traffic aerosols in an Alpine valley using a multi-wavelength Aethalometer",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "We present a study of aerosol light absorption using a multi-wavelength Aethalometer (l \u00bc 370-950 nm) in an Alpine valley where the major local emissions of aerosols in winter are from domestic wood burning and traffic. The measurements were done in winter and summer periods in 2004 and 2005. Much stronger diurnal trends in CO, NO x and aerosol light absorption parameters were observed in winter than in summer. The average (71 S.D.) PM 10 concentrations measured at this site were 31.5721.7 mg m \u00c03 in winter and 15.8710.0 mg m \u00c03 in summer. The highest PM 10 concentrations were observed between 18:00 and 22:00 h CET in both campaigns, with 45.4721.0 mg m \u00c03 for winter and 21.079.5 mg m \u00c03 for summer. The average (71 S.D.) power law exponents of the absorption coefficients (also called absorption exponent) with l \u00bc 370-950 nm, a 370-950 nm were 1.670.25 in winter and 1.170.05 in summer. The calculation of a separately for lower and higher wavelengths (i.e., a 370-520 nm and a 660-950 nm) provided a better description of the wavelength dependence from the UV-to the near-IR region. The highest mean values of a 370-520 nm and a 660-950 nm were observed between 22:00 and 02:00 h CET in winter with 2.770.4 and 1.370.1, respectively. Comparison of a 370-520 nm with CO and NO x data indicated that the relative contribution of wood burning versus traffic was responsible for the seasonal and diurnal variability of a. The seasonal and diurnal trends of a were not attributed to changes in the particle size since the aerosol volume size distributions (dV/d log D) were found to be similar in both campaigns.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Atmospheric aerosols influence the earth's radiative balance by scattering and/or absorbing sunlight (direct effect). For example, sulfate aerosols scatter sunlight and therefore have a cooling effect, while black carbon (BC) aerosols absorb sunlight resulting in a warming effect (Andreae, 2001) . Furthermore, aerosols have an indirect effect by acting as cloud condensation nuclei (CCN) which leads to a distribution of the cloud's liquid water over more and smaller droplets. As a result, the optical properties and lifetime of clouds in the atmosphere change. Both the direct and indirect effects of the anthropogenic aerosols together produce a cooling effect on the radiative balance (IPCC, 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 281,
+                        "end": 296,
+                        "text": "(Andreae, 2001)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 691,
+                        "end": 703,
+                        "text": "(IPCC, 2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "www.elsevier.com/locate/atmosenv 1352-2310/$ -see front matter r 2007 Published by Elsevier Ltd. doi:10.1016 Ltd. doi:10. /j.atmosenv.2007 Additionally, aerosols have been related to adverse health effects in various studies (e.g., Pierson et al., 1989) . Especially the fine particulate matter with an aerodynamic diameter o2.5 mm (PM 2.5 ) is of great concern because it can easily enter the human respiratory system. Many studies have provided evidence that ambient PM 2.5 concentration strongly correlates with mortality rate (e.g., Dockery et al., 1993; Laden et al., 2006) , and that long-term exposure of combustion-related fine particulates increases the risk for cardiopulmonary and lung cancer mortality (Pope et al., 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 92,
+                        "end": 108,
+                        "text": "Ltd. doi:10.1016",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 109,
+                        "end": 138,
+                        "text": "Ltd. doi:10. /j.atmosenv.2007",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 232,
+                        "end": 253,
+                        "text": "Pierson et al., 1989)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 537,
+                        "end": 558,
+                        "text": "Dockery et al., 1993;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 559,
+                        "end": 578,
+                        "text": "Laden et al., 2006)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 714,
+                        "end": 733,
+                        "text": "(Pope et al., 2002)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "The combustion of wood leads to the emission of nitrogen oxides (NO x ), carbon monoxide (CO) and particulate matter. The latter consists of a high amount of BC and organic compounds, e.g., polycyclic aromatic hydrocarbons (PAH) or humic-like substances (HULIS) (Hoffer et al., 2006; Kochbach et al., 2006) . Wood combustion performed at poor operating conditions, e.g., low temperatures such as in old stoves, leads to higher emissions of CO and particulate matter compared to combustion in automatic or certified furnaces (Johansson et al., 2004) . The combustion of fossil fuel in motor vehicles occurs at high temperatures, which generally leads to high NO x emissions, and thus distinctly lower CO/NO x emission ratios in comparison to wood burning.",
+                "cite_spans": [
+                    {
+                        "start": 262,
+                        "end": 283,
+                        "text": "(Hoffer et al., 2006;",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 284,
+                        "end": 306,
+                        "text": "Kochbach et al., 2006)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 524,
+                        "end": 548,
+                        "text": "(Johansson et al., 2004)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "Studies on wood smoke using a dual wavelength Aethalometer (UV-and near-infrared (IR) wavelengths of 370 and 880 nm, respectively) showed that organic compounds in wood smoke aerosols result in a strong UV absorption as measured at the 370-nm wavelength (Jeong et al., 2004; Hand et al., 2005; Park et al., 2006) . The type of wood being burned and the combustion conditions were shown to affect the relative proportion of light absorbed in the UV-and near-IR wavelengths (Day et al., 2006) . In the absence of wood smoke, i.e., at predominantly traffic aerosol-dominated conditions, a lower ratio of the aerosol light absorption at 370 nm compared to that at 880 nm is found (Kirchstetter et al., 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 274,
+                        "text": "(Jeong et al., 2004;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 275,
+                        "end": 293,
+                        "text": "Hand et al., 2005;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 294,
+                        "end": 312,
+                        "text": "Park et al., 2006)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 472,
+                        "end": 490,
+                        "text": "(Day et al., 2006)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 676,
+                        "end": 703,
+                        "text": "(Kirchstetter et al., 2004)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "This paper presents a study of aerosol light absorption measurements using a multi-wavelength Aethalometer in a Swiss Alpine valley with substantial emissions from both wood burning and traffic. We investigated the variability and diurnal cycles of the aerosol light absorption in relation to concurrently measured other aerosol variables, trace gases and meteorological parameters. We provide evidence that variations of the wood burning and traffic emission source strengths lead to a systematic diurnal cycle of the aerosol light absorption parameters at 370 and 880 nm. In addition, we provide a modified power law approximation of the wavelength dependence of the aerosol light absorption.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "The measurement station was located in the village Roveredo with around 2200 inhabitants. The village is located in the Mesolcina valley south of the main Alpine crest (46114 0 18 00 N, 9107 0 45 00 E, 298 m above sea level (m a.s.l.)). A two-lane highway connecting the San Bernardino Pass and the Gotthard highway passes through the village. A 3-m high concrete wall separates the highway from the measurement container and residential area. In the winter period between December and February, the village lies most of the time in the shadow of the surrounding steep hills and mountains, providing favorable condition for persistent and strong temperature inversions. Approximately 77% of the houses in this village use wood burning for heating in winter, with similar numbers in neighboring villages (H.P. Lo\u00a8tscher, personal communication). The annual mean PM 10 concentration measured in this location has been rather constant at 25 mg m \u00c03 during the last 8 years (ANU Graubu\u00a8nden, www.gr-luft.ch). The winter and summer campaigns took place between 13 December 2004 and 24 January 2005, and between 1 and 20 June 2005, respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sampling location",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "The instruments were placed in a temperaturecontrolled measurement container at around 25 1C located in the center of the village and approximately 10 m away from the highway wall. Meteorological and air quality data are monitored continuously at this location by the Office of Nature and Environment of Canton Graubu\u00a8nden.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instrumentation",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "A scanning mobility particle sizer (SMPS) consisting of a differential mobility analyzer (DMA; TSI 3071) and a condensation particle counter (CPC; TSI 3022) was used to measure the particle number size distribution during these two campaigns. The sheath and aerosol flow rates were set to 3.0 and 0.3 l min \u00c01 (lpm), respectively, which allowed for measurements of particles with mobility diameters between 14 and 820 nm. The SMPS size distributions were corrected for multiply charged particles. The aerosol light absorption was measured with a seven wavelength Aethalometer (Magee Scientific, l \u00bc 370, 470, 520, 590, 660, 880 and 950 nm) . This instrument collected the aerosol on quartz fiber filter spots at a flow of 2.570.1 lpm in winter and 2.870.2 lpm in summer. The data were recorded every 2 min. The minimum detection limit for BC is 0.2 mg m \u00c03 at this time resolution (note that averaging the data into 30-min resolution lowers the detection limit to 15 ng m \u00c03 ). Both the SMPS and the Aethalometer were connected to a whole air inlet without size-cut at ambient relative humidity conditions which enters the temperaturecontrolled measurement container. The air flow rates were calibrated with a Gilibrator bubble flow meter.",
+                "cite_spans": [
+                    {
+                        "start": 576,
+                        "end": 594,
+                        "text": "(Magee Scientific,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 595,
+                        "end": 603,
+                        "text": "l \u00bc 370,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 604,
+                        "end": 608,
+                        "text": "470,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 609,
+                        "end": 613,
+                        "text": "520,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 614,
+                        "end": 618,
+                        "text": "590,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 619,
+                        "end": 623,
+                        "text": "660,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 624,
+                        "end": 639,
+                        "text": "880 and 950 nm)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instrumentation",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "The ambient temperature along with other parameters such as ambient pressure, ambient relative humidity, station temperature, sun radiation, wind speed, wind direction, precipitation, PM 10 concentration (beta-attenuation monitor; Thermo ESM Andersen FH62 I-R), total particle number (CPC; TSI 3022A), CO (Horiba APMA 360E) and NO x (Horiba APNA 360E) are continuously monitored and recorded at the measuring site. The vertical temperature profile is obtained from the six temperature sensors which are installed at 0, 20, 40, 80, 120 and 160 m above the valley ground. The intensity of the temperature inversion is given in terms of the temperature differences among these sensors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Instrumentation",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "The absorption coefficient b abs for airborne particles is defined with the Lambert-Beer's law as",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "I \u00bc I 0 e \u00f0\u00c0b abs x\u00de ,",
+                        "eq_num": "(1)"
+                    }
+                ],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "where I 0 is the intensity of the incoming light and I the remaining light intensity after passing through a medium with thickness x. The light attenuation through a filter is defined as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "ATN 100 ln I 0 I .",
+                        "eq_num": "(2)"
+                    }
+                ],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Variations in incident light intensity and drift in electronics are corrected by the use of two light detectors, where one measures the light passing through the aerosol-loaded filter spot and the other measures the light passing through an unloaded part of the filter.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "The aerosol attenuation coefficient of the sampled aerosol particles b ATN can be calculated using the change in light attenuation DATN as a function of time, the volumetric flow rate Q and the filter spot area A:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "b ATN A Q DATN Dt .",
+                        "eq_num": "(3)"
+                    }
+                ],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "A correction of b ATN to provide the ''real'' aerosol absorption coefficient b abs is necessary because of (1) the multiple scattering of the light beam within the filter fibers when the filter is relatively unloaded with aerosols and (2) the ''shadowing'' effect of the particles which occurs as the filter gets more highly loaded. The corrections are performed using the procedure described by Weingartner et al. (2003) , where the calibration factors C and R(ATN) are introduced:",
+                "cite_spans": [
+                    {
+                        "start": 396,
+                        "end": 421,
+                        "text": "Weingartner et al. (2003)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "b abs \u00bc b ATN C R\u00f0ATN\u00de .",
+                        "eq_num": "(4)"
+                    }
+                ],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "The C factor is used to correct the multiple scattering within a relatively clean filter. A value of C \u00bc 2.14 was used as empirically determined from ''pure'' Palas soot, diesel soot and diesel soot mixed with (NH 4 ) 2 SO 4 particles (Weingartner et al., 2003) . The R(ATN) factor corrects for the ''shadowing'' effect. It varies with the amount of aerosol collected on the filter and is influenced by the optical properties of this aerosol:",
+                "cite_spans": [
+                    {
+                        "start": 235,
+                        "end": 261,
+                        "text": "(Weingartner et al., 2003)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "R\u00f0ATN\u00de \u00bc 1 f \u00c0 1 ln\u00f0ATN\u00de \u00c0 ln\u00f010%\u00de ln\u00f050%\u00de \u00c0 ln\u00f010%\u00de \u00fe 1.",
+                        "eq_num": "(5)"
+                    }
+                ],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "In Eq. (5) R(ATN) is a linear function of ln(ATN) and f is the free parameter which relates to the slope of this linear function. The f values allow for estimation of the instrumental error that occurs when the shadowing effect is disregarded.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "In this project, the f values were calculated by minimizing the difference between the b ATN values before and after a filter spot change. For statistical reasons, the averaged values of several b ATN data points prior and after a filter change were used. The calculated median f values were plotted as a function of l and then fitted with a linear equation. Table 1 summarizes the linearized f values that were applied for the calculation of b abs . For the corrections described above, knowledge of the aerosol light scattering coefficient b s is not needed. Improved corrections, which take b s explicitly into account are described in Arnott et al. (2005) and Schmid et al. (2006) . These corrections were not applied here since no measurements of b s were available during the campaigns. No BC concentrations were calculated from b abs as the mass absorption efficiency was not known for this site.",
+                "cite_spans": [
+                    {
+                        "start": 639,
+                        "end": 659,
+                        "text": "Arnott et al. (2005)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 664,
+                        "end": 684,
+                        "text": "Schmid et al. (2006)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 359,
+                        "end": 366,
+                        "text": "Table 1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "A power law fit is commonly applied to describe the wavelength dependence of b abs :",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "b abs / l \u00c0a ,",
+                        "eq_num": "(6)"
+                    }
+                ],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "where l is the wavelength and a is usually called the \u00c5 ngstro\u00a8m exponent of the absorption coefficient and is computed by fitting an exponential curve. For the remaining of this paper, we will refer to this as the absorption exponent a. This empirical power law fit provides a ''standardized'' approach for comparison with data sets from other studies. For example, a values (using the light absorption of all wavelengths l \u00bc 370, 470, 520, 590, 660, 880 and 950 nm) up to 1.5 were observed at a high Alpine station during a Saharan dust event (Collaud Coen et al., 2004) . Fialho et al. (2006) calculated a during a Sahara dust event in the Azores archipelago to be 1.070.2 using only the visible wavelengths (l \u00bc 470, 520, 590, 660 nm). However, in polluted areas where high soot concentrations are observed-like the village in our study-the absorption of dust is usually negligible. Kirchstetter et al. (2004) reported a values of 2.2 for an outdoor firewood burning, 1.8 for a savanna fire and 0.8-1.1 for traffic-dominated sites (measurements with six wavelengths between 370 and 850 nm). Schnaiter et al. ( , 2005 reported a values of 1.1 for uncoated diesel soot and 2.1 for spark generated (Palas) soot (measurements with l \u00bc 450, 550 and 700 nm). The type of wood being burned also influences the a value as shown by Day et al. (2006) where they measured fresh wood smoke from seven types of forest wood with an Aethalometer (using the same l's as in this study) and reported a values between 0.9 and 2.2. Hoffer et al. (2006) calculated a \u00bc 6-7 for water-soluble HULIS isolated from the fine fraction of biomass burning aerosols (spectrophotometer measurements with l \u00bc 300-700 nm).",
+                "cite_spans": [
+                    {
+                        "start": 545,
+                        "end": 572,
+                        "text": "(Collaud Coen et al., 2004)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 575,
+                        "end": 595,
+                        "text": "Fialho et al. (2006)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 887,
+                        "end": 913,
+                        "text": "Kirchstetter et al. (2004)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1095,
+                        "end": 1120,
+                        "text": "Schnaiter et al. ( , 2005",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1327,
+                        "end": 1344,
+                        "text": "Day et al. (2006)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1516,
+                        "end": 1536,
+                        "text": "Hoffer et al. (2006)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Aethalometer measurement principle",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "3.1. Particle size distribution",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and discussion",
+                "sec_num": "3."
+            },
+            {
+                "text": "The particle number size distributions (dN/d log D) measured by the SMPS were averaged to hourly intervals. Volume size distributions (dV/d log D) were derived assuming spherical particles. Fig. 1 shows median size distributions of dN/d log D and dV/d log D for the two time periods 06:00-08:00 and 17:00-21:00 h CET in both campaigns. The analysis shows that the particles with diameters between 20 and 30 nm dominated the particle number concentration in winter during the morning traffic rush hours, while in the evening the particle number concentrations were highest in the size range between 70 and 100 nm. In the calculated particle volume size distributions (dV/d log D) the particles with diameters between 200 and 300 nm contributed most to the aerosol sub-micron mass both in the morning and evening hours. This confirms that traffic and wood combustion result in similar volume size distributions, as also reported by Schneider et al. (2005) and Hedberg et al. (2002) . Additionally, the geometric mean diameters (GMD) of the computed particle surface size distributions dS/d log D were calculated as 154.2 nm with a geometric mean standard deviation (GMS) of 2.2 for 06:00-08:00 h CET, and GMD \u00bc 157.4 nm and GMS \u00bc 2.1 for 17:00-21:00 h CET.",
+                "cite_spans": [
+                    {
+                        "start": 930,
+                        "end": 953,
+                        "text": "Schneider et al. (2005)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 958,
+                        "end": 979,
+                        "text": "Hedberg et al. (2002)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 190,
+                        "end": 196,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and discussion",
+                "sec_num": "3."
+            },
+            {
+                "text": "In summer, the particle number and volume concentrations were substantially lower than in winter (bottom charts in Fig. 1 ). The particle size distribution dN/d log D showed a similar trend in the morning and evening periods, with the morning number concentration being slightly lower than in the evening hours. There was no strong nucleation mode observed from traffic activities in the morning period, due to much higher temperatures (Bukowiecki et al., 2003) . Similar to winter, the large particles with diameter D around 300 nm contributed most to the particle volume size distribution also in summer. The computed GMDs of dS/d log D were 175.5 nm for 06:00-08:00 h CET and 180.4 nm for 17:00-21:00 h CET, with both periods having geometric standard deviations of 2.0.",
+                "cite_spans": [
+                    {
+                        "start": 436,
+                        "end": 461,
+                        "text": "(Bukowiecki et al., 2003)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 115,
+                        "end": 121,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and discussion",
+                "sec_num": "3."
+            },
+            {
+                "text": "Because of the temperature-controlled container at 25 1C, the particles were measured mostly under dry conditions in winter. In summer, the variability of the ambient relative humidity was strongly reduced due to the measurements at constant temperature. Thus, changes in the ambient relative humidity during both campaigns are expected to have only a minor influence on the measured particle size distributions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and discussion",
+                "sec_num": "3."
+            },
+            {
+                "text": "For seasonal and diurnal comparisons, the median data of selected gas phase and aerosol light absorption parameters along with meteorological data are plotted in Fig. 2 . During the winter campaign, the average temperature (71 S.D.) was 0.273.1 1C, the relative humidity was 80.1716.1% and the wind speed was 0.970.4 m s \u00c01 . As a consequence of the lack of solar radiation (Section 2.1), there is a strong temperature inversion throughout the day (Fig. 2 iii) , resulting in a weak vertical mixing of the air mass within the valley and a weak air mass transport from other locations. Precipitation occurred on 7 out of 43 measurement days. The average concentration for PM 10 was 31.5721.7 mg m \u00c03 , while the mixing ratios for CO and NO x were 0.670.3 ppm and 41.6729.8 ppb, respectively.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 162,
+                        "end": 168,
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 448,
+                        "end": 460,
+                        "text": "(Fig. 2 iii)",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Meteorology, emission and aerosol light absorption",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "During the summer campaign, the average temperature was 19.774.7 1C, the relative humidity was 59.8722.3% and the wind speed was 1.471.0 m s \u00c01 . In the warm period, the vertical mixing of the air mass is enhanced during the day as thermal winds develop (Furger et al., 2000) . Thus, a temperature inversion period was observed only between the late evening and early morning hours, and it was significantly weaker than in winter. Rain occurred in 4 out of 20 measurement days. The average concentration for PM 10 was 15.8710.0 mg m \u00c03 , while the mixing ratios for CO and NO x were 0.270.04 ppm and 10.376.9 ppb, respectively. 6:00-8:00 17:00-21:00 6:00-8:00 17:00-21:00 6:00-8:00 17:00-21:00 6:00-8:00 17:00-21:00 Fig. 1 . Median values of the particle number (left) and volume (right) size distribution during winter and summer campaign in Roveredo during morning (06:00-08:00 h CET) and evening (17:00-21:00 h CET). The bottom and top whiskers refer to the 5th-and 95thpercentiles, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 275,
+                        "text": "(Furger et al., 2000)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 716,
+                        "end": 722,
+                        "text": "Fig. 1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Meteorology, emission and aerosol light absorption",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "The comparison of the diurnal cycles of CO, NO x and b abs (370 nm) and b abs (880 nm) ( Fig. 2 vii, viii, ix and x) showed the following features: the diurnal trends of CO and b abs (370 nm) were very similar, while the diurnal cycle of NO x resembled that of b abs (880 nm). The diurnal cycles of NO x and b abs (880 nm) in winter exhibited two peaks at 10:00 and 20:00 h CET. In contrast, CO and b abs (370 nm) did not peak in the morning but had only a maximum at 20:00 h CET. As will be discussed later, this is due to a higher contribution of wood burning versus traffic in the evening compared to the morning hours. During the night between 20:00 and 5:00 h CET, the decrease of CO, NO x and b abs values can be explained with the reduction of local emissions from traffic and wood burning, and the dilution and advection of cleaner air due to down slope and down valley winds (Pre\u00b4vo\u02c6t et al., 2000a) . In summer, much lower values and weaker diurnal cycles were observed for CO, NO x , b abs (370 nm) and b abs (880 nm) than those observed in winter. All four parameters exhibited concentration peaks around 06:00 h CET indicating the influence of the morning rush hour traffic emissions and low mixing height. The concentrations then decreased towards midday following the increase in solar radiation which enhanced vertical mixing and photochemistry. During the day mixing often occurs up to 1500-2000 m a.s.l. in summer (Henne et al., 2004) . Some air and pollution within the valley is even transported out of the valley to altitudes of 2000-4000 m a.s.l. (Pre\u00b4vo\u02c6t et al., 2000b) . In the evening hours between 18:00 and 20:00 h CET, the NO x concentrations increased slightly due to the evening rush hour traffic emissions and again lower mixing height. The lowest values of these four parameters were observed between midnight and 04:00 h CET, when the emissions were low.",
+                "cite_spans": [
+                    {
+                        "start": 884,
+                        "end": 908,
+                        "text": "(Pre\u00b4vo\u02c6t et al., 2000a)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1432,
+                        "end": 1452,
+                        "text": "(Henne et al., 2004)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1569,
+                        "end": 1593,
+                        "text": "(Pre\u00b4vo\u02c6t et al., 2000b)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 89,
+                        "end": 100,
+                        "text": "Fig. 2 vii,",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "In Fig. 3 , the time series with a time resolution of 30 min of b abs (370 nm), b abs (880 nm) and the absorption exponent a (calculated over all seven wavelengths) are shown for the winter and summer campaigns. The diurnal cycles as discussed in Fig. 2 were much stronger in winter, with high b abs and a values during the afternoon and evening hours (see Fig. 3 ), where only very few exceptions with low values occurred after a period of heavy precipitation, i.e., 19 and 29 December 2004, and 20 and 22 January 2005. In summer, the diurnal patterns were weaker and less reproducible. Note also that both b abs and a in winter were significantly higher than in summer. Despite the Swiss regulations which prohibit the operation of heavy trucks on the road during weekends, there were no noticeable nor statistically significant differences in the CO, NO x and b abs values between workdays and Sundays. 3.4. The absorption exponent a",
+                "cite_spans": [
+                    {
+                        "start": 468,
+                        "end": 474,
+                        "text": "19 and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 475,
+                        "end": 496,
+                        "text": "29 December 2004, and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 497,
+                        "end": 503,
+                        "text": "20 and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 504,
+                        "end": 520,
+                        "text": "22 January 2005.",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 3,
+                        "end": 9,
+                        "text": "Fig. 3",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 247,
+                        "end": 253,
+                        "text": "Fig. 2",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 357,
+                        "end": 363,
+                        "text": "Fig. 3",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Time series of light absorption measurements",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "The boxplots in Fig. 4 describe the diurnal cycles of a in summer and winter in Roveredo. In winter, the lowest a values were observed around 08:00 h CET with a median value of 1.3, with the 95thpercentile being 1.7. From this time on the a values increased steadily until midnight with the highest median value of 1.8 (95th-percentile of 2.0) around 00:00 h CET. These values are similar to the values obtained by Kirchstetter et al. (2004) from wood smoke aerosols. In summer, no significant diurnal cycle was observed, and the a values were relatively constant throughout the day with median values between 1.0 and 1.1 (95th-percentile of 1.3). These values are comparable to the a obtained from diesel soot experiments or near roadway measurements (Schnaiter et al., 2003 (Schnaiter et al., , 2005 Kirchstetter et al., 2004) . The fact that the shapes of the volume size distributions dV/d log D do not significantly vary during the day (Fig. 1) suggests that the changes observed in a can be attributed to diurnal variations in the chemical composition of the particles rather than to variations in the particle size. This is confirmed by the very similar GMD calculated from dS/d log D for the morning (154.2 nm) and evening periods (157.4 nm).",
+                "cite_spans": [
+                    {
+                        "start": 415,
+                        "end": 441,
+                        "text": "Kirchstetter et al. (2004)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 752,
+                        "end": 775,
+                        "text": "(Schnaiter et al., 2003",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 776,
+                        "end": 801,
+                        "text": "(Schnaiter et al., , 2005",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 802,
+                        "end": 828,
+                        "text": "Kirchstetter et al., 2004)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 16,
+                        "end": 22,
+                        "text": "Fig. 4",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 941,
+                        "end": 949,
+                        "text": "(Fig. 1)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Diurnal cycles",
+                "sec_num": "3.4.1."
+            },
+            {
+                "text": "The absorption exponent a is commonly obtained by fitting b abs over all available wavelengths. However, we observe that not all seven points lie on the fitted curve, especially for the winter data where the b abs (370 nm) lies above the fitted curve while b abs (470, 520, 590 and 660 nm) lie below the curve. Thus, we defined two wavelength ranges, i.e., 370-520 and 660-950 nm, and calculated a for each wavelength range. Fig. 5 shows examples of light absorption spectra taken in Roveredo during the winter and summer campaign, and one from a small wood fire under laboratory conditions.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 425,
+                        "end": 431,
+                        "text": "Fig. 5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The absorption exponent a as a function of wavelength range",
+                "sec_num": "3.5."
+            },
+            {
+                "text": "Following this approach, we calculated a 370-520 nm and a 660-950 nm for both campaigns. The median values of these a values are plotted in Fig. 6 . The absorption exponent calculated with all seven wavelengths a 370-950 nm was also plotted for comparison purpose. Note that in winter the diurnal cycle of a 370-520 nm was much stronger than the one of a 660-950 nm . For summer, all three absorption exponents were substantially lower than for winter and no significant diurnal cycles were observed. The mean values of a 370-520 nm , a 660-950 nm and a 370-950 nm were within a narrow range of 0.96 and 1.13. This is a strong indication that the aerosol in Roveredo contains substantially more UV-absorbing material in winter than in summer.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 140,
+                        "end": 146,
+                        "text": "Fig. 6",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "The absorption exponent a as a function of wavelength range",
+                "sec_num": "3.5."
+            },
+            {
+                "text": "As mentioned above, wood combustion emits much more CO and less NO x than traffic, due to non-ideal combustion and lower combustion temperature, respectively (e.g., Kirchstetter et al., 1999; Johansson et al., 2004; Koyuncu and Pinar, 2007) . Therefore, the ratio of CO/NO x might be used as an indicator for the relative emission strength of wood burning and traffic. Fig. 7 shows that a positive correlation (r 2 \u00bc 0.5) between a 370-520 nm and the ratio of CO/NO x is found for conditions influenced by fresh traffic emission (NO x 420 ppb). A similar positive correlation was observed when plotting a 370-950 nm instead of a 370-520 nm (not shown). The gray symbols in Fig. 7 refer to periods with low NO x values which resulted in higher CO/NO x ratios. In winter, low NO x concentrations were found during the night between 22:00 and 06:00 h CET due to lower emission rates and dilution with aged air having a higher CO/NO x concentration ratio because of the lower lifetime of NO x compared to CO. In summer, photochemical reactions reduced the NO x concentrations more rapidly than carbon monoxide, yielding rather high CO/NO x values during most of the day except the morning hours. In summer (red squares), we obtained a 370-520 nm values of 1.070.1 (same values for a 370-950 nm ) and a CO/NO x of 8.772.0. This ratio is comparable to the CO/NO x values between 8.8 and 9.4 ppm ppm \u00c01 reported by Kirchstetter et al. (1999) for the Caldecott tunnel with 4% heavy-duty diesel traffic in summer 1997. Janha\u00a8ll et al. (2006) found a CO/ NO x ratio of 5.072.6 ppm ppm \u00c01 in an urban aerosol study during winter time in Sweden.",
+                "cite_spans": [
+                    {
+                        "start": 165,
+                        "end": 191,
+                        "text": "Kirchstetter et al., 1999;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 192,
+                        "end": 215,
+                        "text": "Johansson et al., 2004;",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 216,
+                        "end": 240,
+                        "text": "Koyuncu and Pinar, 2007)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1408,
+                        "end": 1434,
+                        "text": "Kirchstetter et al. (1999)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1510,
+                        "end": 1532,
+                        "text": "Janha\u00a8ll et al. (2006)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 369,
+                        "end": 375,
+                        "text": "Fig. 7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 673,
+                        "end": 679,
+                        "text": "Fig. 7",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Correlation of a with the ratio of CO/NO x",
+                "sec_num": "3.6."
+            },
+            {
+                "text": "In winter between 12:30 and 05:30 h CET (blue diamonds), a 370-520 nm was found to be 2.370.4 (with a 370-950 nm \u00bc 1.670.2) and the CO/NO x ratio was 16.776.5 ppm ppm \u00c01 . During the day between 06:00 and 12:00 h CET (green triangles) a 370-520 nm was 1.870.3 (a 370-950 nm \u00bc 1.470.2) and the CO/ NO x ratio was 10.974.4 ppm ppm \u00c01 . These CO/ NO x values observed in winter are much lower than those reported in wood combustion studies. For example, an average ratio of CO/NO x of 137 ppm ppm \u00c01 was found for old-type residential boilers fired with dry wood logs (Johansson et al., 2004) . Another wood combustion study by Koyuncu and Pinar (2007) yielded a CO/NO x ratio of 195 ppm ppm \u00c01 for a domestic heating stove operated with firewood. Although particulate matter was mostly dominated by wood combustion emission, we did not observe CO/NO x ratios 4100 ppm ppm \u00c01 in winter because the traffic emissions strongly decreased the ratio due to their relatively high gaseous emissions. According to Johansson et al. (2004) and Kirchstetter et al. (1999) , the PM/CO (PM/NO x ) emission ratio of old-type wood boilers are between 3 and 20 (35-2400) times higher than for mixed traffic conditions. Only a small percentage of traffic PM emissions is thus needed to substantially reduce the CO/NO x ratio from pure wood burning conditions closer to the traffic emission ratios. For example, 90% PM from wood burning and 10% PM from traffic (see discussion of 14 C results below) would lead to a CO/NO x ratio in the range of 13-31, which is similar to the CO/NO x value of 16.776.5 ppm ppm \u00c01 observed in the evening periods in Roveredo (Fig. 7) .",
+                "cite_spans": [
+                    {
+                        "start": 565,
+                        "end": 589,
+                        "text": "(Johansson et al., 2004)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 625,
+                        "end": 649,
+                        "text": "Koyuncu and Pinar (2007)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1003,
+                        "end": 1026,
+                        "text": "Johansson et al. (2004)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1031,
+                        "end": 1057,
+                        "text": "Kirchstetter et al. (1999)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1637,
+                        "end": 1645,
+                        "text": "(Fig. 7)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "The a 370-950 nm values observed in Roveredo for the winter period were often closer to the literature values of 2 obtained from biomass smoke particles (Kirchstetter et al., 2004; Schmid et al. 2006) , than to the literature values of $1.0-1.1 from diesel soot or traffic studies (Schnaiter et al., 2003 (Schnaiter et al., , 2005 Kirchstetter et al., 2004) . This indicates a substantial wood smoke contribution even during the daytime, which is confirmed by the 14 C analysis of aerosols collected with a HIVOL sampler during this winter campaign performed by Szidat et al. (2007) , where the total organic matter (TOM) consisted of 77% non-fossil organic matter for the daytime filters (sampled between 06:00 and 14:00 h CET) and 90% for the night time filters (sampled between 18:00 and 02:00 h CET). The fossil elemental carbon material (ECM) contribution to the TOM was $8% in the morning and $4.5% in the evening filters. This provided evidence that indeed the contribution to the aerosol load from wood combustion was higher in the evening. These findings were also confirmed by aerosol mass spectrometer measurements at the same location in winter a year later (Alfarra et al., 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 153,
+                        "end": 180,
+                        "text": "(Kirchstetter et al., 2004;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 181,
+                        "end": 200,
+                        "text": "Schmid et al. 2006)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 281,
+                        "end": 304,
+                        "text": "(Schnaiter et al., 2003",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 305,
+                        "end": 330,
+                        "text": "(Schnaiter et al., , 2005",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 331,
+                        "end": 357,
+                        "text": "Kirchstetter et al., 2004)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 562,
+                        "end": 582,
+                        "text": "Szidat et al. (2007)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1170,
+                        "end": 1192,
+                        "text": "(Alfarra et al., 2007)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ARTICLE IN PRESS",
+                "sec_num": null
+            },
+            {
+                "text": "An SMPS and a multi-wavelength Aethalometer were used to study the aerosol size distribution and the aerosol light absorption during winter and summer periods in a village located in an Alpine valley. In winter, approximately 77% of the houses in this village use wood burning for heating. Strong temperature inversion, low wind speed, and low solar radiation throughout the day enhanced the accumulation of aerosol particles in the air during the cold season. Very strong diurnal trends in CO, NO x and aerosol light absorption parameters were observed in winter. The absorption exponents a were between 1.2 and 2.0 (5th-and 95th-percentiles) during the winter campaign. The highest values were comparable to literature studies on wood smoke, i.e., $2. The a values from the summer campaign closely matched the literature values for diesel soot or traffic aerosol, i.e., $1.0-1.1. The GMD of the surface size distribution was 154. Winter NO x > 20ppb, 12:30-05:30 Winter NO x > 20ppb,06:00-12:00",
+                "cite_spans": [
+                    {
+                        "start": 953,
+                        "end": 964,
+                        "text": "12:30-05:30",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": "4."
+            },
+            {
+                "text": "Summer NO x > 20ppb Fig. 7 . Correlation of a 370-520 nm and the CO/NO x ratio.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 20,
+                        "end": 26,
+                        "text": "Fig. 7",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": "4."
+            },
+            {
+                "text": "in the morning and 157.4 nm in the evening hours in winter and 175.5 nm in the morning and 180.4 nm in the evening in summer. This confirms that the seasonal and diurnal trends observed in the absorption exponent a were not caused by variations in the particle size but by the chemical composition. The wavelength dependence of the light absorption can be better approximated by separate exponential fits of the lower (370-520 nm) and the higher (660-950 nm) wavelengths (r 2 40.99 instead of r 2 p0.90 obtained by an exponential curve fit over all seven wavelengths). In winter, the a values were significantly larger and the diurnal cycle stronger for the lower wavelengths (a 370-520 nm \u00bc 2.370.5) compared to the higher wavelengths (a 660-950 nm \u00bc 1.470.2). In summer, the light absorption coefficients a 370-520 nm , a 370-520 nm and a 370-520 nm were within a narrow range of 0.96 and 1.13, with weak diurnal cycles. A positive correlation (r 2 \u00bc 0.5) between a and the CO/NO x ratio was found for conditions influenced by fresh traffic emission (NO x 420 ppb). This confirms the influence of the relative contribution of wood burning and traffic on a. In winter, a significant influence by wood burning throughout the day was indicated by the high a values which reached maximum values at nighttime. Thus, a calculated from the light absorption coefficients in the UV-and near-IR wavelengths can be used as an indicator for wood burning activity in this region.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": "4."
+            },
+            {
+                "text": "J.Sandradewi et al. / Atmospheric Environment 42 (2008) 101-112",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "We sincerely thank H.P. Lo\u00a8tscher and the Office of Nature and Environment of Canton Graubu\u00a8nden for allowing us to use their station and for providing us with the continuous monitoring data, and the Swiss Federal Office for the Environment (FOEN) for funding the AEROWOOD project.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 241,
+                        "end": 247,
+                        "text": "(FOEN)",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Acknowledgments",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Identification of the mass spectral signature of organic aerosols from wood burning emissions",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Alfarra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Prevot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Szidat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Sandradewi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Weimer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lanz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Schreiber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mohr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Baltensperger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Science and Technology",
+                "volume": "41",
+                "issue": "16",
+                "pages": "5770--5777",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Alfarra, M.R., Prevot, A.S.H., Szidat, S., Sandradewi, J., Weimer, S., Lanz, V.A., Schreiber, D., Mohr, M., Balten- sperger, U., 2007. Identification of the mass spectral signature of organic aerosols from wood burning emissions. Environ- mental Science and Technology 41 (16), 5770-5777.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The dark side of aerosols",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Andreae",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Nature",
+                "volume": "409",
+                "issue": "",
+                "pages": "671--672",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Andreae, M.O., 2001. The dark side of aerosols. Nature 409, 671-672.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "ANU Graubu\u00a8nden (the Office of Nature and Environment of Canton Graubu\u00a8nden), Annual PM 10 Concentration Since",
+                "authors": [],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "ANU Graubu\u00a8nden (the Office of Nature and Environment of Canton Graubu\u00a8nden), Annual PM 10 Concentration Since 1990. /http://www.gr-luft.ch/S.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Towards aerosol light-absorption measurements with a 7-wavelength Aethalometer: evaluation with a Photoacoustic instrument and 3-wavelength Nephelometer",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Arnott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hamasha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Moosmu\u00a8ller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Sheridan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ogren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Aerosol Science and Technology",
+                "volume": "39",
+                "issue": "",
+                "pages": "17--29",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Arnott, W.P., Hamasha, K., Moosmu\u00a8ller, H., Sheridan, P.J., Ogren, J.A., 2005. Towards aerosol light-absorption measure- ments with a 7-wavelength Aethalometer: evaluation with a Photoacoustic instrument and 3-wavelength Nephelometer. Aerosol Science and Technology 39, 17-29.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Fine and ultrafine particles in the Zu\u00a8rich (Switzerland) area measured with a mobile laboratory: an assessment of the seasonal and regional variation throughout a year",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Bukowiecki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Dommen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Pre\u00b4vo\u02c6t",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Weingartner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Baltensperger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Atmospheric Chemistry and Physics",
+                "volume": "3",
+                "issue": "",
+                "pages": "1477--1494",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bukowiecki, N., Dommen, J., Pre\u00b4vo\u02c6t, A.S.H., Weingartner, E., Baltensperger, U., 2003. Fine and ultrafine particles in the Zu\u00a8rich (Switzerland) area measured with a mobile laboratory: an assessment of the seasonal and regional variation throughout a year. Atmospheric Chemistry and Physics 3, 1477-1494.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Saharan dust events at the Jungfraujoch: detection by wavelength dependence of the single scattering albedo and first climatology analysis",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Collaud Coen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Weingartner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Schaub",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hueglin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Corrigan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Henning",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schwikowski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Baltensperger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Atmospheric Chemistry and Physics",
+                "volume": "4",
+                "issue": "",
+                "pages": "2465--2480",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Collaud Coen, M.C., Weingartner, E., Schaub, D., Hueglin, C., Corrigan, C., Henning, S., Schwikowski, M., Baltensperger, U., 2004. Saharan dust events at the Jungfraujoch: detection by wavelength dependence of the single scattering albedo and first climatology analysis. Atmospheric Chemistry and Phy- sics 4, 2465-2480.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Humidification factors from laboratory studies of fresh smoke from biomass fuels",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Day",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Carrico",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Engling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Malm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Geophysical Research",
+                "volume": "111",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Day, D.E., Hand, J.L., Carrico, C.M., Engling, G., Malm, W.C., 2006. Humidification factors from laboratory studies of fresh smoke from biomass fuels. Journal of Geophysical Research 111, D22202.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "An association between air pollution and mortality in six US cities",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Dockery",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Pope 3rd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Spengler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ware",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Fay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Ferris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Speizer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "The New England Journal of Medicine",
+                "volume": "329",
+                "issue": "24",
+                "pages": "1753--1759",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dockery, D.W., Pope 3rd, C.A., Xu, X., Spengler, J.D., Ware, J.H., Fay, M.E., Ferris Jr., B.G., Speizer, F.E., 1993. An association between air pollution and mortality in six US cities. The New England Journal of Medicine 329 (24), 1753-1759.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The Aethalometer calibration and determination of iron concentration in dust aerosols",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Fialho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Freitas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Barata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vieira",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "D A"
+                        ],
+                        "last": "Hansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Honrath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of Aerosol Science",
+                "volume": "37",
+                "issue": "11",
+                "pages": "1497--1506",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Fialho, P., Freitas, M.C., Barata, F., Vieira, B., Hansen, A.D.A., Honrath, R.E., 2006. The Aethalometer calibration and determination of iron concentration in dust aerosols. Journal of Aerosol Science 37 (11), 1497-1506.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "The VOTALP Mesolcina Valley Campaign 1996-concept, background and some highlights",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Furger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Dommen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Graber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Poggio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Pre\u00b4vo\u02c6t",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Emeis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Grell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Trickl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Gomiscek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Neininger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Wotawa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Atmospheric Environment",
+                "volume": "34",
+                "issue": "",
+                "pages": "1395--1412",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Furger, M., Dommen, J., Graber, W.K., Poggio, L., Pre\u00b4vo\u02c6t, A.S.H., Emeis, S., Grell, G., Trickl, T., Gomiscek, B., Neininger, B., Wotawa, G., 2000. The VOTALP Mesolcina Valley Campaign 1996-concept, background and some highlights. Atmospheric Environment 34, 1395-1412.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Optical, physical, and chemical properties of tar balls observed during the Yosemite Aerosol Characterization Study",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Malm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Laskin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Day",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Carrico",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Carrillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Cowin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Collett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Iedema",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Geophysical Research",
+                "volume": "110",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hand, J.L., Malm, W.C., Laskin, A., Day, D., Lee, T., Wang, C., Carrico, C., Carrillo, J., Cowin, J.P., Collett Jr., J., Iedema, M.J., 2005. Optical, physical, and chemical properties of tar balls observed during the Yosemite Aerosol Characterization Study. Journal of Geophysical Research 110, D21210.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Chemical and physical characterization of emissions from birch wood combustion in a wood stove",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hedberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kristensson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ohlsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Johansson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P.-A",
+                        "middle": [],
+                        "last": "Johansson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Swietlicki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Vesely",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Wideqvist",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Westerholm",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Atmospheric Environment",
+                "volume": "36",
+                "issue": "",
+                "pages": "4823--4837",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hedberg, E., Kristensson, A., Ohlsson, M., Johansson, C., Johansson, P.-A., Swietlicki, E., Vesely, V., Wideqvist, U., Westerholm, R., 2002. Chemical and physical characteriza- tion of emissions from birch wood combustion in a wood stove. Atmospheric Environment 36, 4823-4837.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Quantification of topographic venting of boundary layer air to the free troposphere",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Henne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Furger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nyeki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Steinbacher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Neininger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "F J"
+                        ],
+                        "last": "De Wekker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Dommen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Spichtinger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Stohl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Pre\u00b4vo\u02c6t",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Atmospheric Chemistry and Physics",
+                "volume": "4",
+                "issue": "",
+                "pages": "497--509",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Henne, S., Furger, M., Nyeki, S., Steinbacher, M., Neininger, B., de Wekker, S.F.J., Dommen, J., Spichtinger, N., Stohl, A., Pre\u00b4vo\u02c6t, A.S.H., 2004. Quantification of topographic venting of boundary layer air to the free troposphere. Atmospheric Chemistry and Physics 4., 497-509.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Optical properties of humic-like substances (HULIS) in biomassburning aerosols",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hoffer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gelencse\u00b4r",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Guyon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Kiss",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Schmid",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Frank",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Artaxo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Andreae",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Atmospheric Chemistry and Physics",
+                "volume": "6",
+                "issue": "",
+                "pages": "3563--3570",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hoffer, A., Gelencse\u00b4r, A., Guyon, P., Kiss, G., Schmid, O., Frank, G.P., Artaxo, P., Andreae, M.O., 2006. Optical properties of humic-like substances (HULIS) in biomass- burning aerosols. Atmospheric Chemistry and Physics 6, 3563-3570.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Climate Change 2007: The Physical Science Basis-Summary for Policymakers",
+                "authors": [],
+                "year": 2007,
+                "venue": "IPCC",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "IPCC, 2007. Climate Change 2007: The Physical Science Basis- Summary for Policymakers [Online]. Available from: /www.ipcc.ch/SPM2feb07.pdfS.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Evolution of the urban aerosol during winter temperature inversion episodes",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Janha\u00a8ll",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "F G"
+                        ],
+                        "last": "Olofson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Andersson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B C"
+                        ],
+                        "last": "Pettersson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hallquist",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Atmospheric Environment",
+                "volume": "40",
+                "issue": "",
+                "pages": "5355--5366",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Janha\u00a8ll, S., Olofson, K.F.G., Andersson, P.U., Pettersson, J.B.C., Hallquist, M., 2006. Evolution of the urban aerosol during winter temperature inversion episodes. Atmospheric Environment 40, 5355-5366.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "The comparison between thermal-optical transmittance elemental carbon and Aethalometer black carbon measured at multiple monitoring sites",
+                "authors": [
+                    {
+                        "first": "C.-H",
+                        "middle": [],
+                        "last": "Jeong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Hopke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D.-W",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Atmospheric Environment",
+                "volume": "38",
+                "issue": "",
+                "pages": "5193--5204",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jeong, C.-H., Hopke, P.K., Kim, E., Lee, D.-W., 2004. The comparison between thermal-optical transmittance elemental carbon and Aethalometer black carbon measured at multiple monitoring sites. Atmospheric Environment 38, 5193-5204.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Emission characteristics of modern and old-type residential boilers fired with wood logs and wood pellets",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Johansson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Leckner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Gustavsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cooper",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tullin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Potter",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Atmospheric Environment",
+                "volume": "38",
+                "issue": "",
+                "pages": "4183--4195",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Johansson, L.S., Leckner, B., Gustavsson, L., Cooper, D., Tullin, C., Potter, A., 2004. Emission characteristics of modern and old-type residential boilers fired with wood logs and wood pellets. Atmospheric Environment 38, 4183-4195.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "On-road measurement of fine particle and nitrogen oxide emissions from light-and heavyduty motor vehicles",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Kirchstetter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Harley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kreisberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Stolzenburg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Hering",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Atmospheric Environment",
+                "volume": "33",
+                "issue": "",
+                "pages": "2955--2968",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kirchstetter, T.W., Harley, R.A., Kreisberg, N.M., Stolzenburg, M.R., Hering, S.V., 1999. On-road measurement of fine particle and nitrogen oxide emissions from light-and heavy- duty motor vehicles. Atmospheric Environment 33, 2955-2968.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Evidence that the spectral dependence of light absorption by aerosols is affected by organic carbon",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Kirchstetter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Novakov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Hobbs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Journal of Geophysical Research",
+                "volume": "109",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kirchstetter, T.W., Novakov, T., Hobbs, P.V., 2004. Evidence that the spectral dependence of light absorption by aerosols is affected by organic carbon. Journal of Geophysical Research 109, D21208.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Physicochemical characterisation of combustion particles from vehicle exhaust and residential wood smoke",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kochbach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Yttri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Cassee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Schwarze",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Namork",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Particle and Fibre Toxicology",
+                "volume": "3",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kochbach, A., Li, Y., Yttri, K.E., Cassee, F.R., Schwarze, P.E., Namork, E., 2006. Physicochemical characterisation of combustion particles from vehicle exhaust and residential wood smoke. Particle and Fibre Toxicology 3, 1.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "The emissions from a space-heating biomass stove",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Koyuncu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Pinar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Biomass and Bioenergy",
+                "volume": "31",
+                "issue": "1",
+                "pages": "73--79",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Koyuncu, T., Pinar, Y., 2007. The emissions from a space-heating biomass stove. Biomass and Bioenergy 31 (1), 73-79.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Reduction in fine particulate air pollution and mortality",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Laden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Schwarzt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Speizer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Dockery",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "American Journal of Respiratory and Critical Care Medicine",
+                "volume": "173",
+                "issue": "6",
+                "pages": "667--672",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Laden, F., Schwarzt, J., Speizer, F.E., Dockery, D.W., 2006. Reduction in fine particulate air pollution and mortality. American Journal of Respiratory and Critical Care Medicine 173 (6), 667-672.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Comparison of continuous and filter-based carbon measurements at the Fresno Supersite",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Chow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Watson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Trimble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Doraiswamy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Arnott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Stroud",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Bowers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bode",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Petzold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "D A"
+                        ],
+                        "last": "Hansen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Journal of the Air and Waste Management Association",
+                "volume": "56",
+                "issue": "",
+                "pages": "474--491",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Park, K., Chow, J.C., Watson, J.G., Trimble, D.L., Doraiswamy, P., Arnott, W.P., Stroud, K.R., Bowers, K., Bode, R., Petzold, A., Hansen, A.D.A., 2006. Comparison of contin- uous and filter-based carbon measurements at the Fresno Supersite. Journal of the Air and Waste Management Association 56, 474-491.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Potential adverse health effects of wood smoke",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Pierson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Q"
+                        ],
+                        "last": "Koenig",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Bardana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Western Journal of Medicine",
+                "volume": "151",
+                "issue": "3",
+                "pages": "339--342",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pierson, W.E., Koenig, J.Q., Bardana Jr., E.J., 1989. Potential adverse health effects of wood smoke. Western Journal of Medicine 151 (3), 339-342.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Lung cancer, cardiopulmonary mortality, and long-term exposure to fine particulate air pollution",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Pope 3rd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Burnett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Thun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Calle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Krewski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Ito",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Thurston",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "The Journal of the American Medical Association",
+                "volume": "287",
+                "issue": "9",
+                "pages": "1132--1141",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pope 3rd, C.A., Burnett, R.T., Thun, M.J., Calle, E.E., Krewski, D., Ito, K., Thurston, G.D., 2002. Lung cancer, cardiopul- monary mortality, and long-term exposure to fine particulate air pollution. The Journal of the American Medical Associa- tion 287 (9), 1132-1141.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Diurnal variations of volatile organic compounds and local circulation systems in an Alpine valley",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Pre\u00b4vo\u02c6t",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Dommen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ba\u00a8umle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Furger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Atmospheric Environment",
+                "volume": "34",
+                "issue": "",
+                "pages": "1413--1423",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pre\u00b4vo\u02c6t, A.S.H., Dommen, J., Ba\u00a8umle, M., Furger, M., 2000a. Diurnal variations of volatile organic compounds and local circulation systems in an Alpine valley. Atmospheric Envir- onment 34, 1413-1423.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Influence of road traffic on volatile organic compound concentrations in and above a deep Alpine valley",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Pre\u00b4vo\u02c6t",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Dommen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ba\u00a8umle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Atmospheric Environment",
+                "volume": "34",
+                "issue": "",
+                "pages": "4719--4726",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pre\u00b4vo\u02c6t, A.S.H., Dommen, J., Ba\u00a8umle, M., 2000b. Influence of road traffic on volatile organic compound concentrations in and above a deep Alpine valley. Atmospheric Environment 34, 4719-4726.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Spectral light absorption by ambient aerosols influenced by biomass burning in the Amazon Basin. I: Comparison and field calibration of absorption measurement techniques",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Schmid",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Artaxo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Arnott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Chand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Gatti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Frank",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hoffer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schnaiter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Andreae",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Atmospheric Chemistry and Physics",
+                "volume": "6",
+                "issue": "",
+                "pages": "3443--3462",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schmid, O., Artaxo, P., Arnott, W.P., Chand, D., Gatti, L.V., Frank, G.P., Hoffer, A., Schnaiter, M., Andreae, M.O., 2006. Spectral light absorption by ambient aerosols influenced by biomass burning in the Amazon Basin. I: Comparison and field calibration of absorption measurement techniques. Atmospheric Chemistry and Physics 6, 3443-3462.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "UV-VIS-NIR spectral optical properties of soot and soot-containing aerosols",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schnaiter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Horvath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Mo\u00a8hlter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-H",
+                        "middle": [],
+                        "last": "Naumann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Saafhoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Scho\u00a8ck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Aerosol Science",
+                "volume": "34",
+                "issue": "",
+                "pages": "1421--1444",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schnaiter, M., Horvath, H., Mo\u00a8hlter, O., Naumann, K.-H., Saafhoff, H., Scho\u00a8ck, O.W., 2003. UV-VIS-NIR spectral optical properties of soot and soot-containing aerosols. Journal of Aerosol Science 34, 1421-1444.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Absorption amplification of black carbon internally mixed with secondary organic aerosols",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schnaiter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Linke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Mo\u00a8hler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K.-H",
+                        "middle": [],
+                        "last": "Naumann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Saathoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Wagner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schurath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Wehner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Journal of Geophysical Research",
+                "volume": "110",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schnaiter, M., Linke, C., Mo\u00a8hler, O., Naumann, K.-H., Saathoff, H., Wagner, R., Schurath, U., Wehner, B., 2005. Absorption amplification of black carbon internally mixed with secondary organic aerosols. Journal of Geophysical Research 110, D19204.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Nucleation particles in diesel exhaust: composition inferred from in situ mass spectrometric analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Hock",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Weimer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Borrmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Environmental Science and Technology",
+                "volume": "39",
+                "issue": "",
+                "pages": "6153--6161",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schneider, J., Hock, N., Weimer, S., Borrmann, S., 2005. Nucleation particles in diesel exhaust: composition inferred from in situ mass spectrometric analysis. Environmental Science and Technology 39, 6153-6161.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Dominant impact of residential wood burning on particulate matter in Alpine valleys during winter",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Szidat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S H"
+                        ],
+                        "last": "Pre\u00b4vo\u02c6t",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Sandradewi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Alfarra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "- A"
+                        ],
+                        "last": "Synal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Wacker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Baltensperger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Geophysical Research Letters",
+                "volume": "34",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Szidat, S., Pre\u00b4vo\u02c6t, A.S.H., Sandradewi, J., Alfarra, M.R., Synal, H-.A., Wacker, L., Baltensperger, U., 2007. Dominant impact of residential wood burning on particulate matter in Alpine valleys during winter. Geophysical Research Letters 34, L05820.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Absorption of light by soot particles: determination of the absorption coefficient by means of aethalometers",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Weingartner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Saathoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schnaiter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Streit",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Bitnar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Baltensperger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Journal of Aerosol Science",
+                "volume": "34",
+                "issue": "",
+                "pages": "1445--1463",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weingartner, E., Saathoff, H., Schnaiter, M., Streit, N., Bitnar, B., Baltensperger, U., 2003. Absorption of light by soot particles: determination of the absorption coefficient by means of aethalometers. Journal of Aerosol Science 34, 1445-1463.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "num": null,
+                "type_str": "figure",
+                "uris": null,
+                "fig_num": "2",
+                "text": "Diurnal variations of (i) solar radiation, (ii) ambient temperature, (iii) temperature inversion, (iv) relative humidity, (v) horizontal wind speed, (vi) PM 10 , (vii) CO, (viii) NO x , (ix) b abs (370 nm) and (x) b abs (880 nm). Solid black line, summer; dashed gray line, winter. Shown are median values as a function of local time (CET)."
+            },
+            "FIGREF1": {
+                "num": null,
+                "type_str": "figure",
+                "uris": null,
+                "fig_num": "3",
+                "text": "Winter Thirty-minute average time series of the absorption coefficients b abs (370 nm), b abs (880 nm) and the absorption exponent a (l \u00bc 370-950 nm), for the duration of the summer and winter campaigns. The horizontal black lines indicate the Sundays. Note the difference in the b abs scale between summer and winter."
+            },
+            "FIGREF2": {
+                "num": null,
+                "type_str": "figure",
+                "uris": null,
+                "fig_num": "4",
+                "text": "Boxplots of the absorption exponent a describing seasonal and diurnal variations. Black boxplot, winter; gray boxplot, summer. The horizontal thick bars represent the group medians. The vertical hinges represent data points from the lower to the upper quartile (i.e., 25th-and 75th-percentiles). The whiskers represent data points from the 5th-to 95th-percentiles."
+            },
+            "FIGREF3": {
+                "num": null,
+                "type_str": "figure",
+                "uris": null,
+                "fig_num": "56",
+                "text": "Examples of power law fits of data from a small wood fire in the laboratory and the Roveredo winter and summer campaigns. The solid lines were generated by fitting the absorption coefficients b abs over all seven wavelengths. The dashed lines correspond to power law fits of b abs over 370-520 or 660-950 nm. Winter and summer diurnal cycles of a 370-950 nm , a 370-520 nm and a 660-950 nm ."
+            },
+            "TABREF0": {
+                "num": null,
+                "type_str": "table",
+                "content": "<table><tr><td>Wavelengths (nm)</td></tr><tr><td>370 470 520 590 660 880 950</td></tr><tr><td>f values</td></tr><tr><td>Winter campaign 1.155 1.137 1.128 1.116 1.103 1.064 1.051</td></tr><tr><td>Summer campaign 1.141 1.132 1.127 1.120 1.114 1.093 1.086</td></tr></table>",
+                "text": "values used for calculating R(ATN)-correction of the shadowing effect of a loaded filter",
+                "html": null
+            },
+            "TABREF1": {
+                "num": null,
+                "type_str": "table",
+                "content": "<table><tr><td/><td>1.0E+05</td><td/></tr><tr><td/><td>8.0E+04</td><td/></tr><tr><td>]</td><td/><td/></tr><tr><td>dN/dlogD [cm -3</td><td>4.0E+04 6.0E+04</td><td/></tr><tr><td/><td>2.0E+04</td><td/></tr><tr><td/><td>0.0E+00</td><td/></tr><tr><td/><td>10</td><td>100</td><td>1000</td></tr><tr><td/><td/><td>D [nm]</td></tr></table>",
+                "text": "",
+                "html": null
+            },
+            "TABREF2": {
+                "num": null,
+                "type_str": "table",
+                "content": "<table><tr><td/><td/><td/><td/><td>1.2E+11</td><td/></tr><tr><td/><td/><td/><td>dV/dlogD [nm 3 /cm 3 ]</td><td>2.0E+10 4.0E+10 6.0E+10 8.0E+10 1.0E+11</td><td/></tr><tr><td/><td/><td/><td/><td>0.0E+00</td><td/></tr><tr><td/><td/><td/><td/><td>10</td><td>100</td><td>1000</td></tr><tr><td/><td/><td/><td/><td/><td>D [nm]</td></tr><tr><td/><td/><td>Roveredo summer June '05</td><td/><td/><td>Roveredo summer June '05</td></tr><tr><td/><td>1.2E+04</td><td/><td/><td>5.0E+10</td><td/></tr><tr><td/><td/><td/><td/><td>4.5E+10</td><td/></tr><tr><td>dN/dlogD [cm -3 ]</td><td>2.0E+03 4.0E+03 6.0E+03 8.0E+03 1.0E+04</td><td/><td>dV/dlogD [nm 3 /cm 3 ]</td><td>5.0E+09 1.0E+10 1.5E+10 2.0E+10 2.5E+10 3.0E+10 3.5E+10 4.0E+10</td><td/></tr><tr><td/><td>0.0E+00</td><td/><td/><td>0.0E+00</td><td/></tr><tr><td/><td>10</td><td>100</td><td>1000</td><td>10</td><td>100</td><td>1000</td></tr><tr><td/><td/><td>D [nm]</td><td/><td/><td>D [nm]</td></tr></table>",
+                "text": "",
+                "html": null
+            }
+        }
+    }
+}

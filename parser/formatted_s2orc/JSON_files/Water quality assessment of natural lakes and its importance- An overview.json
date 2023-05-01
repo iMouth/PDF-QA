@@ -1,0 +1,182 @@
+{
+    "paper_id": "Water quality assessment of natural lakes and its importance- An overview",
+    "title": "Water quality assessment of natural lakes and its importance: An overview",
+    "abstract": "The proportion of freshwater on earth's surface is only 2.5% of which only 1% is accessible for use. In this context, lakes are one of the most important water resources and have been used as a source of water supply for human consumption and in general accounts for about 0.3% of the total surface water body sources. As such, the conditions of lakes have been in constant deterioration due to increased anthropogenic activities surrounding them. In principle, the quality of lake water (or other surface sources) is evaluated using various physico-chemical and biological parameters selected on the Designated Best Use (DBU) of the water body (lake) for various purposes. Consequently, the use of Water Quality Index (WQI) is an important tool used for designating the quality of lake water. In general, natural lakes are confined bodies of water lacking a strong flow for self-cleansing of its water and therefore leading to accumulation of various impurities. In such cases, the quality of these impurities are determined using different indices like Heavy Metal Index (for heavy metals), eutrophication potential (due to nutrients) and other associated indices system. The determination of existing properties helps in determination of future trends of such pollutants and thereby the quality of the lake water in future scenario. Different modelling techniques are used for prediction of futuristic changes in lake water quality including watershed models, ground water models and lake models. The present study gives an overview and critically evaluates the literature on all aspects of water quality to give an insight of the various tools and techniques used for complete water quality monitoring and management.",
+    "question_answer_pairs": [
+        {
+            "question": "What parameters determine water quality?",
+            "answers": [
+                "The water quality considers physical, chemical and biological parameters for defining the quality of water and its maintenance. The various parameters such as TDS, pH, Temperature, BOD, COD, Phosphorous, DO, Bacteria, Phytoplankton, SO 4 , Ca, Na, Mg, NO 3 , NO 2 , NH 4 , are determined and compared with the standard limits prescribed by agencies such as CPCB, WHO, BIS etc.. The variability of these components is then compared with the present standards to determine the usage for different purposes like drinking, bathing, fisheries, agriculture etc according to the guidelines prescribed by central board. The parameters create huge data sets therefore water quality Index is a method which presents the overall quality of water. There is large number of water quality indices available around globe used for various purposes such as surface water quality, irrigation, ground water quality, heavy metal determination, overall pollution determination, trophic status determination etc. The index value gives a single value which can be compared with the range values specified for classification of water quality as High, Medium or low respectively.",
+                "Therefore it can be concluded that a complete water quality criteria should not only include the basic water quality parameter determination but should involve a complete analysis of water quality comprising physical, chemical, biological and toxicological component analysis to determine all the potential uses of the water body.",
+                "The water quality in the water bodies is greatly dependent on the physical, chemical and biological parameters and their interaction with each other. According to [12] the lakes are a unique system to study the interactions among various water quality parameters since they offer a unique ecosystem quite different from land or air. There are quite a large number of physical, chemical and biological parameters which needs to be evaluated before deciding the specific usage of water. According to the water quality monitoring guidelines by Central Pollution Control Board of India [21] the parameters to be decided greatly depends upon the purpose for which water to be utilized in the society. Table 2 presents the parameters and their permissible values for various DBU of the present water sources. These above parameters need to be evaluated for the determination of best use of the water available around the place. The various physico-chemical and biological parameters are in relation to each other and the overall quality of water depends upon the deviation from the permissible range."
+            ]
+        },
+        {
+            "question": "Have microplastics increased in water sources? If so, what are the implications?",
+            "answers": [
+                "With increase in the globalization the use and production of plastic has significantly increased to 300 million tonnes globally which in past 50 years, the increased use of plastic generates a lot of waste which like other classes of waste does not degrade or rot therefore leading to a global accumulation of the plastic waste. This plastic usually washes away in the lakes or oceans through streams, rivers or small rivulets and end up being a part of the water bodies, with the action of wind, sunlight or disturbances by waves these plastics breakdown into smaller particles thereby getting to a size smaller than 5 mm and microplastics or secondary plastics [115] . The microplastics do not only affect the soil but also affects sediments, open waters, humans, animals and micro-organisms [116] .\"",
+                "333 mm mesh was used by [117] to take samples across Lake Laurentian and it was found to have about 43,000 microplastics/ km 2 and about 466,000 microplastics/km 2 downstream of 2 major cities. The Scanning Electron Microscope (SEM) technique was used to determine microplastics and it was found that the plastics were generally in form of microbeads originating from the packaging of consumer products originating from urban effluents.",
+                "In the study related to microplastic in Lake Winnipeg in Canada, [118] found that during the sampling duration of 2014 to 2016 the densities and the quantities of plastics were high as compared to Laurentian Great Lakes. The plastic was in the form of fibres known as secondary plastic. Though the effects of microplastics are unknown but it has been found to even exist around lakes with very sparse populations. The rivers are detected to be main source of carrying microplastics to the oceans and large sea. The lakes in remote areas also contain huge quantities of microplastics. The 2 lakes in Italy namely lake Bolsena and lake Chiusi were evaluated by [119] for microplastic contamination, themanta trawls approximately 6 in number were rotated around for determination of microplastic contents. The microplastics were found not only in the lake water but also in lake sediments. In lake Chiusi 2.68 to 3.36 particles/m 3 were found whereas in Lake Bolsena 0.82 to 4.42 particles/m 3 were detected. The factors such as location, type, wind intensity, waves, storm also determine the quantity of plastics in the lakes. The mean of 112 (Lake Bolsena) to 234 (Lake Chiusi) particles/kg was found. The Tibetan plateau which is known for sparse population and almost negligible human activities was also analysed by [120] for determining the microplastics in the Siling Co basin of the Plateau, the microplastics were confirmed in 6 out of 7 sites ranging from 8 ± 14 to 563 ± 1219 items/m 2 . River input is thought to be the main cause of the plastics in the lake. The nature of plastic is found to be generally packing and daily plastic products. Raman spectroscopyand SEM techniques were used for determining the texture of the microplastics. China's largest lake, Qinghai Lake was evaluated for presence of microplastics by [121] . The abundance of 0.03 Â 10 5 to 0.31 Â 10 5 items/km 2 in the inflowing rivers, 50 to 1292 items/m 2 in sediments and 2-15 items/m 2 i n fish respectively. Table 5 Comparison of Few studies in the above section in terms of Heavy metal values determined.",
+                "The effect of microplastics on the lakes have been studied in a limited amount throughout globe specially in India therefore it is important to practice the waste management appropriately to avoid these harmful components into the water, soil, sediments etc. which might pose a threat to the well being of humans and animals."
+            ]
+        },
+        {
+            "question": "How are heavy metals determined and how are they indexed?",
+            "answers": []
+        }
+    ],
+    "body_text": [
+        {
+            "section": "Introduction",
+            "text": "Water contains many nutrients and minerals and is of primary importance in human life [1] . In the past few years strict regulations and control have increased rapidly in monitoring of surface water bodies due to deteriorating environmental concerns. The quality of the lake water is dependent on the geological structure of earth and also on the anthropogenic activities surrounding it such as construction, waste dumping, agriculture and other associated activities [2] [3] [4] [5] as these destroy the potential use of water [6] . As the water percolates through the soil it adds into itself a large amount of soluble and insoluble substances which alters the properties of the water making it less potable and in some cases unpalatable [7] [8] [9] . In essence, the variations in physico-chemical properties fluctuate on both temporal and spatial scales [10, 11] . The surface water bodies such as lakes, rivers and springs are the important sources of fresh water [12] . The insufficiency in the surface water resources makes the people dependent on the groundwater for the regular water supply. In this context, lakes are one of the most important water resources and are classified as either man made or natural and have been used as a source of water supply for human consumption [13] . The imbalance on the water inflow and outflow could lead to cultural Eutrophication in these lakes [14] . The nutrients enter into the lake water through disposal of human excreta and agricultural wastes which are rich in fertilizers containing nitrogen, phosphorous and potassium with phosphorous being the major factor limiting the growth of algae and eutrophication in lake water [15] . With water scarcity being already an important environmental problem the present focus is on improvement in the quality of existing water sources particularly lakes by means of characterization for improving and restora-tion of the water quality [16] .The water quality is defined on the physico-chemical parametric values determined [17] . The parametric values reveal the present status of the water body and the prolonged evaluations of these parameters easily depict the hydrological modifications taking place in the water bodies [18] . Table 1 presents the permissible standards for drinking water quality as per Bureau of Indian Standards (BIS) [19] . The water quality may be evaluated on the basis of requirements of one or more species such as flora, fauna or human beings [20] ."
+        },
+        {
+            "section": "Water quality parameters, significance and effects in determination of water quality",
+            "text": "The water quality in the water bodies is greatly dependent on the physical, chemical and biological parameters and their interaction with each other. According to [12] the lakes are a unique system to study the interactions among various water quality parameters since they offer a unique ecosystem quite different from land or air. There are quite a large number of physical, chemical and biological parameters which needs to be evaluated before deciding the specific usage of water. According to the water quality monitoring guidelines by Central Pollution Control Board of India [21] the parameters to be decided greatly depends upon the purpose for which water to be utilized in the society. Table 2 presents the parameters and their permissible values for various DBU of the present water sources. These above parameters need to be evaluated for the determination of best use of the water available around the place. The various physico-chemical and biological parameters are in relation to each other and the overall quality of water depends upon the deviation from the permissible range."
+        },
+        {
+            "section": "Water quality parameters, significance and effects in determination of water quality",
+            "text": "In this context, Table 2 summarizes important parameters in a lake ecosystem and their relation to each other as well as an identity to the overall condition of the water in the lake. The increase or decrease in the value of parameters causes a significant effect on the other parameters thereby affecting the overall quality of the water body which in turn results in the overall change in the characteristics of a water body. Table 2 above gives the interdependency of parameters on each other as well as their effect on the properties of lake water. The parameters are interrelated to each other and therefore affect the overall quality of lake water."
+        },
+        {
+            "section": "Water quality indices for assessment of lake water quality",
+            "text": "The presence of large number of sites within lake system leads to monitoring of samples from different locations which creates huge databank and which are difficult to analyse, hence we need simple tools for interpretation of the results for understanding the water quality for both the common public and for regulatory bodies [45] . The Water Quality Index (WQI) is one such tool which could be used for analysis of this complex data, wherein individual parameter are determined and assigned a certain weightage and the WQI is calculated depending on the chosen method."
+        },
+        {
+            "section": "Water quality indices for assessment of lake water quality",
+            "text": "There are a large number Water Quality Indexes available globally, based on the different physico-chemical parameters and the purpose of the study and the best fit index is chosen [46] . There is no prominent identification of any WQI techniques to give out best results but different water quality indices are available and can be evaluated for determining overall water quality of lake water and which might be suitable for different purposes [47] ."
+        },
+        {
+            "section": "Water quality indices for assessment of lake water quality",
+            "text": "The main problems with water quality indexing are eclipsing and ambiguity which raise concerns about the limitations, opacity and misinterpretations that can take place in these indices which are generally based on aggregation methods [48] . The term ambiguity clearly means that the process of indexing cannot be solved in fixed number of steps and might need additional number of steps with extra interpretations. There can be an ambiguity related to measurement of parameters or due to spatial distributions in the water body which are generally not considered in case of traditional water quality index [49] . Rigidity of parameters is another problem of these indices as the additional parameters other than the existing ones; therefore the water quality index aggregation used for one area might be ambiguous for other areas [50, 51] . Rigidity is based on parameters used in indices, when area demands utilization of extra parameters for a certain water quality issue determination in concerned area but the WQI does not allow doing so then the rigidity factor comes into play. There is no scope for additional parameters to be included. Table 3 presents an insight of WQI used around the globe along with the concerned parameters measured their permissible limits and the area of application."
+        },
+        {
+            "section": "Water quality indices for assessment of lake water quality",
+            "text": "The parameter are of the concerned water quality index and does not consider any hard and fast rule but is exclusive of the concerned water quality index being used for the determination of water quality of the water body of the area."
+        },
+        {
+            "section": "Trophic status of lakes and its determination",
+            "text": "The natural lakes are stationary water bodies which lack any direct contact with any water body such as ocean [12] . The physical, chemical and biological properties are limited within lake ecosystem. The lack of heavy inflow and outflow leads to increase in the nutrient status of lakes. The lakes are also classified based on their nutrient status as oligotrophic with low productivity, mesotrophic with intermediate productivity, eutrophic with high productivity due to increase in nitrogen and phosphorous concentrations leading to growth of aquatic plants making the water clear or increase in algae making the water black in colour and hyper-eutrophic with high levels of chlorophyll and phosphorous leading to excessive algal blooms and formation of dead zones [12] ."
+        },
+        {
+            "section": "Trophic status of lakes and its determination",
+            "text": "A trophic state index was developed by [15] using a numerical approach to determine the trophic status of lake. The index serves as a tool for trophic state investigations. Table 4 below gives a summary of the trophic status of various tropical and subtropical lakes around the globe along with the different parameters that can be used for the determination of trophic status of these lakes."
+        },
+        {
+            "section": "Trophic status of lakes and its determination",
+            "text": "From the above discussions it can be concluded that out of the above parameters that can be used for the determination of trophic status of a water body the major parameters that can be considered are Secchi disk depth, total phosphorous, Chlorophyll a and Total Nitrogen. The major portion of above studies has considered these parameters as important for trophic status evaluation. Table 1 Parameters for drinking water quality according to BIS."
+        },
+        {
+            "section": "Chemical parameters",
+            "text": "Standards (BIS)"
+        },
+        {
+            "section": "Chemical parameters",
+            "text": "pH 6.5-8.5 Total dissolved solids (mg/L) 500 Chloride (mg/L) 250 Fluoride (mg/L) 1 Nitrate (mg/L) 45 Sulphate (mg/L) 200 Bicarbonate (mg/L) 200 Calcium (mg/L) 75 Magnesium (mg/L) 30 Total Hardness (as CaCo 3 ) (mg/L) 200"
+        },
+        {
+            "section": "Heavy metal determination and indexing",
+            "text": "Heavy metals are usually measured by measuring their concentration in water [93] . The quality of water is therefore influenced by the excessive concentration of heavy metals in water. The various human activities such as industrialization, urbanization, enhanced agricultural activities which input heavy loads of sewage, waste industrial water and harmful chemicals into lakes leading to heavy metal accumulation in the environment [94] . This input for large durations lead to bioaccumulation of toxic metals into the ecosystem and food chains causing harm to organisms and plants [95] . Table 5 represents the summary of few studies in terms of heavy metal values determined by the authors and their comparison with the standard permissible limits. The concentration of various heavy metals such as Pb, Zn, Cd, Mn, Fe, Ni, Cr, Cu, Co, As, and Hg were taken from the studies referred in above section. Altenworth Reservoir Danube [96] , Dasarhalli Tank, Bangalore [97] , Subarnarekha River [98] , Akkulam-Veli lake [99] , Ismailia Canal Egypt [79] , Harike Wetland [100] , Haihe Basin [101] , 110 lakes of China [102] were few of the major study areas included above."
+        },
+        {
+            "section": "Heavy metal determination and indexing",
+            "text": "The maximum numbers of heavy metals exceeding the permissible limits were associated with 110 lakes of China, almost all the parameters were beyond permissible limits. The next was Table 2 Water quality parameters, their inter-relationships and their effects on water quality."
+        },
+        {
+            "section": "Parameter",
+            "text": "Permissible range Effect Reasoning References"
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The temperature effects dissolved oxygen"
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The raise in temperature leads to decrease in the amount of dissolved oxygen and other gases due to decrease in molecular forces of attraction between gas molecules. The decrease in the temperature on the other hand increases the amount of D.O. in water which in turn affects the biodiversity in water as well as other chemical reactions."
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "[ The increase in BOD clearly shows high level of organic pollution in water. The increased input of waste water can lead to decrease in DO and fish killing. The microorganisms utilise the oxygen of water to degrade the waste of the surface water body to release the energy for their growth and reproduction thereby increasing BOD levels and decreasing the levels of oxygen in water. Chlorine can be used to treat this water but needs to be neutralized at supply end."
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "[31, 32 31,33] Phosphorous (P), Nitrate (NO 3 ) and Ammonia (NH 4 ),"
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "Sulphate (So 4 ) 100mg/L 400mg/L"
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The inorganic nutrients in the water dissolved leads to increase in the productivity of lakes."
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The discharge of sewage water, runoff from agricultural fields sprayed with fertilizers and pesticides can lead to input of inorganic nutrients into the soil which promote the productivity of lakes and hence growth of algal blooms similarly as for crops."
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "[ The waste water runoff into lakes increases the levels of bacteria."
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The faecal coliform bacteria are introduced into the surface waters from the inflow of waste waters into the surface waters thereby reducing the potability of water by introduction of various fatal diseases. [38, 39, 40, 41] Planktons The increased nutrient contents in water from agricultural runoffs or waste water inputs induce growths of planktons"
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The planktons or algae are green microscopic plants which feed on the nutrients and utilise the sunlight to produce large algal blooms reducing the overall dissolved oxygen in the lower layers of lake leading to harmful effects on plants and animals in lower layers. They are most sensitive species and therefore can be an indicator for water quality. [35, 42, 43, 44] Akkulam-Veli lake in which all the heavy metal parameters for both seasons were found to be exceeding the prescribed limits. These lakes can be considered as unfit for human use as well as for aquatic purpose. For Haiha Basin in China the parameters that were beyond permissible limits were Pb, Zn, Ni, Cr & Cu rest all parameters were within permissible limits. For the Ismailia Canal, Egypt only the Cd and Zn were found to be beyond permissible limits. The total Fe was higher in Dasarhalli Tank in Banglore and rest all parameters were within range. The same was applicable to Subarnarekha river. From the above discussions we can conclude that the heavy metals are the one of the major factors that contributes to deterioration of water quality of water bodies to an extent making it non potable. The major heavy metals contributing to toxicity in water bodies are Pb, Zn, Cd, Mn, Fe, Ni, Cr, Cu, Co, As, Hg provided that their quantity increases the permissible limits in water. Though they are trace metals present in surface as well as ground waters but a sudden increase or decrease in the quantity can lead to serious effects on human as well as animal health."
+        },
+        {
+            "section": "Temperature 18¯C to 22¯C",
+            "text": "The increased use of water containing high content of heavy metals if for prolonged periods in agriculture does not only cause permanent damage to the plants and soil of the area, but also affects the activities and size of the soil microorganisms [103] . The heavy metals such asCo, Cu, Fe, Mn, Mo, Ni and Zn are very useful for plant growth and sustenance but their increased amount create toxicity inside the plants, the other heavy metals such as As, Cd, Hg, Pb or Se are not even contributors to plants growth and sustenance [104, 105] . The heavy metals are resistant to bacteriological degradation and therefore leads to bioaccumulation in aquatic food chains [106] , which creates ecological disturbance and degradation of ecological balance leading to limitations in diversity [107] . The heavy metals do not degrade in human body and keeps on accumulating in the soft tissues which creates impacts after years of exposure [108, 109] . The cadmium affects kidneys, liver, lungs brain and bones and the symptoms for poisoning include nausea, muscular weakness, cramps etc. [109] . Zinc is not toxic unless taken in excess amount leading to impaired growth and reproduction issues [110] . The symptoms for Zinc poisoning include bloody urine, kidney failure, vomiting etc [111] . The Cu intake may lead to nervous system failure and acute depression [110] . The effects of Nickel exposure varies from skin irritation to damage of lungs and mucous membrane [112] . The effects of lead on Kidney, brain and liver leading to sickness and death is prevalent at low concentrations also [113] . The chromium IV ions can lead to oxidation of blood if it gets into the membranes [114] . Mercury poisoning produces rashes in organs, pink disease and even total damage to the brain [111] . Arsenic being a poison at low levels affects immune systems to a level where immunity reduces to a greatly low level producing various disorders [111] . Therefore it becomes imperative from the perspective of water quality determination to evaluate heavy metal content in the water body."
+        },
+        {
+            "section": "Microplastic contamination in water sources",
+            "text": "With increase in the globalization the use and production of plastic has significantly increased to 300 million tonnes globally which in past 50 years, the increased use of plastic generates a lot of waste which like other classes of waste does not degrade or rot therefore leading to a global accumulation of the plastic waste. This plastic usually washes away in the lakes or oceans through streams, rivers or small rivulets and end up being a part of the water bodies, with the action of wind, sunlight or disturbances by waves these plastics breakdown into smaller particles thereby getting to a size smaller than 5 mm and microplastics or secondary plastics [115] . The microplastics do not only affect the soil but also affects sediments, open waters, humans, animals and micro-organisms [116] ."
+        },
+        {
+            "section": "Microplastic contamination in water sources",
+            "text": "333 mm mesh was used by [117] to take samples across Lake Laurentian and it was found to have about 43,000 microplastics/ km 2 and about 466,000 microplastics/km 2 downstream of 2 major cities. The Scanning Electron Microscope (SEM) technique was used to determine microplastics and it was found that the plastics were generally in form of microbeads originating from the packaging of consumer products originating from urban effluents."
+        },
+        {
+            "section": "Microplastic contamination in water sources",
+            "text": "In the study related to microplastic in Lake Winnipeg in Canada, [118] found that during the sampling duration of 2014 to 2016 the densities and the quantities of plastics were high as compared to Laurentian Great Lakes. The plastic was in the form of fibres known as secondary plastic. Though the effects of microplastics are unknown but it has been found to even exist around lakes with very sparse populations. The rivers are detected to be main source of carrying microplastics to the oceans and large sea. The lakes in remote areas also contain huge quantities of microplastics. The 2 lakes in Italy namely lake Bolsena and lake Chiusi were evaluated by [119] for microplastic contamination, themanta trawls approximately 6 in number were rotated around for determination of microplastic contents. The microplastics were found not only in the lake water but also in lake sediments. In lake Chiusi 2.68 to 3.36 particles/m 3 were found whereas in Lake Bolsena 0.82 to 4.42 particles/m 3 were detected. The factors such as location, type, wind intensity, waves, storm also determine the quantity of plastics in the lakes. The mean of 112 (Lake Bolsena) to 234 (Lake Chiusi) particles/kg was found. The Tibetan plateau which is known for sparse population and almost negligible human activities was also analysed by [120] for determining the microplastics in the Siling Co basin of the Plateau, the microplastics were confirmed in 6 out of 7 sites ranging from 8 ± 14 to 563 ± 1219 items/m 2 . River input is thought to be the main cause of the plastics in the lake. The nature of plastic is found to be generally packing and daily plastic products. Raman spectroscopyand SEM techniques were used for determining the texture of the microplastics. China's largest lake, Qinghai Lake was evaluated for presence of microplastics by [121] . The abundance of 0.03 Â 10 5 to 0.31 Â 10 5 items/km 2 in the inflowing rivers, 50 to 1292 items/m 2 in sediments and 2-15 items/m 2 i n fish respectively. Table 5 Comparison of Few studies in the above section in terms of Heavy metal values determined."
+        },
+        {
+            "section": "Metals (mg/L)",
+            "text": "Altenworth Reservoir Danube, Austria [96] Dasarhalli Tank, Banglore [97] Subarnareka River [98] Akkulan-Veli Lake (Avg.) [99] Ismailia Canal, Egypt [79] Harike Wetland [100] Haiha Basin, China (Avg.) [101] Lake sediments (110 lakes China) [102] T."
+        },
+        {
+            "section": "Metals (mg/L)",
+            "text": "D Small microplastics are present in lakes whereas large microplastics are present in rivers. The plastics were polyethylene and polypropylene as determined by Raman Spectroscopy. The centre of the lake contains high amount of plastics due to tourist effects. In Indian Context [122] studied the sediments of Vembanad lake of Kochi which is a freshwater system and a Ramsar Site. Density separation was used for separation of microplastics, Micro Raman Spectroscopy was used for identification of polymers. Low density polyethylene has been detected as prevalent type of microplastic posing a threat to the fish density in the lake, since the fish is the largest source of food and bioaccumulation of microplastics can be a threat due to non-reporting of effects till date."
+        },
+        {
+            "section": "Metals (mg/L)",
+            "text": "The effect of microplastics on the lakes have been studied in a limited amount throughout globe specially in India therefore it is important to practice the waste management appropriately to avoid these harmful components into the water, soil, sediments etc. which might pose a threat to the well being of humans and animals."
+        },
+        {
+            "section": "Conclusion",
+            "text": "The water quality considers physical, chemical and biological parameters for defining the quality of water and its maintenance. The various parameters such as TDS, pH, Temperature, BOD, COD, Phosphorous, DO, Bacteria, Phytoplankton, SO 4 , Ca, Na, Mg, NO 3 , NO 2 , NH 4 , are determined and compared with the standard limits prescribed by agencies such as CPCB, WHO, BIS etc.. The variability of these components is then compared with the present standards to determine the usage for different purposes like drinking, bathing, fisheries, agriculture etc according to the guidelines prescribed by central board. The parameters create huge data sets therefore water quality Index is a method which presents the overall quality of water. There is large number of water quality indices available around globe used for various purposes such as surface water quality, irrigation, ground water quality, heavy metal determination, overall pollution determination, trophic status determination etc. The index value gives a single value which can be compared with the range values specified for classification of water quality as High, Medium or low respectively."
+        },
+        {
+            "section": "Conclusion",
+            "text": "The complete water quality determination not only requires the physical, chemical and biological components but also requires assessment of toxicological components such as heavy metals and the heavy nutrients from use of pesticides and chemical fertilizers which even if exceeding the permissible limits in trace amounts can cause a great harm to not only the human beings but also aquatic animals and plants. The accumulation of these heavy metals can lead to bioaccumulation in the environment thereby entering the food chain and causing tremendous damage to health of humans, animals and plants. The nutrients produced from used of fertilizers and pesticides get washed up in the water bodies during monsoon and increase the productivity of the water bodies creating many detectable and non-detectable issue, one such issue being eutrophication which causes the excessive growth of algae and reduction in DO posing a harm to aquatic life. The study also discusses about microplastics in a small segment and their possible effects summarized in the literature."
+        },
+        {
+            "section": "Conclusion",
+            "text": "Therefore it can be concluded that a complete water quality criteria should not only include the basic water quality parameter determination but should involve a complete analysis of water quality comprising physical, chemical, biological and toxicological component analysis to determine all the potential uses of the water body."
+        },
+        {
+            "section": "CRediT authorship contribution statement",
+            "text": "Prachi Vasistha: Conceptualization, Writing -original draft. Rajiv Ganguly: Conceptualization, Supervision, Writing -review & editing."
+        },
+        {
+            "section": "Declaration of Competing Interest",
+            "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+        },
+        {
+            "section": "",
+            "text": "P. Vasistha, R. Ganguly / Materials Today: Proceedings 32 (2020) 544-552"
+        }
+    ]
+}
