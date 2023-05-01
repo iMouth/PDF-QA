@@ -1,0 +1,282 @@
+{
+  "evaluation": [
+    {
+      "title": "A study of wood burning and traffic aerosols in an Alpine valley using a multi-wavelength Aethalometer",
+      "info": [
+        {
+          "question": "What emissions are produced by burning wood?"
+        },
+        {
+          "question": "Does burning wood produce more NO than burning fossil fuels?"
+        },
+        {
+          "question": "What do aerosols do to the atmosphere?"
+        },
+        {
+          "question": "How does wood burning for heating affect aerosol particle accumulation in the air during the cold season?"
+        },
+        {
+          "question": "Can you explain the modified power law approximation of the aerosol light absorption?"
+        },
+        {
+          "question": "What are some of the organic compounds found in wood smoke aerosols and how do they affect light absorption?"
+        },
+        {
+          "question": "What are some of the specific adverse health effects associated with long-term exposure to combustion-related fine particulates?"
+        },
+        {
+          "question": "What is a dual wavelength Aethalometer, and how has it been used to study wood smoke aerosols?"
+        },
+        {
+          "question": "Can you explain the difference between UV- and near-infrared wavelengths and how they are used to measure light absorption in aerosols?"
+        },
+        {
+          "question": "How do the type of wood being burned and the combustion conditions affect the relative proportion of light absorbed in the UV- and near-IR wavelengths?"
+        },
+        {
+          "question": "How do wood burning and traffic emissions contribute to the variability of aerosol light absorption parameters at 370 and 880 nm?"
+        },
+        {
+          "question": "What are some of the challenges in reducing emissions from wood burning, and what are some potential solutions?"
+        },
+        {
+          "question": "Can you explain how humic-like substances (HULIS) in particulate matter from wood combustion can impact human health?"
+        }
+      ]
+    },
+    {
+      "title": "Water quality assessment of natural lakes and its importance- An overview",
+      "info": [
+        {
+          "question": "What is the significance of evaluating physical, chemical, and biological parameters before deciding the specific usage of water?"
+        },
+        {
+          "question": "What are the parameters that are considered for defining water quality and its maintenance?"
+        },
+        {
+          "question": "What is the water quality index, and how is it used to present the overall quality of water?"
+        },
+        {
+          "question": "How do microplastics end up in water bodies?"
+        },
+        {
+          "question": "What factors determine the quantity of plastics in lakes?"
+        },
+        {
+          "question": "What are the effects of microplastics on the environment?"
+        },
+        {
+          "question": "What are the effects of microplastics on human health?"
+        },
+        {
+          "question": "What are natural lakes and how are they classified based on their nutrient status?"
+        },
+        {
+          "question": "What is the trophic state index and how is it used to determine the trophic status of a lake?"
+        },
+        {
+          "question": "What are heavy metals and how are they measured in water?"
+        },
+        {
+          "question": "What human activities contribute to heavy metal accumulation in the environment?"
+        },
+        {
+          "question": "What are some of the health impacts associated with exposure to heavy metals in water?"
+        },
+        {
+          "question": "How does heavy metal bioaccumulation affect organisms and plants in food chains?"
+        }
+      ]
+    },
+    {
+      "title": "Contribution of arbuscular mycorrhizal symbiosis to plant growth under different types of soil stress",
+      "info": [
+        {
+          "question": "What is the order of the fungi that form non-specific symbioses with most terrestrial plants?"
+        },
+        {
+          "question": "How do fungal spores perceive the presence of the host plant?"
+        },
+        {
+          "question": "What are arbuscules and vesicles, and what is their role in the symbiosis between AM fungi and host plants?"
+        },
+        {
+          "question": "How can AM fungi enhance plant growth and production under soil stresses?"
+        },
+        {
+          "question": "What are some adverse effects of soil stresses on AM functioning and development?"
+        },
+        {
+          "question": "What are some of the specific plants that can grow under heavy metal stress?"
+        },
+        {
+          "question": "How does symbiosis with AM help metallophytes grow under heavy metal stress?"
+        },
+        {
+          "question": "Which families do most metallophytes belong to?"
+        },
+        {
+          "question": "Can plants that belong to non-mycorrhizal families develop symbioses with AM species?"
+        },
+        {
+          "question": "How can the ability of a plant to develop mycorrhizal symbiosis be improved under heavy metal stress?"
+        },
+        {
+          "question": "Which plants intensify their symbiosis with AM at the stage of high-nutrient demand?"
+        },
+        {
+          "question": "What is the importance of even low levels of symbiosis under heavy metal stress?"
+        },
+        {
+          "question": "What factors determine the alleviating potential of AM on heavy metal stress?"
+        },
+        {
+          "question": "How does AM affect the uptake of heavy metals by plants?"
+        },
+        {
+          "question": "How does the interaction between AM and stress level affect the alleviating effects of AM on plant growth?"
+        },
+        {
+          "question": "What are the factors that determine the stability of soil structure?"
+        },
+        {
+          "question": "How can unsuitable agricultural practices affect soil structure?"
+        },
+        {
+          "question": "How do AM fungi affect soil structure?"
+        },
+        {
+          "question": "What is glomalin, and how does it affect soil stability?"
+        },
+        {
+          "question": "How can tillage practices and crop rotation influence glomalin production and soil structural stability?"
+        },
+        {
+          "question": "What percentage of agricultural soils worldwide are salty or subject to salinity limit?"
+        },
+        {
+          "question": "How do arbuscular mycorrhizae (AM) enhance plant growth and crop production in salty soils?"
+        },
+        {
+          "question": "What are some mechanisms of salt tolerance in non-resistant AM species?"
+        },
+        {
+          "question": "How do plants adjust the K/Na ratio under salinity conditions with the help of AM?"
+        },
+        {
+          "question": "What are some adverse effects of salinity on AM symbiosis?"
+        },
+        {
+          "question": "What are some of the anatomical, physiological, and cellular mechanisms that plants use to alleviate osmotic stress caused by drought?"
+        },
+        {
+          "question": "How do mycorrhizal plants differ from non-mycorrhizal plants in terms of their ability to grow under water stress?"
+        },
+        {
+          "question": "What is the relationship between AM symbiosis and the absorption of N in plants under water stress?"
+        },
+        {
+          "question": "How can AM affect soil structure, and what is the significance of this for plant growth under water stress?"
+        },
+        {
+          "question": "What are some of the ways in which AM symbiosis enhances plant tolerance to drought stress?"
+        }
+      ]
+    },
+    {
+      "title": "Ageing and hearing loss",
+      "info": [
+        {
+          "question": "What is presbycusis, and what is its most common cause?"
+        },
+        {
+          "question": "What are the effects of presbycusis on speech discrimination, and at what frequency range do these effects typically occur?"
+        },
+        {
+          "question": "Can presbycusic threshold shifts fully account for speech understanding problems in elderly individuals, or are there other factors that contribute?"
+        },
+        {
+          "question": "What is the role of cognitive factors in speech-understanding difficulties related to presbycusis, and what is the current level of consensus on this issue?"
+        },
+        {
+          "question": "Where in the cochlea does age-related hearing loss typically occur, and what is the current level of controversy around this issue?"
+        },
+        {
+          "question": "What is the prevalence of HL in the US, and how is it expected to change in the coming years?"
+        },
+        {
+          "question": "What percentage of the total US population is projected to be aged 65 and older by the year 2025?"
+        },
+        {
+          "question": "What is the relative prevalence of presbycusis compared to other chronic health conditions in the elderly population?"
+        },
+        {
+          "question": "At what age does the prevalence of HL begin to accelerate, and what percentage of subjects aged 50-65 years have hearing thresholds greater than 30 dB in at least one ear?"
+        },
+        {
+          "question": "What are some potential public health implications of the increasing prevalence of HL in the elderly population?"
+        },
+        {
+          "question": "What are the three fluid-filled ducts in the cochlea?"
+        },
+        {
+          "question": "What is the composition of the endolymph in the cochlear ducts?"
+        },
+        {
+          "question": "How is the high positive resting potential of the endolymph maintained?"
+        },
+        {
+          "question": "What is the organ of Corti?"
+        },
+        {
+          "question": "How do cells in the rows of outer hair cells actively produce amplification or attenuation of the response of the inner hair cells?"
+        },
+        {
+          "question": "Are the age-related changes in hearing uniform, and what does this suggest about the pathology of presbycusis?"
+        },
+        {
+          "question": "What are the types of presbycusis identified by Schuknecht's scheme?"
+        },
+        {
+          "question": "What is metabolic or strial presbycusis, and how is it different from sensory presbycusis?"
+        },
+        {
+          "question": "What is the role of environmental and genetic factors in the development of presbycusis, and how do noise-induced hearing loss and ARHL interact?"
+        },
+        {
+          "question": "How heritable is presbycusis, and what percentage of the variance of ARHL is attributable to the effects of genes?"
+        },
+        {
+          "question": "What are some of the genetic factors that contribute to presbycusis in mice, and how do they relate to human presbycusis?"
+        },
+        {
+          "question": "Why is it difficult to study the effects of genes and environmental factors on presbycusis in human populations, and what alternative methods have been used to identify ARHL genes?"
+        },
+        {
+          "question": "What is the role of proteins in the cochlea?"
+        },
+        {
+          "question": "What are the different gene families involved in cochlear function?"
+        },
+        {
+          "question": "How many forms of non-syndromic hearing loss (NSHL) have been cloned so far?"
+        },
+        {
+          "question": "How many genes protect against oxidative stress and can be considered important candidates for presbycusis?"
+        },
+        {
+          "question": "How does oxidative stress play a role in the development of ARHL?"
+        },
+        {
+          "question": "What are the two classes of antioxidant enzymes active in the cochlea?"
+        },
+        {
+          "question": "How do genetic variations in the NAT genes confer susceptibility to oxidative stress and xenobiotic insult?"
+        },
+        {
+          "question": "What is the major target of free radical attack in presbycusis?"
+        }
+      ]
+    }
+  ]
+}
