@@ -13,11 +13,17 @@ import argparse
 import json
 import logging
 import os
+import requests
+
+
 
 import fastapi
 import httpx
 import uvicorn
 from pydantic import BaseSettings
+
+from fastapi.responses import StreamingResponse
+from typing import Iterator, Tuple,AsyncIterator
 
 from fastchat.protocol.chat_completion import (
     ChatCompletionRequest, ChatCompletionResponse, ChatMessage, ChatCompletionResponseChoice)
@@ -49,25 +55,30 @@ async def create_chat_completion(request: ChatCompletionRequest):
         max_tokens=request.max_tokens,
         stop=request.stop)
 
-    choices = []
-    # TODO: batch the requests. maybe not necessary if using CacheFlow worker
-    for i in range(request.n):
-        content = await chat_completion(request.model, payload, skip_echo_len)
-        choices.append(
-            ChatCompletionResponseChoice(
-                index=i,
-                message=ChatMessage(role="assistant", content=content),
-                # TODO: support other finish_reason
-                finish_reason="stop")
-        )
+    if request.stream:
+        return await stream_chat_completion(request.model, payload, skip_echo_len)
+    else:
+        choices = []
+        # TODO: batch the requests. maybe not necessary if using CacheFlow worker
+        for i in range(request.n):
+            content = await chat_completion(request.model, payload, skip_echo_len)
+            choices.append(
+                ChatCompletionResponseChoice(
+                    index=i,
+                    message=ChatMessage(role="assistant", content=content),
+                    # TODO: support other finish_reason
+                    finish_reason="stop")
+            )
 
-    # TODO: support usage field
-    # "usage": {
-    #     "prompt_tokens": 9,
-    #     "completion_tokens": 12,
-    #     "total_tokens": 21
-    # }
-    return ChatCompletionResponse(choices=choices)
+        # TODO: support usage field
+        # "usage": {
+        #     "prompt_tokens": 9,
+        #     "completion_tokens": 12,
+        #     "total_tokens": 21
+        # }
+        return ChatCompletionResponse(choices=choices)
+
+
 
 
 
@@ -121,7 +132,7 @@ def generate_payload(model_name: str, messages: List[Dict[str, str]],
     return payload, skip_echo_len
 
 
-async def chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_len: int):
+async def chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_len: int, stream: bool = False):
     controller_url = app_settings.FASTCHAT_CONTROLLER_URL
     async with httpx.AsyncClient() as client:
         ret = await client.post(controller_url + "/get_worker_address", json={"model": model_name})
@@ -136,8 +147,9 @@ async def chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_le
 
         output = ""
         delimiter = b"\0"
+
         async with client.stream("POST", worker_addr + "/worker_generate_stream",
-                                 headers=headers, json=payload, timeout=20) as response:
+                                    headers=headers, json=payload, timeout=20) as response:
             content = await response.aread()
 
         for chunk in content.split(delimiter):
@@ -148,8 +160,33 @@ async def chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_le
                 output = data["text"][skip_echo_len:].strip()
 
         return output
+        
 
+async def stream_chat_completion(model_name: str, payload: Dict[str, Any], skip_echo_len: int):
+    controller_url = app_settings.FASTCHAT_CONTROLLER_URL
 
+    async with httpx.AsyncClient() as client:
+        ret = await client.post(
+            controller_url + "/get_worker_address", json={"model": model_name}
+        )
+        worker_addr = ret.json()["address"]
+        # No available worker
+        if worker_addr == "":
+            raise ValueError(f"No available worker for {model_name}")
+
+        logger.debug(f"model_name: {model_name}, worker_addr: {worker_addr}")
+
+        request = httpx.Request("POST", worker_addr + "/worker_generate_stream", json=payload, headers=headers)
+        response = await client.send(request, stream=True)
+
+        async def content_stream():
+            async for chunk in response.aiter_raw():
+                if chunk:
+                    yield chunk + b"\0"
+
+        return StreamingResponse(content_stream(), media_type="text/event-stream")
+
+    
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="FastChat ChatGPT-compatible Restful API server.")
     parser.add_argument("--host", type=str, default="localhost", help="host name")
