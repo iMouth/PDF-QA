@@ -1,5 +1,12 @@
 # PDF-QA
 
+
+##Pipeline
+
+<img width="470" alt="Screen Shot 2023-05-03 at 6 21 54 PM" src="https://user-images.githubusercontent.com/44426186/236087015-db586fe2-5819-4009-8e8a-ad2a11fa19b3.png">
+
+
+
 ## How to Run
 
 1. Install [Docker](https://www.docker.com/) based on your operating system.
