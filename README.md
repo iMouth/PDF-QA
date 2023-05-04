@@ -1,10 +1,16 @@
 # PDF-QA
 
+## Demo
+
+![Demo](DEMO.gif)
+
+---
 
 ## Pipeline
 
 <img width="581" alt="Screen Shot 2023-05-03 at 6 24 42 PM" src="https://user-images.githubusercontent.com/44426186/236087542-92aa8ee2-62c4-42b3-abba-a5c0044472e4.png">
 
+---
 
 ## How to Run
 
